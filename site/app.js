@@ -119,10 +119,11 @@ function renderHeader() {
     `기준 날짜: ${y}년 ${m}월 ${d}일 (UTC)`,
     `마지막 갱신: ${data.generated_at.replace("T", " ").replace("Z", " UTC")} (${generated.toLocaleString("ko-KR", { timeZone: "Asia/Seoul" })} KST)`,
   ];
-  if (t.model) parts.push(`번역: ${t.model} (${t.translated}/${t.total})`);
+  const models = t.models || (t.model ? [t.model] : []);
+  if (t.translated) parts.push(`번역: ${models.join(", ")} (${t.translated}/${t.total})`);
   $("meta").textContent = parts.join(" · ");
-  if (!t.model || !t.complete) {
-    $("status").textContent = t.model
+  if (!t.complete) {
+    $("status").textContent = t.translated
       ? "일부 항목은 번역이 실패해 영어 원문으로 표시됩니다."
       : "번역 데이터가 없어 영어 원문으로 표시됩니다.";
   }

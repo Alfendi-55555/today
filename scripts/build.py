@@ -2,9 +2,9 @@
 
 환경 변수
   GEMINI_API_KEY  번역용 키. 없으면 번역을 건너뛰고 영어 원문만 저장한다.
-  GEMINI_MODEL    번역 모델 (기본값: gemini-2.5-flash)
+  GEMINI_MODEL    번역 모델, 쉼표로 여러 개 지정하면 순서대로 시도 (기본값: DEFAULT_MODELS)
   TARGET_DATE     YYYY-MM-DD 형식으로 날짜를 강제 지정 (테스트용, 기본값: 오늘 UTC)
-  FORCE           1이면 이미 번역된 파일이 있어도 다시 만든다.
+  FORCE           1이면 이미 번역된 파일이 있어도 처음부터 다시 번역한다.
 """
 
 import json
@@ -28,6 +28,9 @@ GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/{model}:ge
 FULL_SECTIONS = ["selected", "events", "holidays"]
 TEXT_ONLY_SECTIONS = ["births", "deaths"]
 SECTIONS = FULL_SECTIONS + TEXT_ONLY_SECTIONS
+
+# 앞 모델이 과부하·한도 초과면 다음 모델로 넘어간다. Actions 변수 GEMINI_MODEL(쉼표로 구분)로 바꿀 수 있다.
+DEFAULT_MODELS = "gemini-2.5-flash,gemini-2.5-flash-lite"
 
 CHUNK_SIZE = 120  # 요청 한 번에 보낼 문장 수
 REQUEST_GAP = 6  # 요청 사이 대기(초). 무료 등급 분당 요청 한도 대비
@@ -95,43 +98,79 @@ def gemini_translate(chunk, api_key, model):
         "- 평서문은 '~했다'체로, 짧은 설명은 명사구로 번역한다.\n\n"
         + json.dumps(source, ensure_ascii=False)
     )
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "generationConfig": {"temperature": 0.2, "responseMimeType": "application/json"},
-    }
+    config = {"temperature": 0.2, "responseMimeType": "application/json"}
+    if model.startswith("gemini-2.5-flash"):
+        config["thinkingConfig"] = {"thinkingBudget": 0}  # 번역에는 추론이 필요 없어 꺼서 속도를 올린다
+    payload = {"contents": [{"parts": [{"text": prompt}]}], "generationConfig": config}
     res = http_json(
         GEMINI_URL.format(model=model),
         data=payload,
         headers={"x-goog-api-key": api_key},
-        timeout=300,
+        timeout=180,
     )
     text = res["candidates"][0]["content"]["parts"][0]["text"]
     translated = json.loads(text)
     return {chunk[int(k)]: v for k, v in translated.items() if k.isdigit() and int(k) < len(chunk) and isinstance(v, str)}
 
 
-def translate_all(strings, api_key, model):
+def translate_all(strings, api_key, models):
+    """청크마다 모델을 순서대로 시도한다. 과부하(503)·한도(429)면 다음 모델로 넘어간다."""
     table = {}
+    used = []
+    dead = set()  # 존재하지 않는 모델(404)
+    fail_streak = 0
     chunks = [strings[i:i + CHUNK_SIZE] for i in range(0, len(strings), CHUNK_SIZE)]
     for n, chunk in enumerate(chunks, 1):
-        for attempt in range(4):
-            try:
-                table.update(gemini_translate(chunk, api_key, model))
-                print(f"  번역 {n}/{len(chunks)} 완료 ({len(chunk)}개)")
+        done = False
+        for model in [m for m in models if m not in dead]:
+            for attempt in range(2):
+                try:
+                    table.update(gemini_translate(chunk, api_key, model))
+                    print(f"  번역 {n}/{len(chunks)} 완료 ({len(chunk)}개, {model})")
+                    if model not in used:
+                        used.append(model)
+                    done = True
+                    break
+                except urllib.error.HTTPError as e:
+                    detail = " ".join(e.read().decode("utf-8", "replace").split())[:200]
+                    print(f"  번역 {n}/{len(chunks)} 실패 ({model}, HTTP {e.code}): {detail}", file=sys.stderr)
+                    if e.code == 404:
+                        dead.add(model)
+                        break
+                    if e.code not in (429, 500, 503) or attempt == 1:
+                        break
+                    time.sleep(15)
+                except (urllib.error.URLError, TimeoutError, KeyError, IndexError, ValueError) as e:
+                    print(f"  번역 {n}/{len(chunks)} 실패 ({model}): {e!r}", file=sys.stderr)
+                    if attempt == 1:
+                        break
+                    time.sleep(5)
+            if done:
                 break
-            except urllib.error.HTTPError as e:
-                detail = e.read().decode("utf-8", "replace")[:300]
-                print(f"  번역 {n}/{len(chunks)} 실패 (HTTP {e.code}): {detail}", file=sys.stderr)
-                if e.code not in (429, 500, 503) or attempt == 3:
-                    break
-                time.sleep(30 * (attempt + 1))
-            except (urllib.error.URLError, KeyError, IndexError, ValueError) as e:
-                print(f"  번역 {n}/{len(chunks)} 실패: {e!r}", file=sys.stderr)
-                if attempt == 3:
-                    break
-                time.sleep(10)
+        if done:
+            fail_streak = 0
+        else:
+            fail_streak += 1
+            if fail_streak >= 2:
+                print("  모든 모델이 연속으로 실패해 번역을 중단함 (다음 실행에서 이어서 번역)", file=sys.stderr)
+                break
         if n < len(chunks):
             time.sleep(REQUEST_GAP)
+    return table, used
+
+
+def existing_translations(data):
+    """이전 실행에서 저장한 번역을 원문→번역 표로 되돌린다."""
+    table = {}
+    for section in SECTIONS:
+        for item in data.get(section, []):
+            if item.get("text_ko"):
+                table[item["text"]] = item["text_ko"]
+            for p in item.get("pages", []):
+                if p.get("title_ko"):
+                    table[p["title"]] = p["title_ko"]
+                if p.get("description_ko"):
+                    table[p["description"]] = p["description_ko"]
     return table
 
 
@@ -151,23 +190,29 @@ def main():
         date = datetime.now(timezone.utc).date()
     out_path = DATA_DIR / f"{date.isoformat()}.json"
     api_key = os.environ.get("GEMINI_API_KEY", "").strip()
-    model = os.environ.get("GEMINI_MODEL", "").strip() or "gemini-2.5-flash"
+    models = [m.strip() for m in (os.environ.get("GEMINI_MODEL") or DEFAULT_MODELS).split(",") if m.strip()]
 
+    table = {}
+    prev_models = []
     if out_path.exists() and os.environ.get("FORCE") != "1":
         existing = json.loads(out_path.read_text(encoding="utf-8"))
         if existing.get("translation", {}).get("complete") or not api_key:
             print(f"{out_path.name} 이미 있음, 건너뜀")
             write_latest(existing)
             return
+        table = existing_translations(existing)
+        prev_models = existing.get("translation", {}).get("models") or []
 
     print(f"{date} (UTC) 데이터 가져오는 중")
     sections = fetch_wiki(date)
     strings = collect_strings(sections)
 
-    table = {}
+    used = []
     if api_key:
-        print(f"{len(strings)}개 문장 번역 중 (모델: {model})")
-        table = translate_all(strings, api_key, model)
+        todo = [s for s in strings if s not in table]
+        print(f"{len(strings)}개 중 {len(todo)}개 번역 필요 (모델: {', '.join(models)})")
+        new, used = translate_all(todo, api_key, models)
+        table.update(new)
     else:
         print("GEMINI_API_KEY 없음: 번역 없이 영어 원문만 저장")
     apply_translation(sections, table)
@@ -177,7 +222,7 @@ def main():
         "generated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "source": "Wikipedia (en) — On this day",
         "translation": {
-            "model": model if api_key else None,
+            "models": prev_models + [m for m in used if m not in prev_models],
             "translated": sum(1 for s in strings if s in table),
             "total": len(strings),
             "complete": bool(strings) and all(s in table for s in strings),

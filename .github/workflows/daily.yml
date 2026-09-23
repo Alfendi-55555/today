@@ -3,6 +3,7 @@ name: 매일 갱신
 on:
   schedule:
     - cron: "5 0 * * *" # 매일 00:05 UTC (KST 09:05)
+    - cron: "5 3 * * *" # 03:05 UTC: 첫 실행에서 번역이 빠진 부분만 채움 (다 됐으면 바로 끝남)
   workflow_dispatch:
     inputs:
       force:
@@ -34,6 +35,7 @@ jobs:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: ${{ vars.GEMINI_MODEL }}
           FORCE: ${{ inputs.force && '1' || '0' }}
+          PYTHONUNBUFFERED: "1"
         run: python scripts/build.py
 
       - name: 데이터 커밋
