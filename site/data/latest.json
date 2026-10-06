@@ -1,14 +1,14 @@
 {
  "date": "2026-10-06",
- "generated_at": "2026-10-06T06:13:26Z",
+ "generated_at": "2026-10-06T09:53:06Z",
  "source": "Wikipedia (en) — On this day",
  "translation": {
   "models": [
    "gemini-2.5-flash"
   ],
-  "translated": 666,
+  "translated": 786,
   "total": 786,
-  "complete": false
+  "complete": true
  },
  "selected": [
   {
@@ -631,14 +631,6 @@
    "year": 618,
    "text": "Transition from Sui to Tang: Wang Shichong's army defeated Li Mi's forces at the Battle of Yanshi, allowing Wang to consolidate power and soon depose China's Sui dynasty.",
    "pages": [
-    {
-     "title": "Transition from Sui to Tang",
-     "description": "Period in Chinese history from 613 to 628 AD",
-     "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Sui_Dynasty_Uprisings.png/330px-Sui_Dynasty_Uprisings.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-     "url": "https://en.wikipedia.org/wiki/Transition_from_Sui_to_Tang",
-     "title_ko": "수당 교체기",
-     "description_ko": "서기 613년부터 628년까지의 중국 역사 시대"
-    },
     {
      "title": "Wang Shichong",
      "description": "Chinese general and self-proclaimed emperor (567–621)",
@@ -3005,7 +2997,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프레디 가르시아, 베네수엘라의 야구 선수"
   },
   {
    "year": 1976,
@@ -3020,7 +3012,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브렛 겔먼, 미국의 배우이자 코미디언"
   },
   {
    "year": 1975,
@@ -3035,7 +3027,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레온 킹, 가이아나의 크리켓 선수"
   },
   {
    "year": 1974,
@@ -3050,7 +3042,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "왈테르 센테노, 코스타리카의 축구 선수이자 감독"
   },
   {
    "year": 1974,
@@ -3065,7 +3057,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "케니 욘손, 스웨덴의 아이스하키 선수이자 코치"
   },
   {
    "year": 1974,
@@ -3080,7 +3072,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "시마 케네디, 영국의 정치인"
   },
   {
    "year": 1974,
@@ -3095,7 +3087,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제러미 시스토, 미국의 배우, 프로듀서, 각본가"
   },
   {
    "year": 1974,
@@ -3110,7 +3102,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "호앙쑤언빈, 베트남의 사격 선수"
   },
   {
    "year": 1973,
@@ -3125,7 +3117,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제프 B. 데이비스, 미국의 코미디언, 배우, 가수"
   },
   {
    "year": 1973,
@@ -3140,7 +3132,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이오안 그리피드, 웨일스의 배우"
   },
   {
    "year": 1973,
@@ -3155,7 +3147,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레베카 로보, 미국의 농구 선수이자 스포츠캐스터"
   },
   {
    "year": 1972,
@@ -3170,7 +3162,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마크 슈워처, 오스트레일리아의 축구 선수"
   },
   {
    "year": 1971,
@@ -3185,7 +3177,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에밀리 모티머, 잉글랜드의 배우"
   },
   {
    "year": 1970,
@@ -3200,7 +3192,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에이미 조 존슨, 미국의 배우"
   },
   {
    "year": 1970,
@@ -3215,7 +3207,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "쇼나 맥도널드, 캐나다의 배우이자 프로듀서"
   },
   {
    "year": 1970,
@@ -3230,7 +3222,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "대런 올리버, 미국의 야구 선수"
   },
   {
    "year": 1969,
@@ -3245,7 +3237,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바이런 블랙, 짐바브웨의 골프 선수"
   },
   {
    "year": 1969,
@@ -3260,7 +3252,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "무하맛 5세, 말레이시아의 양 디페르투안 아공"
   },
   {
    "year": 1968,
@@ -3275,7 +3267,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "뱌르네 골베크, 덴마크의 축구 선수이자 스포츠캐스터"
   },
   {
    "year": 1968,
@@ -3290,7 +3282,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "밥 메이, 미국의 골프 선수"
   },
   {
    "year": 1967,
@@ -3305,7 +3297,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "케네트 안데르손, 스웨덴의 축구 선수"
   },
   {
    "year": 1967,
@@ -3320,7 +3312,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스벤 칼센, 노르웨이의 스트롱맨이자 보디빌더"
   },
   {
    "year": 1967,
@@ -3335,7 +3327,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티븐 울프, 잉글랜드의 변호사이자 정치인"
   },
   {
    "year": 1966,
@@ -3350,7 +3342,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "멜라니아 마추코, 이탈리아의 작가"
   },
   {
    "year": 1966,
@@ -3365,7 +3357,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "재클린 오브라도스, 미국의 배우"
   },
   {
    "year": 1966,
@@ -3380,7 +3372,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나이얼 퀸, 아일랜드의 축구 선수이자 감독"
   },
   {
    "year": 1966,
@@ -3395,7 +3387,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토미 스틴슨, 미국의 싱어송라이터이자 베이시스트"
   },
   {
    "year": 1965,
@@ -3410,7 +3402,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "위르겐 콜러, 독일의 축구 선수이자 감독"
   },
   {
    "year": 1965,
@@ -3425,7 +3417,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "페그 오코너, 미국의 철학자이자 학자"
   },
   {
    "year": 1965,
@@ -3440,7 +3432,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티브 스컬리스, 미국의 변호사이자 정치인"
   },
   {
    "year": 1965,
@@ -3455,7 +3447,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루벤 시에라, 푸에르토리코계 미국인 야구 선수"
   },
   {
    "year": 1965,
@@ -3470,7 +3462,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 맥워터, 미국의 학자이자 언어학자"
   },
   {
    "year": 1964,
@@ -3485,7 +3477,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리키 베리, 미국의 농구 선수 (1989년 사망)"
   },
   {
    "year": 1964,
@@ -3500,7 +3492,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마크 필드, 독일계 잉글랜드인 변호사이자 정치인"
   },
   {
    "year": 1964,
@@ -3515,7 +3507,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "톰 재거, 미국의 수영 선수이자 코치"
   },
   {
    "year": 1964,
@@ -3530,7 +3522,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "밀토스 마네타스, 그리스의 화가"
   },
   {
    "year": 1964,
@@ -3553,7 +3545,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "크누트 스토르베르그, 노르웨이의 변호사이자 정치인, 노르웨이 법무부 장관"
   },
   {
    "year": 1964,
@@ -3568,7 +3560,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "매슈 스위트, 미국의 싱어송라이터, 기타리스트, 프로듀서"
   },
   {
    "year": 1963,
@@ -3583,7 +3575,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스벤 안데르손, 스웨덴의 축구 선수이자 코치"
   },
   {
    "year": 1963,
@@ -3598,7 +3590,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엘리자베스 슈, 미국의 배우"
   },
   {
    "year": 1962,
@@ -3613,7 +3605,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 베이커, 미국의 생물학자이자 학자"
   },
   {
    "year": 1962,
@@ -3628,7 +3620,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리치 예트, 미국의 야구 선수"
   },
   {
    "year": 1961,
@@ -3643,7 +3635,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마쓰다 미유키, 일본의 배우"
   },
   {
    "year": 1961,
@@ -3658,7 +3650,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "폴 샌섬, 잉글랜드의 축구 선수"
   },
   {
    "year": 1961,
@@ -3673,7 +3665,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "벤 서머스킬, 잉글랜드의 사업가이자 언론인"
   },
   {
    "year": 1960,
@@ -3688,7 +3680,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 좁슨, 스코틀랜드의 가수, 작곡가, 감독, 프로듀서"
   },
   {
    "year": 1959,
@@ -3703,7 +3695,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "투르키 빈 술탄, 사우디아라비아의 정치인 (2012년 사망)"
   },
   {
    "year": 1959,
@@ -3718,7 +3710,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "오일 캔 보이드, 미국의 야구 선수"
   },
   {
    "year": 1959,
@@ -3733,7 +3725,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브라이언 히긴스, 미국의 정치인"
   },
   {
    "year": 1959,
@@ -3748,7 +3740,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "월터 레이 윌리엄스 주니어, 미국의 볼링 선수"
   },
   {
    "year": 1958,
@@ -3763,7 +3755,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "세르게이 밀니코프, 러시아의 아이스하키 선수이자 코치 (2017년 사망)"
   },
   {
    "year": 1957,
@@ -3778,7 +3770,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브루스 그로벨라, 짐바브웨의 축구 선수이자 코치"
   },
   {
    "year": 1956,
@@ -3793,7 +3785,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "사디크 알아흐마르, 예멘의 정치인 (2023년 사망)"
   },
   {
    "year": 1956,
@@ -3808,7 +3800,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "캐슬린 웹, 미국의 작가이자 삽화가"
   },
   {
    "year": 1955,
@@ -3823,7 +3815,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토니 던지, 미국의 미식축구 선수이자 코치"
   },
   {
    "year": 1954,
@@ -3838,7 +3830,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빌 버포드, 미국의 작가이자 언론인"
   },
   {
    "year": 1954,
@@ -3853,7 +3845,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 이달고, 미국의 싱어송라이터이자 기타리스트"
   },
   {
    "year": 1953,
@@ -3868,7 +3860,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레인 라나프, 에스토니아의 피아니스트이자 작곡가"
   },
   {
    "year": 1952,
@@ -3883,7 +3875,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아이텐 무틀루, 튀르키예의 시인이자 작가"
   },
   {
    "year": 1951,
@@ -3898,7 +3890,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "케빈 크로닌, 미국의 싱어송라이터, 기타리스트, 프로듀서"
   },
   {
    "year": 1951,
@@ -3913,7 +3905,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "클라이브 리스, 싱가포르계 웨일스 럭비 선수이자 교육자"
   },
   {
    "year": 1951,
@@ -3928,7 +3920,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "개빈 서덜랜드, 스코틀랜드의 싱어송라이터이자 베이시스트"
   },
   {
    "year": 1951,
@@ -3943,7 +3935,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "만프레트 빈켈호크, 독일의 경주용 자동차 운전자 (1985년 사망)"
   },
   {
    "year": 1950,
@@ -3958,7 +3950,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 브린, 미국의 물리학자이자 작가"
   },
   {
    "year": 1949,
@@ -3973,7 +3965,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로니 존슨, 미국의 발명가"
   },
   {
    "year": 1949,
@@ -3988,7 +3980,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "페니 주너, 잉글랜드의 언론인이자 작가"
   },
   {
    "year": 1949,
@@ -4003,7 +3995,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토머스 매클러리, 미국의 R&B 싱어송라이터이자 기타리스트"
   },
   {
    "year": 1949,
@@ -4018,7 +4010,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레슬리 문베스, 미국의 사업가"
   },
   {
    "year": 1949,
@@ -4033,7 +4025,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "니콜라 페이락, 프랑스의 싱어송라이터이자 사진작가"
   },
   {
    "year": 1948,
@@ -4048,7 +4040,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "게리 애덤스, 아일랜드 공화주의 정치인"
   },
   {
    "year": 1948,
@@ -4063,7 +4055,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "글렌 브랑카, 미국의 기타리스트이자 작곡가 (2018년 사망)"
   },
   {
    "year": 1947,
@@ -4078,7 +4070,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "파트시 안디온, 스페인의 싱어송라이터이자 배우 (2019년 사망)"
   },
   {
    "year": 1947,
@@ -4093,7 +4085,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "클라우스 디비아시, 이탈리아의 다이빙 선수"
   },
   {
    "year": 1947,
@@ -4108,7 +4100,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "밀리 스몰, 자메이카의 싱어송라이터 (2020년 사망)"
   },
   {
    "year": 1946,
@@ -4123,7 +4115,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로이드 도겟, 미국의 변호사이자 정치인"
   },
   {
    "year": 1946,
@@ -4138,7 +4130,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토니 그레이그, 남아프리카 공화국계 잉글랜드 크리켓 선수이자 스포츠캐스터 (2012년 사망)"
   },
   {
    "year": 1946,
@@ -4153,7 +4145,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 모니, 오스트레일리아의 럭비 리그 선수이자 코치"
   },
   {
    "year": 1946,
@@ -4176,7 +4168,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에디 빌라누에바, 필리핀의 복음 전도사이자 정치인, ZOE 방송 네트워크 설립자"
   },
   {
    "year": 1946,
@@ -4191,7 +4183,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "비노드 칸나, 인도의 배우, 프로듀서, 정치인 (2017년 사망)"
   },
   {
    "year": 1945,
@@ -4206,7 +4198,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이반 그라치아니, 이탈리아의 싱어송라이터이자 기타리스트 (1997년 사망)"
   },
   {
    "year": 1944,
@@ -4221,7 +4213,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "메르자크 알루아슈, 알제리의 감독이자 각본가"
   },
   {
    "year": 1944,
@@ -4236,7 +4228,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "패트릭 코딩글리, 잉글랜드의 장군"
   },
   {
    "year": 1944,
@@ -4251,7 +4243,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "보리스 미하일로프, 러시아의 아이스하키 선수이자 코치"
   },
   {
    "year": 1944,
@@ -4266,7 +4258,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를루스 파시, 브라질의 경주용 자동차 운전자 (1977년 사망)"
   },
   {
    "year": 1943,
@@ -4289,7 +4281,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 캐번, 잉글랜드의 엔지니어이자 정치인, 스포츠 및 올림픽 장관"
   },
   {
    "year": 1943,
@@ -4312,7 +4304,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피터 다우딩, 오스트레일리아의 정치인, 제24대 서호주 주지사"
   },
   {
    "year": 1943,
@@ -4327,7 +4319,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉산드르 막소비치 실로프, 러시아의 화가"
   },
   {
    "year": 1943,
@@ -4342,7 +4334,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "케스 페르만, 네덜란드의 싱어송라이터이자 기타리스트 (2014년 사망)"
   },
   {
    "year": 1942,
@@ -4357,7 +4349,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "댄 크리스텐센, 미국의 화가 (2007년 사망)"
   },
   {
    "year": 1942,
@@ -4372,7 +4364,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브릿 에클런드, 스웨덴의 배우이자 가수"
   },
   {
    "year": 1942,
@@ -4387,7 +4379,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프레드 트라발레나, 미국의 코미디언이자 배우 (2009년 사망)"
   },
   {
    "year": 1941,
@@ -4410,7 +4402,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "폴 포팜, 미국의 군인이자 활동가, 게이 남성 건강 위기 공동 설립자 (1987년 사망)"
   },
   {
    "year": 1940,
@@ -4425,7 +4417,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "얀 카이저, 네덜란드의 축구 선수이자 심판"
   },
   {
    "year": 1939,
@@ -4440,7 +4432,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "멜빈 브래그, 잉글랜드의 언론인, 작가, 학자"
   },
   {
    "year": 1939,
@@ -4455,7 +4447,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "잭 컬렌, 미국의 야구 선수"
   },
   {
    "year": 1939,
@@ -4470,7 +4462,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 델가도, 미국의 변호사이자 학자"
   },
   {
    "year": 1939,
@@ -4485,7 +4477,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "실라 그라이바흐, 미국의 컴퓨터 과학자이자 학자"
   },
   {
    "year": 1939,
@@ -4500,7 +4492,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 J. 라팔체, 미국의 대위, 변호사, 정치인"
   },
   {
    "year": 1938,
@@ -4515,7 +4507,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "세르주 누브레, 카리브해계 프랑스 보디빌더이자 배우 (2011년 사망)"
   },
   {
    "year": 1936,
@@ -4530,7 +4522,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "줄리어스 L. 챔버스, 미국의 변호사, 교육자, 활동가 (2013년 사망)"
   },
   {
    "year": 1935,
@@ -4545,7 +4537,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브루노 삼마르티노, 이탈리아계 미국인 레슬링 선수이자 트레이너 (2018년 사망)"
   },
   {
    "year": 1934,
@@ -4560,7 +4552,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마셜 로젠버그, 미국의 심리학자이자 작가 (2015년 사망)"
   },
   {
    "year": 1933,
@@ -4583,7 +4575,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "무카람 자, 제8대 하이데라바드 니잠 (2023년 사망)"
   },
   {
    "year": 1931,
@@ -4598,7 +4590,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "니콜라이 체르니흐, 러시아의 천문학자 (2004년 사망)"
   },
   {
    "year": 1931,
@@ -4613,7 +4605,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아일린 더비셔, 잉글랜드의 배우"
   },
   {
    "year": 1931,
@@ -4636,7 +4628,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리카르도 자코니, 이탈리아계 미국인 천체물리학자이자 천문학자, 노벨상 수상자 (2018년 사망)"
   },
   {
    "year": 1930,
@@ -4659,7 +4651,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "하페즈 알아사드, 시리아의 장군이자 정치인, 제20대 시리아 대통령 (2000년 사망)"
   },
   {
    "year": 1930,
@@ -4674,7 +4666,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리치 베노, 오스트레일리아의 크리켓 선수이자 스포츠캐스터 (2015년 사망)"
   },
   {
    "year": 1929,
@@ -4689,7 +4681,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조지 매토스, 미국의 장대높이뛰기 선수 (2012년 사망)"
   },
   {
    "year": 1928,
@@ -4704,7 +4696,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "플로라 맥닐, 스코틀랜드 게일어 가수 (2015년 사망)"
   },
   {
    "year": 1928,
@@ -4719,7 +4711,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바버라 워를, 미국의 배우이자 가수 (2013년 사망)"
   },
   {
    "year": 1927,
@@ -4734,7 +4726,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빌 킹, 미국의 스포츠캐스터 (2005년 사망)"
   },
   {
    "year": 1925,
@@ -4749,7 +4741,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샤나 알렉산더, 미국의 언론인이자 작가 (2005년 사망)"
   },
   {
    "year": 1923,
@@ -4764,7 +4756,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로버트 쿽, 말레이시아 화교 사업가이자 투자자"
   },
   {
    "year": 1923,
@@ -4779,7 +4771,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "야샤르 케말, 튀르키예의 언론인이자 작가 (2015년 사망)"
   },
   {
    "year": 1922,
@@ -4794,7 +4786,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조 프레이저, 미국의 야구 선수이자 감독 (2011년 사망)"
   },
   {
    "year": 1922,
@@ -4809,7 +4801,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "티라 로링, 미국의 배우 (2007년 사망)"
   },
   {
    "year": 1921,
@@ -4824,7 +4816,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "예브게니 란디스, 우크라이나계 러시아인 수학자이자 이론가 (1997년 사망)"
   },
   {
    "year": 1921,
@@ -4839,7 +4831,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조지프 로어리, 미국의 목사이자 활동가 (2020년 사망)"
   },
   {
    "year": 1921,
@@ -4854,7 +4846,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조반니 미켈로티, 이탈리아의 자동차 디자이너 (1980년 사망)"
   },
   {
    "year": 1920,
