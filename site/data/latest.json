@@ -1,14 +1,14 @@
 {
  "date": "2026-10-10",
- "generated_at": "2026-10-10T05:43:33Z",
+ "generated_at": "2026-10-10T09:34:14Z",
  "source": "Wikipedia (en) — On this day",
  "translation": {
   "models": [
    "gemini-2.5-flash"
   ],
-  "translated": 677,
+  "translated": 797,
   "total": 797,
-  "complete": false
+  "complete": true
  },
  "selected": [
   {
@@ -564,24 +564,24 @@
      "description": "2003–2011 conflict in Iraq",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/UStanks_baghdad_2003.JPEG/330px-UStanks_baghdad_2003.JPEG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Iraq_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이라크 전쟁",
+     "description_ko": "2003년부터 2011년까지 이라크에서 일어난 분쟁"
     },
     {
      "title": "United States Congress",
      "description": "Bicameral legislature of the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 의회",
+     "description_ko": "미국의 양원제 입법부"
     },
     {
      "title": "Authorization for Use of Military Force Against Iraq Resolution of 2002",
      "description": "Joint resolution of the US Congress",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Authorization_for_Use_of_Military_Force_Against_Iraq_Resolution_of_2002",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2002년 이라크 결의안에 대한 군사력 사용 승인",
+     "description_ko": "미국 의회의 공동 결의안"
     }
    ],
    "text_ko": "이라크 전쟁: 미국 의회가 2002년 이라크에 대한 군사력 사용 승인 결의안을 승인했다."
@@ -595,27 +595,27 @@
      "description": "Flag carrier of the Democratic Republic of the Congo",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Lignes_A%C3%A9riennes_Congolaises_Boeing_767-200ER_TF-ATO_BRU_2002-3-2.png/330px-Lignes_A%C3%A9riennes_Congolaises_Boeing_767-200ER_TF-ATO_BRU_2002-3-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Lignes_A%C3%A9riennes_Congolaises_(1997%E2%80%932003)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "콩고 항공 (1997년~2003년)",
+     "description_ko": "콩고 민주 공화국의 국영 항공사"
     },
     {
      "title": "1998 Congo Airlines Boeing 727 crash",
      "description": "1998 aviation incident in the Democratic Republic of the Congo",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Oman_Police_Boeing_727_A4O-CF_at_Heathrow_1989.jpg/330px-Oman_Police_Boeing_727_A4O-CF_at_Heathrow_1989.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1998_Congo_Airlines_Boeing_727_crash",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1998년 콩고 항공 보잉 727 추락 사고",
+     "description_ko": "1998년 콩고 민주 공화국 항공 사고"
     },
     {
      "title": "Kindu",
      "description": "Provincial capital and city in Maniema, DR Congo",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/La_place_Monument_de_Kindu_%284095837516%29.jpg/330px-La_place_Monument_de_Kindu_%284095837516%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Kindu",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "킨두",
+     "description_ko": "콩고 민주 공화국 마니에마주의 주도이자 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "콩고 민주 공화국 킨두에서 콩고 항공 소속 제트 여객기가 반군에 의해 격추되어 41명이 사망했다."
   },
   {
    "year": 1997,
@@ -626,11 +626,11 @@
      "description": "1997 aviation accident in Uruguay",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Austral_Lineas_Aereas_McDonnell_Douglas_DC-9-32_LV-WEG_%2825582189983%29.jpg/330px-Austral_Lineas_Aereas_McDonnell_Douglas_DC-9-32_LV-WEG_%2825582189983%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Austral_L%C3%ADneas_A%C3%A9reas_Flight_2553",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "오스트랄 항공 2553편",
+     "description_ko": "1997년 우루과이 항공 사고"
     }
    ],
-   "text_ko": null
+   "text_ko": "오스트랄 항공 2553편이 우루과이에서 추락 폭발하여 74명이 사망했다."
   },
   {
    "year": 1986,
@@ -641,11 +641,11 @@
      "description": "1986 earthquake in Central America",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/1986_San_Salvador_earthquake.jpg/330px-1986_San_Salvador_earthquake.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1986_San_Salvador_earthquake",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1986년 산살바도르 지진",
+     "description_ko": "1986년 중앙아메리카 지진"
     }
    ],
-   "text_ko": null
+   "text_ko": "규모 5.7의 산살바도르 지진이 엘살바도르를 강타하여 1,500명이 사망했다."
   },
   {
    "year": 1985,
@@ -656,11 +656,11 @@
      "description": "1985 Palestinian Liberation Front hijacking",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Achille39_b.jpg/330px-Achille39_b.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Achille_Lauro_hijacking",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아킬레 라우로호 납치 사건",
+     "description_ko": "1985년 팔레스타인 해방 전선의 납치 사건"
     }
    ],
-   "text_ko": null
+   "text_ko": "미 해군 항공기가 아킬레 라우로호 납치범들을 태운 이집트 여객기를 요격하여 이탈리아에 강제 착륙시켰다."
   },
   {
    "year": 1980,
@@ -671,11 +671,11 @@
      "description": "7.1 magnitude earthquake on the Algerian coast",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/1980_El_Asnam_earthquake_ShakeMap.jpg/330px-1980_El_Asnam_earthquake_ShakeMap.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1980_El_Asnam_earthquake",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1980년 엘 아스남 지진",
+     "description_ko": "알제리 해안에서 발생한 규모 7.1의 지진"
     }
    ],
-   "text_ko": null
+   "text_ko": "규모 7.1의 엘 아스남 지진이 알제리 북부를 강타하여 2,633명이 사망하고 8,369명이 부상당했다."
   },
   {
    "year": 1980,
@@ -686,11 +686,11 @@
      "description": "Salvadoran political party and former guerilla organization",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Logo_of_the_FMLN.svg/330px-Logo_of_the_FMLN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Farabundo_Mart%C3%AD_National_Liberation_Front",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파라분도 마르티 민족해방전선",
+     "description_ko": "엘살바도르의 정당이자 이전 게릴라 조직"
     }
    ],
-   "text_ko": null
+   "text_ko": "파라분도 마르티 민족해방전선이 엘살바도르에서 창설되었다."
   },
   {
    "year": 1979,
@@ -701,19 +701,19 @@
      "description": "Nuclear power plant in Eurajoki, Finland",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Olkiluoto_Nuclear_Power_Plant_2015-07-21_001_%28cropped%29.jpg/330px-Olkiluoto_Nuclear_Power_Plant_2015-07-21_001_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Olkiluoto_Nuclear_Power_Plant",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "올킬루오토 원자력 발전소",
+     "description_ko": "핀란드 에우라요키의 원자력 발전소"
     },
     {
      "title": "Eurajoki",
      "description": "Municipality in Satakunta, Finland",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Vuojoen_kartano_4.jpg/330px-Vuojoen_kartano_4.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Eurajoki",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "에우라요키",
+     "description_ko": "핀란드 사타쿤타주의 지방 자치체"
     }
    ],
-   "text_ko": null
+   "text_ko": "올킬루오토 원자력 발전소가 핀란드 사타쿤타주 에우라요키에서 가동을 시작했다."
   },
   {
    "year": 1975,
@@ -724,19 +724,19 @@
      "description": "Country in Oceania",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/330px-Flag_of_Papua_New_Guinea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파푸아뉴기니",
+     "description_ko": "오세아니아의 국가"
     },
     {
      "title": "United Nations",
      "description": "Global intergovernmental organization",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Flag_of_the_United_Nations.svg/330px-Flag_of_the_United_Nations.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_Nations",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "유엔",
+     "description_ko": "글로벌 정부간 기구"
     }
    ],
-   "text_ko": null
+   "text_ko": "파푸아뉴기니가 유엔에 가입했다."
   },
   {
    "year": 1973,
@@ -751,7 +751,7 @@
      "description_ko": "1969년부터 1973년까지 미국의 부통령"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 부통령 스피로 애그뉴가 연방 소득세 회피 혐의로 기소된 후 사임했다."
   },
   {
    "year": 1971,
@@ -762,19 +762,19 @@
      "description": "1971 airliner bombing",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Aeroflot_Tu-104B_CCCP-42403_LBG_1974-8-2.png/330px-Aeroflot_Tu-104B_CCCP-42403_LBG_1974-8-2.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Aeroflot_Flight_773",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아에로플로트 773편",
+     "description_ko": "1971년 여객기 폭파 사건"
     },
     {
      "title": "Moscow Oblast",
      "description": "First-level administrative division of Russia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Flag_of_Moscow_oblast.svg/330px-Flag_of_Moscow_oblast.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Moscow_Oblast",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "모스크바주",
+     "description_ko": "러시아의 1급 행정 구역"
     }
    ],
-   "text_ko": null
+   "text_ko": "아에로플로트 773편이 모스크바주 상공에서 폭탄에 의해 파괴되어 25명이 사망했다."
   },
   {
    "year": 1970,
@@ -785,11 +785,11 @@
      "description": "Country in Oceania",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Fiji.svg/330px-Flag_of_Fiji.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Fiji",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피지",
+     "description_ko": "오세아니아의 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "피지가 독립했다."
   },
   {
    "year": 1970,
@@ -800,27 +800,27 @@
      "description": "1970 series of events in Quebec, Canada",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/06/LiberationCellSurrender.jpg/330px-LiberationCellSurrender.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/October_Crisis",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "10월 위기",
+     "description_ko": "1970년 캐나다 퀘벡에서 발생한 일련의 사건"
     },
     {
      "title": "Pierre Laporte",
      "description": "Canadian politician (1921–1970)",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/2/2d/Pierre_Laporte_photo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Pierre_Laporte",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피에르 라포르트",
+     "description_ko": "캐나다의 정치인 (1921년~1970년)"
     },
     {
      "title": "Front de libération du Québec",
      "description": "Militant separatist group (1963–1971)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bandera_FLQ.svg/330px-Bandera_FLQ.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Front_de_lib%C3%A9ration_du_Qu%C3%A9bec",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "퀘벡 해방 전선",
+     "description_ko": "무장 분리주의 단체 (1963년~1971년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "퀘벡 부총리 피에르 라포르트가 퀘벡 해방 전선 회원들에게 납치되면서 캐나다의 10월 위기가 고조되었다."
   },
   {
    "year": 1967,
@@ -831,11 +831,11 @@
      "description": "Basis of international space law",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Outer_Space_Treaty_parties.svg/330px-Outer_Space_Treaty_parties.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Outer_Space_Treaty",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "우주 조약",
+     "description_ko": "국제 우주법의 기초"
     }
    ],
-   "text_ko": null
+   "text_ko": "우주 조약이 발효되었다."
   },
   {
    "year": 1964,
@@ -846,11 +846,11 @@
      "description": "Multi-sport event in Tokyo, Japan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tokyo_1964_Summer_Olympics_logo.svg/330px-Tokyo_1964_Summer_Olympics_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1964_Summer_Olympics",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1964년 하계 올림픽",
+     "description_ko": "일본 도쿄에서 열린 종합 스포츠 행사"
     }
    ],
-   "text_ko": null
+   "text_ko": "도쿄 하계 올림픽 개막식이 위성으로 생중계된 최초의 올림픽이 되었다."
   },
   {
    "year": 1963,
@@ -861,11 +861,11 @@
      "description": "City in Tunisia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Bizerte_bridge_from_south_side%28zarzouna%29.jpg/330px-Bizerte_bridge_from_south_side%28zarzouna%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bizerte",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "비제르테",
+     "description_ko": "튀니지의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "프랑스가 비제르테 해군 기지의 통제권을 튀니지에 양도했다."
   },
   {
    "year": 1963,
@@ -880,7 +880,7 @@
      "description_ko": "1963년 국제 협정"
     }
    ],
-   "text_ko": null
+   "text_ko": "부분적 핵실험 금지 조약이 발효되었다."
   },
   {
    "year": 1957,
@@ -891,19 +891,19 @@
      "description": "World War II general, U.S. president from 1953 to 1961",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg/330px-Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959_%28cropped%29%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Dwight_D._Eisenhower",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "드와이트 D. 아이젠하워",
+     "description_ko": "제2차 세계 대전 장군, 1953년부터 1961년까지 미국 대통령"
     },
     {
      "title": "Komla Agbeli Gbedemah",
      "description": "Ghanaian politician (1913–1988)",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/70/Komla_Agbeli_Gbedemah_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Komla_Agbeli_Gbedemah",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "콤라 아그벨리 그베데마",
+     "description_ko": "가나의 정치인 (1913년~1988년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 대통령 드와이트 D. 아이젠하워가 델라웨어의 한 식당에서 가나 재무장관 콤라 아그벨리 그베데마의 서비스가 거부된 후 사과했다."
   },
   {
    "year": 1957,
@@ -914,11 +914,11 @@
      "description": "1957 nuclear accident in England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Storm_Clouds_over_Sellafield_-_geograph.org.uk_-_330062.jpg/330px-Storm_Clouds_over_Sellafield_-_geograph.org.uk_-_330062.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Windscale_fire",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "윈드스케일 화재",
+     "description_ko": "1957년 잉글랜드 핵 사고"
     }
    ],
-   "text_ko": null
+   "text_ko": "윈드스케일 화재로 영국 최악의 핵 사고가 발생했다."
   },
   {
    "year": 1954,
@@ -929,27 +929,27 @@
      "description": "Arabian state from 1856 to 1970",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_Muscat.svg/330px-Flag_of_Muscat.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Muscat_and_Oman",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "무스카트 오만 술탄국",
+     "description_ko": "1856년부터 1970년까지 아라비아 국가"
     },
     {
      "title": "Fahud",
      "description": "Oil field in Oman",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Fahud",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파후드",
+     "description_ko": "오만의 유전"
     },
     {
      "title": "Jebel Akhdar War",
      "description": "1950s rebellion in Oman",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Maskat_%26_Oman_map.png/330px-Maskat_%26_Oman_map.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Jebel_Akhdar_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제벨 아크다르 전쟁",
+     "description_ko": "1950년대 오만 반란"
     }
    ],
-   "text_ko": null
+   "text_ko": "무스카트 술탄국의 외무장관 닐 이네스가 석유 탐사대와 함께 술탄국 군대에 파후드로 침투하라는 신호를 보내 제벨 아크다르 전쟁의 시작을 알렸다."
   },
   {
    "year": 1945,
@@ -960,27 +960,27 @@
      "description": "1945 peace treaty between the Communists and Nationalists during the Chinese Civil War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Shuangshixieding.jpg/330px-Shuangshixieding.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Double_Tenth_Agreement",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "쌍십 협정",
+     "description_ko": "중국 내전 중 공산당과 국민당 간의 1945년 평화 조약"
     },
     {
      "title": "Chinese Communist Party",
      "description": "Governing party of the People's Republic of China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Danghui.svg/330px-Danghui.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Chinese_Communist_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중국 공산당",
+     "description_ko": "중화인민공화국의 집권당"
     },
     {
      "title": "Kuomintang",
      "description": "Political party in the Republic of China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Emblem_of_the_Kuomintang.svg/330px-Emblem_of_the_Kuomintang.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Kuomintang",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "국민당",
+     "description_ko": "중화민국의 정당"
     }
    ],
-   "text_ko": null
+   "text_ko": "공산당과 국민당이 중국의 미래에 대해 쌍십 협정을 체결했다."
   },
   {
    "year": 1938,
@@ -991,27 +991,27 @@
      "description": "1938 cession of German-speaking Czechoslovakia to Nazi Germany",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg/330px-Munich_Agreement_Bundesarchiv_Bild_183-R69173.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Munich_Agreement",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뮌헨 협정",
+     "description_ko": "1938년 독일어권 체코슬로바키아를 나치 독일에 할양한 사건"
     },
     {
      "title": "Czechoslovakia",
      "description": "1918–1992 country in Central Europe",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/330px-Flag_of_the_Czech_Republic.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Czechoslovakia",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "체코슬로바키아",
+     "description_ko": "1918년~1992년 중앙유럽 국가"
     },
     {
      "title": "Sudetenland",
      "description": "Historical name for areas of Czechoslovakia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Sudetendeutsche.png/330px-Sudetendeutsche.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Sudetenland",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "주데텐란트",
+     "description_ko": "체코슬로바키아 지역의 역사적 명칭"
     }
    ],
-   "text_ko": null
+   "text_ko": "체코슬로바키아가 뮌헨 협정에 따라 주데텐란트에서 철수를 완료했다."
   },
   {
    "year": 1935,
@@ -1022,19 +1022,19 @@
      "description": "Deposition of a government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg/330px-Bouchot_-_Le_general_Bonaparte_au_Conseil_des_Cinq-Cents.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Coup_d'%C3%A9tat",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "쿠데타",
+     "description_ko": "정부 전복"
     },
     {
      "title": "Second Hellenic Republic",
      "description": "Period of Greek history, 1924 to 1935",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Flag_of_Greece_%281822-1978%29.svg/330px-Flag_of_Greece_%281822-1978%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Second_Hellenic_Republic",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 헬레니즘 공화국",
+     "description_ko": "1924년부터 1935년까지 그리스 역사 시대"
     }
    ],
-   "text_ko": null
+   "text_ko": "그리스에서 쿠데타로 제2차 헬레니즘 공화국이 종식되었다."
   },
   {
    "year": 1933,
@@ -1049,7 +1049,7 @@
      "description_ko": "1933년 미국 인디애나주 항공기 폭파 사건"
     }
    ],
-   "text_ko": null
+   "text_ko": "유나이티드 항공 보잉 247기가 사보타주로 파괴되었는데, 이는 상업 항공 역사상 최초로 입증된 사례였다."
   },
   {
    "year": 1928,
@@ -1060,11 +1060,11 @@
      "description": "Leader of the Republic of China from 1928 to 1975",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png/330px-%E8%94%A3%E4%B8%AD%E6%AD%A3%E7%B8%BD%E7%B5%B1%E7%8E%89%E7%85%A7.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Chiang_Kai-shek",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "장제스",
+     "description_ko": "1928년부터 1975년까지 중화민국의 지도자"
     }
    ],
-   "text_ko": null
+   "text_ko": "장제스가 중화민국의 주석이 되었다."
   },
   {
    "year": 1920,
@@ -1075,27 +1075,27 @@
      "description": "Referendum in Austria to determine its border with Yugoslavia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Plakat_ob_plebiscitu_Mama%2C_ne_%C5%A1timajte_za_Jugoslavijo_1920.jpg/330px-Plakat_ob_plebiscitu_Mama%2C_ne_%C5%A1timajte_za_Jugoslavijo_1920.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1920_Carinthian_plebiscite",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1920년 카린티아 국민투표",
+     "description_ko": "오스트리아와 유고슬라비아의 국경을 결정하기 위한 오스트리아 국민투표"
     },
     {
      "title": "Duchy of Carinthia",
      "description": "976–1918 state of the Holy Roman Empire and later Austrian Empire",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Flag_of_Carinthia_until_1946.svg/330px-Flag_of_Carinthia_until_1946.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Duchy_of_Carinthia",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카린티아 공국",
+     "description_ko": "976년~1918년 신성 로마 제국 및 이후 오스트리아 제국의 국가"
     },
     {
      "title": "First Austrian Republic",
      "description": "Austrian state from 1919 to 1934",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Flag_of_Austria_%281230%E2%80%931934%2C_1945%E2%80%932000%29.svg/330px-Flag_of_Austria_%281230%E2%80%931934%2C_1945%E2%80%932000%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/First_Austrian_Republic",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제1차 오스트리아 공화국",
+     "description_ko": "1919년부터 1934년까지 오스트리아 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "카린티아 국민투표에서 카린티아 공국의 대부분이 오스트리아의 일부로 남아야 한다고 결정되었다."
   },
   {
    "year": 1918,
@@ -1106,27 +1106,27 @@
      "description": "Torpedoed mailboat (1918)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leinster_RMS_1897.jpg/330px-Leinster_RMS_1897.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/RMS_Leinster",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "RMS 린스터",
+     "description_ko": "어뢰 공격을 받은 우편선 (1918년)"
     },
     {
      "title": "SM UB-123",
      "description": "German U-boat",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/UB_148_at_sea_2.jpeg/330px-UB_148_at_sea_2.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/SM_UB-123",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "SM UB-123",
+     "description_ko": "독일 U-보트"
     },
     {
      "title": "Irish Sea",
      "description": "Sea between Ireland and Great Britain",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Irish_Sea_satellite_image.jpg/330px-Irish_Sea_satellite_image.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Irish_Sea",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아일랜드해",
+     "description_ko": "아일랜드와 영국 사이의 바다"
     }
    ],
-   "text_ko": null
+   "text_ko": "RMS 린스터호가 UB-123에 의해 어뢰 공격을 받아 침몰하여 564명이 사망했는데, 이는 아일랜드해에서 가장 큰 인명 손실이었다."
   },
   {
    "year": 1913,
@@ -1137,19 +1137,19 @@
      "description": "President of the United States from 1913 to 1921",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg/330px-President_Woodrow_Wilson_Harris_%26_Ewing_%283x4_cropped_b%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Woodrow_Wilson",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "우드로 윌슨",
+     "description_ko": "1913년부터 1921년까지 미국 대통령"
     },
     {
      "title": "Panama Canal",
      "description": "Shipping route across Central America",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Panama_Canal_Map_EN.svg/330px-Panama_Canal_Map_EN.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Panama_Canal",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파나마 운하",
+     "description_ko": "중앙아메리카를 가로지르는 해상 운송로"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 대통령 우드로 윌슨이 감보아 둑 폭파를 촉발하여 파나마 운하의 주요 건설을 완료했다."
   },
   {
    "year": 1911,
@@ -5565,7 +5565,7 @@
    "pages": [
     {
      "title": "Fridtjof Nansen",
-     "description": "Norwegian polar explorer (1861–1930)",
+     "description": "Norwegian polar explorer, polymath and Nobel Peace Prize laureate (1861–1930)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Fridtjof_Nansen_LOC_03377u-3.jpg/330px-Fridtjof_Nansen_LOC_03377u-3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Fridtjof_Nansen",
      "title_ko": null,
