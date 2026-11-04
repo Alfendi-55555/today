@@ -1,12 +1,14 @@
 {
  "date": "2026-11-04",
- "generated_at": "2026-11-04T06:02:55Z",
+ "generated_at": "2026-11-04T10:39:59Z",
  "source": "Wikipedia (en) — On this day",
  "translation": {
-  "models": [],
-  "translated": 0,
+  "models": [
+   "gemini-2.5-flash"
+  ],
+  "translated": 834,
   "total": 834,
-  "complete": false
+  "complete": true
  },
  "selected": [
   {
@@ -18,27 +20,27 @@
      "description": "Cargo airline based in the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg/330px-20250307_Boeing_747-8F_of_UPS_%28N617UP%29_on_final_approach_at_SYD.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/UPS_Airlines",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "UPS 항공",
+     "description_ko": "미국에 본사를 둔 화물 항공사"
     },
     {
      "title": "UPS Airlines Flight 2976",
      "description": "2025 aviation accident in Louisville, Kentucky, US",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/UPS_Airlines_Flight_2976_crash_site.png/330px-UPS_Airlines_Flight_2976_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "UPS 항공 2976편",
+     "description_ko": "2025년 미국 켄터키주 루이빌에서 발생한 항공 사고"
     },
     {
      "title": "Louisville, Kentucky",
      "description": "Most populous city in Kentucky, United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/330px-Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루이빌",
+     "description_ko": "미국 켄터키주에서 가장 인구가 많은 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "UPS 항공 소속 비행기가 켄터키주 루이빌에 추락해 최소 12명이 사망했다."
   },
   {
    "year": 2016,
@@ -49,19 +51,19 @@
      "description": "2015 international treaty regarding climate change",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/ParisAgreement.svg/330px-ParisAgreement.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Paris_Agreement",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파리 협정",
+     "description_ko": "2015년 기후 변화에 관한 국제 조약"
     },
     {
      "title": "United Nations Framework Convention on Climate Change",
      "description": "International environmental treaty",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg/330px-Living_Laudato_Si%27_Philippines_intervention_at_COP27_Catholic_Actors_meeting_with_the_Holy_See_delegation.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_Nations_Framework_Convention_on_Climate_Change",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "유엔 기후 변화 협약",
+     "description_ko": "국제 환경 조약"
     }
    ],
-   "text_ko": null
+   "text_ko": "유엔 기후 변화 협약에 따른 파리 협정이 발효되었다."
   },
   {
    "year": 2008,
@@ -72,27 +74,27 @@
      "description": "President of the United States from 2009 to 2017",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Barack_Obama",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "버락 오바마",
+     "description_ko": "2009년부터 2017년까지 미국의 대통령"
     },
     {
      "title": "2008 United States presidential election",
      "description": "Election of Barack Obama",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/ElectoralCollege2008.svg/330px-ElectoralCollege2008.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2008년 미국 대통령 선거",
+     "description_ko": "버락 오바마의 당선"
     },
     {
      "title": "President of the United States",
      "description": "Head of state and government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/330px-Seal_of_the_President_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/President_of_the_United_States",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국의 대통령",
+     "description_ko": "국가 원수 및 정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "버락 오바마(사진)가 미국 최초의 혼혈 또는 아프리카계 미국인 대통령으로 선출되었다."
   },
   {
    "year": 1995,
@@ -103,43 +105,43 @@
      "description": "Prime Minister of Israel (1974–1977; 1992–1995)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg/330px-Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈",
+     "description_ko": "이스라엘의 총리 (1974~1977; 1992~1995)"
     },
     {
      "title": "Assassination of Yitzhak Rabin",
      "description": "1995 murder in Tel Aviv, Israel",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Assassination_of_Prime_Minister_Yitzhak_Rabin%2C_1995_Dan_Hadani_Archive.jpg/330px-Assassination_of_Prime_Minister_Yitzhak_Rabin%2C_1995_Dan_Hadani_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈 암살 사건",
+     "description_ko": "1995년 이스라엘 텔아비브에서 발생한 살인 사건"
     },
     {
      "title": "Yigal Amir",
      "description": "Israeli assassin (born 1970)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg/330px-Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yigal_Amir",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이갈 아미르",
+     "description_ko": "이스라엘 암살자 (1970년생)"
     },
     {
      "title": "Rabin Square",
      "description": "Public city square in Tel Aviv, Israel",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Rabin_Squre_eco_pool.jpg/330px-Rabin_Squre_eco_pool.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Rabin_Square",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "라빈 광장",
+     "description_ko": "이스라엘 텔아비브의 공공 광장"
     },
     {
      "title": "Tel Aviv",
      "description": "City in Central Israel",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Sarona_CBD_01_%28cropped%29.jpg/330px-Sarona_CBD_01_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tel_Aviv",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "텔아비브",
+     "description_ko": "이스라엘 중부의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "이스라엘 총리 이츠하크 라빈(사진)이 텔아비브의 이스라엘 왕 광장에서 열린 평화 집회에서 극우주의자 이갈 아미르에게 암살당했다."
   },
   {
    "year": 1970,
@@ -150,27 +152,27 @@
      "description": "Child who has lived isolated from human contact from a young age",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Mowgli-1895-illustration.png/330px-Mowgli-1895-illustration.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Feral_child",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "야생 아동",
+     "description_ko": "어린 나이부터 인간 접촉 없이 고립되어 살아온 아이"
     },
     {
      "title": "Genie (feral child)",
      "description": "American feral child (born 1957)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Genie_immediately_after_rescue.jpg/330px-Genie_immediately_after_rescue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Genie_(feral_child)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "지니 (야생 아동)",
+     "description_ko": "미국 야생 아동 (1957년생)"
     },
     {
      "title": "Social isolation",
      "description": "Lack of contact between an individual and society",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Social_isolation",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "사회적 고립",
+     "description_ko": "개인과 사회 간의 접촉 부족"
     }
    ],
-   "text_ko": null
+   "text_ko": "캘리포니아 당국이 거의 평생을 사회적 고립 속에서 보낸 13세 야생 아동, 가명 지니를 발견했다."
   },
   {
    "year": 1964,
@@ -181,35 +183,35 @@
      "description": "Supreme Leader of Iran from 1979 to 1989",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Ruhollah_Khomeini_by_Jamaran_1.jpg/330px-Ruhollah_Khomeini_by_Jamaran_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루홀라 호메이니",
+     "description_ko": "1979년부터 1989년까지 이란의 최고 지도자"
     },
     {
      "title": "Shia clergy",
      "description": "Religious authorities in a branch of Islam",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/1447_AH_The_mourning_ceremony_of_the_night_of_Ashura_of_Hosseini_%28Peace_be_upon_him%29_with_the_presence_of_the_Leader_of_the_Revolution_60.jpg/330px-1447_AH_The_mourning_ceremony_of_the_night_of_Ashura_of_Hosseini_%28Peace_be_upon_him%29_with_the_presence_of_the_Leader_of_the_Revolution_60.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Shia_clergy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시아파 성직자",
+     "description_ko": "이슬람의 한 분파의 종교 권위자"
     },
     {
      "title": "SAVAK",
      "description": "Iranian intelligence agency and secret police (1957–1979)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/SAVAK.svg/330px-SAVAK.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/SAVAK",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "사바크",
+     "description_ko": "이란 정보기관 및 비밀경찰 (1957~1979)"
     },
     {
      "title": "Ruhollah Khomeini's life in exile",
      "description": "1964–1979 period for the Iranian leader",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%D8%AE%D9%85%DB%8C%D9%86%DB%8C_%D8%AF%D8%B1_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87.JPG/330px-%D8%AE%D9%85%DB%8C%D9%86%DB%8C_%D8%AF%D8%B1_%D8%AA%D8%B1%DA%A9%DB%8C%D9%87.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ruhollah_Khomeini's_life_in_exile",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루홀라 호메이니의 망명 생활",
+     "description_ko": "이란 지도자의 1964년~1979년 기간"
     }
    ],
-   "text_ko": null
+   "text_ko": "영향력 있는 시아파 성직자 루홀라 호메이니가 이란 비밀경찰에 체포되어 튀르키예로 망명했다."
   },
   {
    "year": 1952,
@@ -220,27 +222,27 @@
      "description": "American politician (1895–1986)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Robert_A._Lovett_cph.3a47036.jpg/330px-Robert_A._Lovett_cph.3a47036.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Robert_A._Lovett",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "로버트 A. 로벳",
+     "description_ko": "미국 정치인 (1895~1986)"
     },
     {
      "title": "National Security Agency",
      "description": "U.S. signals intelligence organization",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Seal_of_the_U.S._National_Security_Agency.svg/330px-Seal_of_the_U.S._National_Security_Agency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Security_Agency",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "국가안보국",
+     "description_ko": "미국 신호 정보 기관"
     },
     {
      "title": "Signals intelligence",
      "description": "Intelligence-gathering by interception of signals",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Menwith-hill-radomes.jpg/330px-Menwith-hill-radomes.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Signals_intelligence",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "신호 정보",
+     "description_ko": "신호 가로채기를 통한 정보 수집"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 국방부 장관 로버트 A. 로벳이 정부의 모든 통신 정보에 대한 책임을 지는 국가안보국 설립을 위한 각서를 발표했다."
   },
   {
    "year": 1944,
@@ -251,35 +253,35 @@
      "description": "Global conflict from 1939 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전",
+     "description_ko": "1939년부터 1945년까지의 세계 분쟁"
     },
     {
      "title": "Allies of World War II",
      "description": "Military coalition in World War II",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg/330px-UN_Fight_for_Freedom_Leslie_Ragan_1943_poster_-_restoration1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Allies_of_World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전의 연합국",
+     "description_ko": "제2차 세계 대전의 군사 연합"
     },
     {
      "title": "Operation Pheasant",
      "description": "WWII Allied action liberating North Brabant, Netherlands",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Churchill_tanks_of_6th_Guards_Tank_Brigade_and_troops_of_the_10th_Highland_Light_Infantry%2C_15th_%28Scottish%29_Division%2C_during_the_assault_on_Tilburg%2C_Holland%2C_28_October_1944._B11419.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Operation_Pheasant",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "꿩 작전",
+     "description_ko": "제2차 세계 대전 중 노르트브라반트 해방을 위한 연합군 작전"
     },
     {
      "title": "North Brabant",
      "description": "Province of the Netherlands",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Noord-Brabant_in_the_Netherlands.svg/330px-Noord-Brabant_in_the_Netherlands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/North_Brabant",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "노르트브라반트",
+     "description_ko": "네덜란드의 주"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 연합군이 네덜란드 노르트브라반트주에서 독일군을 소탕하기 위한 주요 작전인 꿩 작전을 완료했다."
   },
   {
    "year": 1938,
@@ -290,19 +292,19 @@
      "description": "Slovak fascist militia (1938–1945)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Flag_of_the_Hlinka_party_%281938%E2%80%931945%29_variant_1.svg/330px-Flag_of_the_Hlinka_party_%281938%E2%80%931945%29_variant_1.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hlinka_Guard",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "흘린카 방위대",
+     "description_ko": "슬로바키아 파시스트 민병대 (1938~1945)"
     },
     {
      "title": "1938 deportation of Jews from Slovakia",
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/1938_deportation_of_Jews_from_Slovakia",
-     "title_ko": null,
+     "title_ko": "1938년 슬로바키아 유대인 추방",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "흘린카 방위대와 슬로바키아 경찰이 수천 명의 유대인을 국가에서 추방하기 시작했다."
   },
   {
    "year": 1924,
@@ -313,7 +315,7 @@
      "description": "",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/1924_Wyoming_gubernatorial_special_election_results_map_by_county.svg/330px-1924_Wyoming_gubernatorial_special_election_results_map_by_county.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1924_Wyoming_gubernatorial_special_election",
-     "title_ko": null,
+     "title_ko": "1924년 와이오밍 주지사 특별 선거",
      "description_ko": null
     },
     {
@@ -321,19 +323,19 @@
      "description": "American politician (1876–1977)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Nellie_Tayloe_Ross.jpg/330px-Nellie_Tayloe_Ross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "넬리 테일러 로스",
+     "description_ko": "미국 정치인 (1876~1977)"
     },
     {
      "title": "Governor (United States)",
      "description": "Heads of government of each U.S. state and territory",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Governor_(United_States)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "주지사 (미국)",
+     "description_ko": "각 미국 주 및 영토의 정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "와이오밍주 특별 선거에서 넬리 테일러 로스가 미국 최초의 여성 주지사로 선출되었다."
   },
   {
    "year": 1922,
@@ -344,27 +346,27 @@
      "description": "Ancient Egyptian tomb",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg/330px-Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투탕카멘의 무덤",
+     "description_ko": "고대 이집트 무덤"
     },
     {
      "title": "Discovery of the tomb of Tutankhamun",
      "description": "Excavation of Egyptian tomb in 1922",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Moment_Carter_Opens_the_Shrine.jpg/330px-The_Moment_Carter_Opens_the_Shrine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투탕카멘 무덤의 발견",
+     "description_ko": "1922년 이집트 무덤 발굴"
     },
     {
      "title": "Howard Carter",
      "description": "British archaeologist and Egyptologist (1874–1939)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/330px-Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Howard_Carter",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하워드 카터",
+     "description_ko": "영국 고고학자 및 이집트학자 (1874~1939)"
     }
    ],
-   "text_ko": null
+   "text_ko": "투탕카멘(사진)의 무덤이 영국 이집트학자 하워드 카터가 이끄는 팀에 의해 발견되었다."
   },
   {
    "year": 1922,
@@ -375,27 +377,27 @@
      "description": "Ancient Egyptian tomb",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg/330px-Inside_Pharaoh_Tutankhamun%27s_tomb%2C_18th_dynasty.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tomb_of_Tutankhamun",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투탕카멘의 무덤",
+     "description_ko": "고대 이집트 무덤"
     },
     {
      "title": "Discovery of the tomb of Tutankhamun",
      "description": "Excavation of Egyptian tomb in 1922",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/The_Moment_Carter_Opens_the_Shrine.jpg/330px-The_Moment_Carter_Opens_the_Shrine.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Discovery_of_the_tomb_of_Tutankhamun",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투탕카멘 무덤의 발견",
+     "description_ko": "1922년 이집트 무덤 발굴"
     },
     {
      "title": "Howard Carter",
      "description": "British archaeologist and Egyptologist (1874–1939)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/330px-Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Howard_Carter",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하워드 카터",
+     "description_ko": "영국 고고학자 및 이집트학자 (1874~1939)"
     }
    ],
-   "text_ko": null
+   "text_ko": "투탕카멘(사진)의 무덤이 영국 이집트학자 하워드 카터가 이끄는 팀에 의해 발견되었다."
   },
   {
    "year": 1921,
@@ -406,27 +408,27 @@
      "description": "War memorial in Rome, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Altare_della_Patria-July_2016_%2859%29.jpg/330px-Altare_della_Patria-July_2016_%2859%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tomb_of_the_Unknown_Soldier_(Italy)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "무명 용사의 무덤 (이탈리아)",
+     "description_ko": "이탈리아 로마의 전쟁 기념관"
     },
     {
      "title": "Eternal flame",
      "description": "Continuously burning fire or lamp",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Nizhny_Novgorod_Eternal_Flame_01.JPG/330px-Nizhny_Novgorod_Eternal_Flame_01.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Eternal_flame",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "영원한 불꽃",
+     "description_ko": "지속적으로 타오르는 불 또는 램프"
     },
     {
      "title": "Victor Emmanuel II Monument",
      "description": "Building in Rome, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Vittoriano_Altare_della_Patria_2013-09-16.jpg/330px-Vittoriano_Altare_della_Patria_2013-09-16.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Victor_Emmanuel_II_Monument",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "비토리오 에마누엘레 2세 기념관",
+     "description_ko": "이탈리아 로마의 건물"
     }
    ],
-   "text_ko": null
+   "text_ko": "무명 용사의 유해가 로마의 조국의 제단(사진)에 영원한 불꽃과 함께 안장되었다."
   },
   {
    "year": 1912,
@@ -437,43 +439,43 @@
      "description": "Lower centreline structural element of a ship or boat hull",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/The_keel_plate_of_USS_United_States_%28CVA-58%29_being_laid_in_a_construction_dry_dock_on_18_April_1948.jpg/330px-The_keel_plate_of_USS_United_States_%28CVA-58%29_being_laid_in_a_construction_dry_dock_on_18_April_1948.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Keel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "용골",
+     "description_ko": "선박 또는 보트 선체의 하부 중앙 구조 요소"
     },
     {
      "title": "USS Nevada (BB-36)",
      "description": "Dreadnought battleship of the United States Navy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Uss_nevada.jpg/330px-Uss_nevada.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/USS_Nevada_(BB-36)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "USS 네바다 (BB-36)",
+     "description_ko": "미국 해군의 드레드노트급 전함"
     },
     {
      "title": "Keel laying",
      "description": "Formal recognition of the start of a ship's construction",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/H96796.jpg/330px-H96796.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Keel_laying",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "용골 거치",
+     "description_ko": "선박 건조 시작의 공식적인 인정"
     },
     {
      "title": "United States Navy",
      "description": "Maritime service branch of the U.S. military",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Emblem_of_the_United_States_Navy.svg/330px-Emblem_of_the_United_States_Navy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_States_Navy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 해군",
+     "description_ko": "미군 해상 서비스 부문"
     },
     {
      "title": "Dreadnought",
      "description": "Early 20th-century battleship type",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/HMS_Dreadnought_1906_H61017.jpg/330px-HMS_Dreadnought_1906_H61017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Dreadnought",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "드레드노트",
+     "description_ko": "20세기 초 전함 유형"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 해군 최초의 '초드레드노트' 건조를 시작하는 USS 네바다의 용골이 놓였다."
   },
   {
    "year": 1890,
@@ -484,35 +486,35 @@
      "description": "Underground railway company in London",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Plaque_on_Monument_to_James_Henry_Greathead.jpg/330px-Plaque_on_Monument_to_James_Henry_Greathead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/City_and_South_London_Railway",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시티 앤 사우스 런던 철도",
+     "description_ko": "런던의 지하철 회사"
     },
     {
      "title": "Rapid transit",
      "description": "High-capacity public transport",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Seoul-metro-2009-20180916-103548.jpg/330px-Seoul-metro-2009-20180916-103548.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Rapid_transit",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "도시 철도",
+     "description_ko": "대용량 대중교통"
     },
     {
      "title": "City of London",
      "description": "Central business district of London, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Bank_junction_-_2020-09-20_%282%29.jpg/330px-Bank_junction_-_2020-09-20_%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/City_of_London",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "런던 시티",
+     "description_ko": "잉글랜드 런던의 중심 업무 지구"
     },
     {
      "title": "Stockwell",
      "description": "Human settlement in England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Flats_on_Grantham_road_-_geograph.org.uk_-_970266.jpg/330px-Flats_on_Grantham_road_-_geograph.org.uk_-_970266.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Stockwell",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "스톡웰",
+     "description_ko": "잉글랜드의 인간 정착지"
     }
    ],
-   "text_ko": null
+   "text_ko": "세계 최초의 심층 지하철인 시티 앤 사우스 런던 철도(사진의 객차)가 런던 시티와 스톡웰 사이 5.1km 구간을 운행하며 공식 개통했다."
   },
   {
    "year": 1864,
@@ -523,43 +525,43 @@
      "description": "1861–1865 conflict in the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "남북 전쟁",
+     "description_ko": "1861년~1865년 미국 내 분쟁"
     },
     {
      "title": "Nathan Bedford Forrest",
      "description": "Confederate States Army general, planter, and slave trader (1821–1877)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Nathan_B._Forrest_-_LOCc.jpg/330px-Nathan_B._Forrest_-_LOCc.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nathan_Bedford_Forrest",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "네이선 베드퍼드 포레스트",
+     "description_ko": "남부 연합군 장군, 농장주, 노예 상인 (1821~1877)"
     },
     {
      "title": "Battle of Johnsonville",
      "description": "1864 battle of the American Civil War",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Battle_of_Johnsonville",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "존슨빌 전투",
+     "description_ko": "1864년 미국 남북 전쟁의 전투"
     },
     {
      "title": "Union army",
      "description": "Land branch of the army that fought for the Union during the American Civil War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_the_United_States_%281863%E2%80%931865%29.svg/330px-Flag_of_the_United_States_%281863%E2%80%931865%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Union_army",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "북군",
+     "description_ko": "미국 남북 전쟁 동안 연합을 위해 싸운 육군 지상군"
     },
     {
      "title": "New Johnsonville, Tennessee",
      "description": "City in Tennessee, United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Humphreys_County_Tennessee_Incorporated_and_Unincorporated_areas_New_Johnsonville_Highlighted_4752820.svg/330px-Humphreys_County_Tennessee_Incorporated_and_Unincorporated_areas_New_Johnsonville_Highlighted_4752820.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/New_Johnsonville%2C_Tennessee",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뉴존슨빌",
+     "description_ko": "미국 테네시주의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "남북 전쟁: 네이선 베드퍼드 포레스트가 테네시주 존슨빌의 북군 보급 기지에 대한 기병 사단 공격을 이끌어 150명의 포로를 잡았다."
   },
   {
    "year": 1780,
@@ -570,59 +572,59 @@
      "description": "Leader of an uprising in Peru",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/23/TupacAmaruII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/T%C3%BApac_Amaru_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투팍 아마루 2세",
+     "description_ko": "페루 봉기의 지도자"
     },
     {
      "title": "Rebellion of Túpac Amaru II",
      "description": "1780–83 uprising in Spanish-ruled Peru",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg/330px-Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투팍 아마루 2세의 반란",
+     "description_ko": "스페인령 페루에서 1780~83년에 일어난 봉기"
     },
     {
      "title": "Aymara people",
      "description": "Indigenous peoples of western South America",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Aimaras_Pozo_Almonte.jpg/330px-Aimaras_Pozo_Almonte.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Aymara_people",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아이마라족",
+     "description_ko": "남아메리카 서부의 원주민"
     },
     {
      "title": "Quechua people",
      "description": "Indigenous people of South America",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Andean_Man.jpg/330px-Andean_Man.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Quechua_people",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "케추아족",
+     "description_ko": "남아메리카의 원주민"
     },
     {
      "title": "Mestizo",
      "description": "Spanish term to indicate mixed ancestry",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Castas_01mestiza_max.jpg/330px-Castas_01mestiza_max.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mestizo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "메스티소",
+     "description_ko": "혼혈을 나타내는 스페인어 용어"
     },
     {
      "title": "Bourbon Reforms",
      "description": "18th-century reforms in Spain",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Flag_of_Cross_of_Burgundy.svg/330px-Flag_of_Cross_of_Burgundy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bourbon_Reforms",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "부르봉 개혁",
+     "description_ko": "18세기 스페인의 개혁"
     },
     {
      "title": "Viceroyalty of Peru",
      "description": "South American administrative district of Spain (1542–1824)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Map_of_the_Viceroyalty_of_Peru_%28%2Bclaimed_Patagonian_and_Amazonic_territories%29_%28cropped%29.svg/330px-Map_of_the_Viceroyalty_of_Peru_%28%2Bclaimed_Patagonian_and_Amazonic_territories%29_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Viceroyalty_of_Peru",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "페루 부왕령",
+     "description_ko": "스페인의 남아메리카 행정 구역 (1542~1824)"
     }
    ],
-   "text_ko": null
+   "text_ko": "투팍 아마루 2세가 스페인 페루 부왕령에서 부르봉 개혁에 항의하여 아이마라족, 케추아족, 메스티소 농민들의 반란을 이끌었다."
   }
  ],
  "events": [
@@ -635,35 +637,35 @@
      "description": "2025 aviation accident in Louisville, Kentucky, US",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/UPS_Airlines_Flight_2976_crash_site.png/330px-UPS_Airlines_Flight_2976_crash_site.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/UPS_Airlines_Flight_2976",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "UPS 항공 2976편",
+     "description_ko": "2025년 미국 켄터키주 루이빌에서 발생한 항공 사고"
     },
     {
      "title": "McDonnell Douglas MD-11",
      "description": "Wide body airliner developed from the DC-10",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/McDonnell_Douglas_MD-11P_KLM_PH-KCC.jpg/330px-McDonnell_Douglas_MD-11P_KLM_PH-KCC.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/McDonnell_Douglas_MD-11",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "맥도넬 더글러스 MD-11",
+     "description_ko": "DC-10에서 개발된 광폭동체 항공기"
     },
     {
      "title": "Louisville Muhammad Ali International Airport",
      "description": "Airport serving Louisville, Kentucky, United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Ksdf.jpg/330px-Ksdf.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Louisville_Muhammad_Ali_International_Airport",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루이빌 무함마드 알리 국제공항",
+     "description_ko": "미국 켄터키주 루이빌을 운항하는 공항"
     },
     {
      "title": "Louisville, Kentucky",
      "description": "Most populous city in Kentucky, United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Louisville_Skyline_2021_%283%29.jpg/330px-Louisville_Skyline_2021_%283%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Louisville%2C_Kentucky",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루이빌",
+     "description_ko": "미국 켄터키주에서 가장 인구가 많은 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "UPS 항공 2976편, 맥도넬 더글러스 MD-11F가 켄터키주 루이빌의 루이빌 무함마드 알리 국제공항에서 이륙 중 여러 건물에 추락하여 승무원 3명을 포함한 15명이 사망했다."
   },
   {
    "year": 2022,
@@ -674,19 +676,19 @@
      "description": "Khash",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Emblem_of_Iran.svg/330px-Emblem_of_Iran.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2022_Khash_massacre",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2022년 하쉬 학살",
+     "description_ko": "하쉬"
     },
     {
      "title": "Iranian Armed Forces",
      "description": "Combined military forces of Iran",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Seal_of_the_General_Staff_of_the_Armed_Forces_of_the_Islamic_Republic_of_Iran.svg/330px-Seal_of_the_General_Staff_of_the_Armed_Forces_of_the_Islamic_Republic_of_Iran.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Iranian_Armed_Forces",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이란군",
+     "description_ko": "이란의 통합군"
     }
    ],
-   "text_ko": null
+   "text_ko": "이란 보안군이 시위대를 진압하여 18명이 사망하고 20명 이상이 부상당한 하쉬 학살이 발생했다."
   },
   {
    "year": 2020,
@@ -697,19 +699,19 @@
      "description": "Armed conflict in Ethiopia (2020–2022)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/VOA_Tigray_Children2.jpg/330px-VOA_Tigray_Children2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tigray_war",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "티그라이 전쟁",
+     "description_ko": "에티오피아의 무력 충돌 (2020~2022)"
     },
     {
      "title": "Northern Command attacks (Ethiopia)",
      "description": "Beginning of the Tigray War",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Northern_Command_attacks_(Ethiopia)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "북부 사령부 공격 (에티오피아)",
+     "description_ko": "티그라이 전쟁의 시작"
     }
    ],
-   "text_ko": null
+   "text_ko": "티그라이 반군이 에티오피아 지휘부에 대한 공격을 시작하면서 티그라이 전쟁이 시작되었다."
   },
   {
    "year": 2015,
@@ -720,27 +722,27 @@
      "description": "Aviation disaster in Juba, South Sudan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Vlieg.jpg/330px-Vlieg.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2015_Juba_Antonov_An-12_crash",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2015년 주바 안토노프 An-12 추락 사고",
+     "description_ko": "남수단 주바의 항공 재난"
     },
     {
      "title": "Juba International Airport",
      "description": "International airport serving Juba, South Sudan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Juba_Airport.jpg/330px-Juba_Airport.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Juba_International_Airport",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "주바 국제공항",
+     "description_ko": "남수단 주바를 운항하는 국제공항"
     },
     {
      "title": "Juba",
      "description": "Capital and largest city of South Sudan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Garang_Mausoleum_Square_in_Juba.JPG/330px-John_Garang_Mausoleum_Square_in_Juba.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Juba",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "주바",
+     "description_ko": "남수단의 수도이자 최대 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "남수단 주바의 주바 국제공항에서 이륙 직후 화물기가 추락하여 최소 37명이 사망했다."
   },
   {
    "year": 2015,
@@ -751,19 +753,19 @@
      "description": "Fatal building collapse in Pakistan",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/2015_Lahore_factory_disaster",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2015년 라호르 공장 붕괴 사고",
+     "description_ko": "파키스탄의 치명적인 건물 붕괴"
     },
     {
      "title": "Lahore",
      "description": "Capital of Punjab, Pakistan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Lahore_Fort_view_from_Baradari.jpg/330px-Lahore_Fort_view_from_Baradari.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Lahore",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "라호르",
+     "description_ko": "파키스탄 펀자브주의 주도"
     }
    ],
-   "text_ko": null
+   "text_ko": "파키스탄 라호르에서 건물이 붕괴되어 최소 45명이 사망하고 100명 이상이 부상당했다."
   },
   {
    "year": 2010,
@@ -774,19 +776,19 @@
      "description": "2010 aviation accident",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Aerocaribbean_ATR72_CU-T1549_cropped.jpg/330px-Aerocaribbean_ATR72_CU-T1549_cropped.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Aero_Caribbean_Flight_883",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아에로 카리브 항공 883편",
+     "description_ko": "2010년 항공 사고"
     },
     {
      "title": "Guasimal",
      "description": "Village in Sancti Spíritus, Cuba",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Guasimal_%28Cuba%2C_OpenStreetMap%29.png/330px-Guasimal_%28Cuba%2C_OpenStreetMap%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Guasimal",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "과시말",
+     "description_ko": "쿠바 산크티 스피리투스의 마을"
     }
    ],
-   "text_ko": null
+   "text_ko": "아에로 카리브 항공 883편이 산크티 스피리투스 과시말에 추락하여 탑승객과 승무원 68명 전원이 사망했다."
   },
   {
    "year": 2010,
@@ -797,27 +799,27 @@
      "description": "2010 aviation accident over Indonesia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg/330px-Qantas_Flight_32_engine_damage_-_4_Nov_2010.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Qantas_Flight_32",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "콴타스 항공 32편",
+     "description_ko": "2010년 인도네시아 상공 항공 사고"
     },
     {
      "title": "Airbus A380",
      "description": "European wide-body airliner",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg/330px-A6-EDY_A380_Emirates_31_jan_2013_jfk_%288442269364%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Airbus_A380",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "에어버스 A380",
+     "description_ko": "유럽의 광폭동체 항공기"
     },
     {
      "title": "Changi Airport",
      "description": "International airport in Singapore",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/6/6d/Changi_Airport_logo.svg/330px-Changi_Airport_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Changi_Airport",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "창이 공항",
+     "description_ko": "싱가포르의 국제공항"
     }
    ],
-   "text_ko": null
+   "text_ko": "콴타스 항공 32편, 에어버스 A380이 싱가포르에서 이륙 직후 인도네시아 상공에서 엔진 고장을 겪어 항공기가 손상되었다. 승무원들은 모든 승객과 승무원 469명을 구하고 싱가포르로 안전하게 회항했다."
   },
   {
    "year": 2008,
@@ -828,35 +830,35 @@
      "description": "President of the United States from 2009 to 2017",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/President_Barack_Obama.jpg/330px-President_Barack_Obama.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Barack_Obama",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "버락 오바마",
+     "description_ko": "2009년부터 2017년까지 미국의 대통령"
     },
     {
      "title": "African Americans",
      "description": "Ethnic and cultural group in the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Black_Americans_2020_County.png/330px-Black_Americans_2020_County.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/African_Americans",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아프리카계 미국인",
+     "description_ko": "미국의 민족 및 문화 집단"
     },
     {
      "title": "2008 United States presidential election",
      "description": "Election of Barack Obama",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/ElectoralCollege2008.svg/330px-ElectoralCollege2008.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2008_United_States_presidential_election",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2008년 미국 대통령 선거",
+     "description_ko": "버락 오바마의 당선"
     },
     {
      "title": "President of the United States",
      "description": "Head of state and government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/330px-Seal_of_the_President_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/President_of_the_United_States",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국의 대통령",
+     "description_ko": "국가 원수 및 정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "버락 오바마가 미국 대통령으로 선출된 최초의 혼혈 또는 아프리카계 미국인 인물이 되었다."
   },
   {
    "year": 2002,
@@ -867,19 +869,19 @@
      "description": "Chinese dissident (born 1956)",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/He_Depu",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "허더푸",
+     "description_ko": "중국의 반체제 인사 (1956년생)"
     },
     {
      "title": "National Congress of the Chinese Communist Party",
      "description": "Party conference held every five years",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Danghui.svg/330px-Danghui.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Congress_of_the_Chinese_Communist_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중국 공산당 전국대표대회",
+     "description_ko": "5년마다 개최되는 당 대회"
     }
    ],
-   "text_ko": null
+   "text_ko": "중국 당국이 제16차 공산당 대회에 민주화 지지 서한을 서명한 사이버 반체제 인사 허더푸를 체포했다."
   },
   {
    "year": 1995,
@@ -890,43 +892,43 @@
      "description": "Ongoing military and political conflict in West Asia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Occupied_Palestinian_Territories.jpg/330px-Occupied_Palestinian_Territories.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Israeli%E2%80%93Palestinian_conflict",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이스라엘-팔레스타인 분쟁",
+     "description_ko": "서아시아에서 진행 중인 군사 및 정치 분쟁"
     },
     {
      "title": "Israel",
      "description": "Country in West Asia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/330px-Flag_of_Israel.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Israel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이스라엘",
+     "description_ko": "서아시아의 국가"
     },
     {
      "title": "Yitzhak Rabin",
      "description": "Prime Minister of Israel (1974–1977; 1992–1995)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg/330px-Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈",
+     "description_ko": "이스라엘의 총리 (1974~1977; 1992~1995)"
     },
     {
      "title": "Assassination of Yitzhak Rabin",
      "description": "1995 murder in Tel Aviv, Israel",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Assassination_of_Prime_Minister_Yitzhak_Rabin%2C_1995_Dan_Hadani_Archive.jpg/330px-Assassination_of_Prime_Minister_Yitzhak_Rabin%2C_1995_Dan_Hadani_Archive.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Assassination_of_Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈 암살 사건",
+     "description_ko": "1995년 이스라엘 텔아비브에서 발생한 살인 사건"
     },
     {
      "title": "Yigal Amir",
      "description": "Israeli assassin (born 1970)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg/330px-Yigal_Amir_Amir%2C_November_1995_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yigal_Amir",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이갈 아미르",
+     "description_ko": "이스라엘 암살자 (1970년생)"
     }
    ],
-   "text_ko": null
+   "text_ko": "이스라엘-팔레스타인 분쟁: 이스라엘 총리 이츠하크 라빈이 극단주의 이스라엘인 이갈 아미르에게 암살당했다."
   },
   {
    "year": 1993,
@@ -937,35 +939,35 @@
      "description": "1993 aviation accident in Hong Kong",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/China_Airlines_B-165_damage.jpg/330px-China_Airlines_B-165_damage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/China_Airlines_Flight_605",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "차이나 에어라인 605편",
+     "description_ko": "1993년 홍콩 항공 사고"
     },
     {
      "title": "Boeing 747-400",
      "description": "Wide-body airliner, improved production series of the 747",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Frankfurt_Airport_Lufthansa_Boeing_747-430_D-ABVY_%28DSC09727%29.jpg/330px-Frankfurt_Airport_Lufthansa_Boeing_747-430_D-ABVY_%28DSC09727%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Boeing_747-400",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "보잉 747-400",
+     "description_ko": "광폭동체 항공기, 747의 개선된 생산 시리즈"
     },
     {
      "title": "Hong Kong",
      "description": "Special administrative region of China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Flag_of_Hong_Kong.svg/330px-Flag_of_Hong_Kong.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hong_Kong",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "홍콩",
+     "description_ko": "중국의 특별행정구"
     },
     {
      "title": "Kai Tak Airport",
      "description": "Airport in Hong Kong (1925–1998)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Boeing_747-467%2C_Cathay_Pacific_Airways_JP10362.jpg/330px-Boeing_747-467%2C_Cathay_Pacific_Airways_JP10362.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Kai_Tak_Airport",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카이탁 공항",
+     "description_ko": "홍콩의 공항 (1925~1998)"
     }
    ],
-   "text_ko": null
+   "text_ko": "차이나 에어라인 605편, 신형 보잉 747-400이 홍콩 카이탁 공항에서 활주로를 이탈했다."
   },
   {
    "year": 1980,
@@ -976,35 +978,35 @@
      "description": "President of the United States from 1981 to 1989",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Official_Portrait_of_President_Reagan_1981.jpg/330px-Official_Portrait_of_President_Reagan_1981.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ronald_Reagan",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "로널드 레이건",
+     "description_ko": "1981년부터 1989년까지 미국의 대통령"
     },
     {
      "title": "1980 United States presidential election",
      "description": "Election of Ronald Reagan",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/ElectoralCollege1980.svg/330px-ElectoralCollege1980.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1980_United_States_presidential_election",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1980년 미국 대통령 선거",
+     "description_ko": "로널드 레이건의 당선"
     },
     {
      "title": "President of the United States",
      "description": "Head of state and government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Seal_of_the_President_of_the_United_States.svg/330px-Seal_of_the_President_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/President_of_the_United_States",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국의 대통령",
+     "description_ko": "국가 원수 및 정부 수반"
     },
     {
      "title": "Jimmy Carter",
      "description": "President of the United States from 1977 to 1981",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg/330px-Jimmy_Carter_Official_Portrait2_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Jimmy_Carter",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "지미 카터",
+     "description_ko": "1977년부터 1981년까지 미국의 대통령"
     }
    ],
-   "text_ko": null
+   "text_ko": "로널드 레이건이 현직 지미 카터를 물리치고 제40대 미국 대통령으로 선출되었다."
   },
   {
    "year": 1979,
@@ -1015,27 +1017,27 @@
      "description": "Occupation of Tehran's U.S. embassy (1979–1981)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg/330px-Iran_hostage_crisis_-_Iraninan_students_comes_up_U.S._embassy_in_Tehran.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Iran_hostage_crisis",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이란 인질 위기",
+     "description_ko": "테헤란 주재 미국 대사관 점거 (1979~1981)"
     },
     {
      "title": "Iran",
      "description": "Country in West Asia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Flag_of_Iran_%28official%29.svg/330px-Flag_of_Iran_%28official%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Iran",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이란",
+     "description_ko": "서아시아의 국가"
     },
     {
      "title": "Tehran",
      "description": "Capital and largest city of Iran",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/North_of_Tehran_Skyline_view.jpg/330px-North_of_Tehran_Skyline_view.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tehran",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "테헤란",
+     "description_ko": "이란의 수도이자 최대 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "이란 인질 위기: 이란 대학생 집단이 테헤란 주재 미국 대사관을 점거하고 90명의 인질을 잡았다."
   },
   {
    "year": 1973,
@@ -1046,27 +1048,27 @@
      "description": "OAPEC petroleum embargo",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/West_Texas_Intermediate_oil_prices_1950%E2%80%932000_%28with_1973_highlight%29.svg/330px-West_Texas_Intermediate_oil_prices_1950%E2%80%932000_%28with_1973_highlight%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1973_oil_crisis",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1973년 석유 위기",
+     "description_ko": "OAPEC 석유 금수 조치"
     },
     {
      "title": "Cycling",
      "description": "Activity of riding a bicycle",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Cycliste_%C3%A0_place_d%27Italie-Paris_crop.jpg/330px-Cycliste_%C3%A0_place_d%27Italie-Paris_crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Cycling",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "자전거 타기",
+     "description_ko": "자전거를 타는 활동"
     },
     {
      "title": "Roller skating",
      "description": "Sport, activity, or form of transportation",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Patineur_%C3%A0_Douala_17.jpg/330px-Patineur_%C3%A0_Douala_17.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Roller_skating",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "롤러 스케이팅",
+     "description_ko": "스포츠, 활동 또는 교통수단"
     }
    ],
-   "text_ko": null
+   "text_ko": "네덜란드가 1973년 석유 위기로 인해 첫 번째 차량 없는 일요일을 경험했다. 고속도로는 자전거 타는 사람과 롤러 스케이트 타는 사람만 이용했다."
   },
   {
    "year": 1970,
@@ -1077,27 +1079,27 @@
      "description": "1955–1975 war in Southeast Asia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg/330px-U.S._Army_UH-1H_Hueys_insert_ARVN_troops_at_Kh%C3%A2m_%C4%90%E1%BB%A9c%2C_Vietnam%2C_12_July_1970_%2879431435%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Vietnam_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "베트남 전쟁",
+     "description_ko": "1955~1975년 동남아시아 전쟁"
     },
     {
      "title": "Binh Thuy Air Base",
      "description": "Airbase in Vietnam",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/BinhThuyAB_1967.jpg/330px-BinhThuyAB_1967.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Binh_Thuy_Air_Base",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "빈투이 공군 기지",
+     "description_ko": "베트남의 공군 기지"
     },
     {
      "title": "South Vietnam",
      "description": "Country in Southeast Asia (1955–1975)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Flag_of_South_Vietnam.svg/330px-Flag_of_South_Vietnam.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/South_Vietnam",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "남베트남",
+     "description_ko": "동남아시아의 국가 (1955~1975)"
     }
    ],
-   "text_ko": null
+   "text_ko": "베트남 전쟁: 미국이 메콩강 삼각주의 빈투이 공군 기지 통제권을 남베트남에 넘겨주었다."
   },
   {
    "year": 1970,
@@ -1108,35 +1110,35 @@
      "description": "President of Chile from 1970 to 1973",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Salvador_Allende_Gossens-.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Salvador_Allende",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "살바도르 아옌데",
+     "description_ko": "1970년부터 1973년까지 칠레의 대통령"
     },
     {
      "title": "President of Chile",
      "description": "Head of state and government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Bandera_del_presidente_de_Chile.svg/330px-Bandera_del_presidente_de_Chile.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/President_of_Chile",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "칠레의 대통령",
+     "description_ko": "국가 원수 및 정부 수반"
     },
     {
      "title": "Marxism",
      "description": "Political philosophy",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Marxism",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "마르크스주의",
+     "description_ko": "정치 철학"
     },
     {
      "title": "Latin America",
      "description": "Region of the Americas",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Latin_America_%28orthographic_projection%29.svg/330px-Latin_America_%28orthographic_projection%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Latin_America",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "라틴 아메리카",
+     "description_ko": "아메리카 대륙의 지역"
     }
    ],
-   "text_ko": null
+   "text_ko": "살바도르 아옌데가 칠레 대통령으로 취임했으며, 공개 선거를 통해 라틴 아메리카 국가의 대통령이 된 최초의 마르크스주의자가 되었다."
   },
   {
    "year": 1967,
@@ -1147,27 +1149,27 @@
      "description": "Aviation accident in 1967",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Iberia_Caravelle_Fitzgerald.jpg/330px-Iberia_Caravelle_Fitzgerald.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Iberia_Flight_062",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이베리아 항공 062편",
+     "description_ko": "1967년 항공 사고"
     },
     {
      "title": "Blackdown, West Sussex",
      "description": "Hill summit in the South Downs National Park in Sussex, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Blackdown.jpg/330px-Blackdown.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Blackdown%2C_West_Sussex",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "블랙다운, 웨스트서식스",
+     "description_ko": "잉글랜드 서식스 사우스 다운스 국립공원의 언덕 정상"
     },
     {
      "title": "June Thorburn",
      "description": "English actress (1931–1967)",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/5/5b/June_Thorburn.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/June_Thorburn",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "준 소번",
+     "description_ko": "잉글랜드 여배우 (1931~1967)"
     }
    ],
-   "text_ko": null
+   "text_ko": "이베리아 항공 062편이 웨스트서식스 블랙다운에 추락하여 영국 여배우 준 소번을 포함한 탑승객 37명 전원이 사망했다."
   },
   {
    "year": 1966,
@@ -1178,43 +1180,43 @@
      "description": "Italian river in Tuscany",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/FirenzeDec092023_01.jpg/330px-FirenzeDec092023_01.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Arno",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아르노강",
+     "description_ko": "이탈리아 토스카나 지방의 강"
     },
     {
      "title": "1966 flood of the Arno",
      "description": "November 1966 flood of the river Arno in Tuscany, Italy",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/1966_flood_of_the_Arno",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1966년 아르노강 홍수",
+     "description_ko": "1966년 11월 이탈리아 토스카나 지방 아르노강의 홍수"
     },
     {
      "title": "Florence",
      "description": "Largest city in Tuscany, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg/330px-Firenze_-_Piazzale_Michelangelo%2C_Firenze%2C_Italy_-_April_6%2C_2015_02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Florence",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피렌체",
+     "description_ko": "이탈리아 토스카나주의 가장 큰 도시"
     },
     {
      "title": "1966 Venice flood",
      "description": "Natural disaster in Venice, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/62/Alluvione_di_Venezia_del_1966.jpg/330px-Alluvione_di_Venezia_del_1966.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1966_Venice_flood",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1966년 베네치아 홍수",
+     "description_ko": "이탈리아 베네치아의 자연재해"
     },
     {
      "title": "Acqua alta",
      "description": "Exceptional periodic high tide peak",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/5/57/Aqua_alta_venise_07.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Acqua_alta",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아쿠아 알타",
+     "description_ko": "예외적인 주기적 만조"
     }
    ],
-   "text_ko": null
+   "text_ko": "아르노강이 이탈리아 피렌체를 최대 6.7m(22피트) 깊이로 범람시켜 수천 명의 이재민을 발생시키고 수백만 점의 예술 작품과 희귀 서적을 파괴했다. 같은 날 베네치아도 사상 최고 수위인 194cm(76인치)의 아쿠아 알타로 침수되었다."
   },
   {
    "year": 1962,
@@ -1225,27 +1227,27 @@
      "description": "Series of 1960s US high-altitude nuclear tests",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Dominic-Fishbowl-Tightrope.gif/330px-Dominic-Fishbowl-Tightrope.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Operation_Fishbowl",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피시볼 작전",
+     "description_ko": "1960년대 미국의 고고도 핵실험 시리즈"
     },
     {
      "title": "Nuclear weapons testing",
      "description": "Controlled detonation of nuclear weapons for scientific or political purposes",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Castle_Bravo_nuclear_test_%28cropped%29.jpg/330px-Castle_Bravo_nuclear_test_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nuclear_weapons_testing",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "핵무기 실험",
+     "description_ko": "과학적 또는 정치적 목적을 위한 핵무기의 통제된 폭발"
     },
     {
      "title": "Partial Nuclear Test Ban Treaty",
      "description": "1963 international agreement",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/PTBT_Participation.svg/330px-PTBT_Participation.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Partial_Nuclear_Test_Ban_Treaty",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "부분적 핵실험 금지 조약",
+     "description_ko": "1963년 국제 협정"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국은 1963년 부분적 핵실험 금지 조약에 앞서 마지막 지상 핵무기 실험 시리즈인 피시볼 작전을 마무리했다."
   },
   {
    "year": 1960,
@@ -1256,27 +1258,27 @@
      "description": "Community of wild eastern chimpanzees in Tanzania",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Sculpture_of_Jane_Goodall_and_David_Greybeard.jpg/330px-Sculpture_of_Jane_Goodall_and_David_Greybeard.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Kasakela_chimpanzee_community",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카사켈라 침팬지 공동체",
+     "description_ko": "탄자니아의 야생 동부 침팬지 공동체"
     },
     {
      "title": "Jane Goodall",
      "description": "English primatologist (1934–2025)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Deputy_Secretary_Higginbottom_Poses_for_a_Photo_With_Dr._Jane_Goodall_and_the_State_Department%27s_Global_Health_Diplomacy_Director_Jordan_in_Washington_%2822365513310%29_%282%29_%28cropped_2%29.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Jane_Goodall",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제인 구달",
+     "description_ko": "영국의 영장류학자 (1934–2025)"
     },
     {
      "title": "Eastern chimpanzee",
      "description": "Subspecies of ape",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Gombe_Stream_NP_Mutter_und_Kind.jpg/330px-Gombe_Stream_NP_Mutter_und_Kind.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Eastern_chimpanzee",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "동부 침팬지",
+     "description_ko": "유인원의 아종"
     }
    ],
-   "text_ko": null
+   "text_ko": "탄자니아의 카사켈라 침팬지 공동체에서 제인 구달은 침팬지가 도구를 만드는 것을 관찰했는데, 이는 비인간 동물에게서 최초로 관찰된 것이었다."
   },
   {
    "year": 1956,
@@ -1287,35 +1289,35 @@
      "description": "Country in Eurasia from 1922 to 1991",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_the_Soviet_Union.svg/330px-Flag_of_the_Soviet_Union.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Soviet_Union",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "소련",
+     "description_ko": "1922년부터 1991년까지 유라시아에 존재했던 국가"
     },
     {
      "title": "Hungarian People's Republic",
      "description": "Country in Central Europe (1949–1989)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg/330px-Flag_of_Hungary_%281949-1956%3B_1-2_aspect_ratio%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hungarian_People's_Republic",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헝가리 인민공화국",
+     "description_ko": "중앙유럽의 국가 (1949–1989)"
     },
     {
      "title": "Hungarian Revolution of 1956",
      "description": "Citizen rebellion in Hungary",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Hungarian_Revolution_of_1956_collage.jpg/330px-Hungarian_Revolution_of_1956_collage.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1956년 헝가리 혁명",
+     "description_ko": "헝가리 시민 봉기"
     },
     {
      "title": "October 23",
      "description": "Day of the year",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/October_23",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "10월 23일",
+     "description_ko": "연중 날짜"
     }
    ],
-   "text_ko": null
+   "text_ko": "소련군은 10월 23일에 시작된 반소련 헝가리 혁명을 종식시키기 위해 헝가리에 진입했다. 수천 명이 사망하고 더 많은 사람들이 부상당했으며, 거의 25만 명이 나라를 떠났다."
   },
   {
    "year": 1952,
@@ -1326,19 +1328,19 @@
      "description": "National government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Federal_government_of_the_United_States",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 연방 정부",
+     "description_ko": "국가 정부"
     },
     {
      "title": "National Security Agency",
      "description": "U.S. signals intelligence organization",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Seal_of_the_U.S._National_Security_Agency.svg/330px-Seal_of_the_U.S._National_Security_Agency.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Security_Agency",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "국가안보국",
+     "description_ko": "미국 신호 정보 기관"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 정부가 국가안보국(NSA)을 설립했다."
   },
   {
    "year": 1944,
@@ -1349,19 +1351,19 @@
      "description": "Anti-fascist movement in occupied Yugoslavia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Flag_of_Macedonia_%281944%E2%80%931946%29.svg/330px-Flag_of_Macedonia_%281944%E2%80%931946%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Macedonian_Partisans",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "마케도니아 파르티잔",
+     "description_ko": "점령된 유고슬라비아의 반파시스트 운동"
     },
     {
      "title": "Bitola",
      "description": "City in Pelagonia, North Macedonia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg/330px-Ambientalna_ulica_Marsal_Tito-Bitola_%2810%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bitola",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "비톨라",
+     "description_ko": "북마케도니아 펠라고니아의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 제7 마케도니아 해방 여단이 연합군을 위해 비톨라를 해방했다."
   },
   {
    "year": 1944,
@@ -1372,27 +1374,27 @@
      "description": "WWII Allied action liberating North Brabant, Netherlands",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Churchill_tanks_of_6th_Guards_Tank_Brigade_and_troops_of_the_10th_Highland_Light_Infantry%2C_15th_%28Scottish%29_Division%2C_during_the_assault_on_Tilburg%2C_Holland%2C_28_October_1944._B11419.jpg/330px-thumbnail.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Operation_Pheasant",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "꿩 작전",
+     "description_ko": "제2차 세계 대전 중 노르트브라반트 해방을 위한 연합군 작전"
     },
     {
      "title": "North Brabant",
      "description": "Province of the Netherlands",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Noord-Brabant_in_the_Netherlands.svg/330px-Noord-Brabant_in_the_Netherlands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/North_Brabant",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "노르트브라반트",
+     "description_ko": "네덜란드의 주"
     },
     {
      "title": "Netherlands",
      "description": "Country in Northwestern Europe and the Caribbean",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Flag_of_the_Netherlands.svg/330px-Flag_of_the_Netherlands.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Netherlands",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "네덜란드",
+     "description_ko": "북서유럽과 카리브해의 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 네덜란드 노르트브라반트 해방을 위한 연합군의 공세인 꿩 작전이 성공적으로 종료되었다."
   },
   {
    "year": 1942,
@@ -1403,27 +1405,27 @@
      "description": "Dictator of Germany from 1933 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Hitler_portrait_crop_%28cropped%29%282%29.jpg/330px-Hitler_portrait_crop_%28cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Adolf_Hitler",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아돌프 히틀러",
+     "description_ko": "1933년부터 1945년까지 독일의 독재자"
     },
     {
      "title": "Erwin Rommel",
      "description": "German field marshal (1891–1944)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Erwin-Rommel-1941.jpg/330px-Erwin-Rommel-1941.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Erwin_Rommel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "에르빈 롬멜",
+     "description_ko": "독일의 원수 (1891–1944)"
     },
     {
      "title": "Second Battle of El Alamein",
      "description": "Battle in the Western Desert Campaign of the Second World War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/El_Alamein_1942_-_British_infantry.jpg/330px-El_Alamein_1942_-_British_infantry.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_El_Alamein",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 엘 알라메인 전투",
+     "description_ko": "제2차 세계 대전 서부 사막 전역의 전투"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 아돌프 히틀러의 직접적인 명령을 거부하고 에르빈 롬멜 원수는 제2차 엘 알라메인 전투에서 값비싼 패배를 겪은 후 병력의 후퇴를 시작했다. 이 후퇴는 결국 5개월 동안 지속되었다."
   },
   {
    "year": 1939,
@@ -1434,35 +1436,35 @@
      "description": "Global conflict from 1939 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전",
+     "description_ko": "1939년부터 1945년까지의 세계 분쟁"
     },
     {
      "title": "Franklin D. Roosevelt",
      "description": "President of the United States from 1933 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg/330px-FDR-1944-Campaign-Portrait_%283x4_retouched%2C_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "프랭클린 D. 루스벨트",
+     "description_ko": "1933년부터 1945년까지 미국의 대통령"
     },
     {
      "title": "United States Customs Service",
      "description": "Federal government agency from 1789 to 2003",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Seal_of_the_U.S._Customs_Service.svg/330px-Seal_of_the_U.S._Customs_Service.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_States_Customs_Service",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 관세청",
+     "description_ko": "1789년부터 2003년까지의 연방 정부 기관"
     },
     {
      "title": "Neutrality Acts of the 1930s",
      "description": "U.S. laws enacted before World War II",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Great_Seal_of_the_United_States_%28obverse%29.svg/330px-Great_Seal_of_the_United_States_%28obverse%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Neutrality_Acts_of_the_1930s",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1930년대 중립법",
+     "description_ko": "제2차 세계 대전 이전에 제정된 미국 법률"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 미국 대통령 프랭클린 D. 루스벨트가 미국 관세청에 1939년 중립법을 시행하여 교전국들이 현금 지불 및 운송 방식으로 무기를 구매할 수 있도록 명령했다."
   },
   {
    "year": 1936,
@@ -1473,51 +1475,51 @@
      "description": "1936–1939 civil war in Spain",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg/330px-%D0%98%D1%81%D0%BF%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_11_%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%B1%D1%80%D0%B8%D0%B3%D0%B0%D0%B4%D0%B0_%D0%B2_%D0%B1%D0%BE%D1%8E_%D0%BF%D0%BE%D0%B4_%D0%91%D0%B5%D0%BB%D1%8C%D1%87%D0%B8%D1%82%D0%B5._1937-edit.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Spanish_Civil_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "스페인 내전",
+     "description_ko": "1936–1939년 스페인의 내전"
     },
     {
      "title": "Francisco Largo Caballero",
      "description": "Spanish politician and trade union leader",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Francisco_Largo_Caballero_1927_%28cropped%29.jpg/330px-Francisco_Largo_Caballero_1927_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Francisco_Largo_Caballero",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "프란시스코 라르고 카바예로",
+     "description_ko": "스페인의 정치인이자 노동조합 지도자"
     },
     {
      "title": "Cabinet reshuffle",
      "description": "Rotation of ministers by the government",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Cabinet_reshuffle",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "내각 개편",
+     "description_ko": "정부에 의한 장관 교체"
     },
     {
      "title": "War cabinet",
      "description": "Government committee formed to conduct a war",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/War_cabinet",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "전시 내각",
+     "description_ko": "전쟁 수행을 위해 구성된 정부 위원회"
     },
     {
      "title": "Anarcho-syndicalism",
      "description": "Anarchist organisational model for trade unions",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Anarcho-syndicalism",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아나르코생디칼리즘",
+     "description_ko": "노동조합을 위한 아나키스트 조직 모델"
     },
     {
      "title": "Confederación Nacional del Trabajo",
      "description": "Anarcho-syndicalist trade union confederation in Spain",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Logo-grande-cnt.png/330px-Logo-grande-cnt.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Confederaci%C3%B3n_Nacional_del_Trabajo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "국민노동연맹",
+     "description_ko": "스페인의 아나르코생디칼리스트 노동조합 연맹"
     }
    ],
-   "text_ko": null
+   "text_ko": "스페인 내전: 라르고 카바예로가 전시 내각을 개편하고 아나르코생디칼리스트 CNT를 정부에 참여하도록 설득했다."
   },
   {
    "year": 1924,
@@ -1528,19 +1530,19 @@
      "description": "American politician (1876–1977)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Nellie_Tayloe_Ross.jpg/330px-Nellie_Tayloe_Ross.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nellie_Tayloe_Ross",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "넬리 테일러 로스",
+     "description_ko": "미국 정치인 (1876~1977)"
     },
     {
      "title": "Wyoming",
      "description": "U.S. state",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Flag_of_Wyoming.svg/330px-Flag_of_Wyoming.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Wyoming",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "와이오밍주",
+     "description_ko": "미국의 주"
     }
    ],
-   "text_ko": null
+   "text_ko": "와이오밍주의 넬리 테일러 로스가 미국 최초의 여성 주지사로 선출되었다."
   },
   {
    "year": 1922,
@@ -1551,27 +1553,27 @@
      "description": "British archaeologist and Egyptologist (1874–1939)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Howard_carter.jpg/330px-Howard_carter.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Howard_Carter",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하워드 카터",
+     "description_ko": "영국 고고학자 및 이집트학자 (1874~1939)"
     },
     {
      "title": "Tutankhamun",
      "description": "Pharaoh of Egypt 1333-1324 BCE",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/CairoEgMuseumTaaMaskMostlyPhotographed.jpg/330px-CairoEgMuseumTaaMaskMostlyPhotographed.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tutankhamun",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투탕카멘",
+     "description_ko": "기원전 1333-1324년 이집트의 파라오"
     },
     {
      "title": "Valley of the Kings",
      "description": "Necropolis in ancient Egypt",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg/330px-Luxor%2C_Tal_der_K%C3%B6nige_%281995%2C_860x605%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Valley_of_the_Kings",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "왕가의 계곡",
+     "description_ko": "고대 이집트의 네크로폴리스"
     }
    ],
-   "text_ko": null
+   "text_ko": "이집트에서 영국 고고학자 하워드 카터와 그의 일행이 왕가의 계곡에서 투탕카멘의 무덤 입구를 발견했다."
   },
   {
    "year": 1921,
@@ -1582,27 +1584,27 @@
      "description": "Far-right political party in Germany (1920–1945)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg/330px-Parteiadler_Nationalsozialistische_Deutsche_Arbeiterpartei_%281933%E2%80%931945%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nazi_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "나치당",
+     "description_ko": "독일의 극우 정당 (1920–1945)"
     },
     {
      "title": "Sturmabteilung",
      "description": "Nazi Party's original paramilitary wing",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/SA-Logo_%28no_white_background%29.svg/330px-SA-Logo_%28no_white_background%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Sturmabteilung",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "돌격대",
+     "description_ko": "나치당의 원래 준군사 조직"
     },
     {
      "title": "Munich",
      "description": "Capital of Bavaria, Germany",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG/330px-Frauenkirche_and_Neues_Rathaus_Munich_March_2013.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Munich",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뮌헨",
+     "description_ko": "독일 바이에른주의 주도"
     }
    ],
-   "text_ko": null
+   "text_ko": "나치당의 잘슈츠 압타일룽(회관 방어 분견대)이 뮌헨에서 대규모 폭동이 발생한 후 돌격대(돌격 분견대)로 개칭되었다."
   },
   {
    "year": 1921,
@@ -1613,19 +1615,19 @@
      "description": "Head of government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gosichigirimon.svg/330px-Gosichigirimon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "일본의 내각총리대신",
+     "description_ko": "정부 수반"
     },
     {
      "title": "Hara Takashi",
      "description": "Prime Minister of Japan from 1918 to 1921",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Takashi_Hara_formal.jpg/330px-Takashi_Hara_formal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hara_Takashi",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하라 다카시",
+     "description_ko": "1918년부터 1921년까지 일본의 내각총리대신"
     }
    ],
-   "text_ko": null
+   "text_ko": "일본 총리 하라 다카시가 도쿄에서 암살되었다."
   },
   {
    "year": 1918,
@@ -1636,27 +1638,27 @@
      "description": "Global conflict from 1914 to 1918",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Bataille_de_Verdun_1916.jpg/330px-Bataille_de_Verdun_1916.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/World_War_I",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제1차 세계 대전",
+     "description_ko": "1914년부터 1918년까지의 세계적 분쟁"
     },
     {
      "title": "Armistice of Villa Giusti",
      "description": "1918 convention between the Allies and Austria-Hungary",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Nov_1918_US_media_coverage_of_the_Empire_of_Austro-Hungary_exiting_the_WWI.jpg/330px-Nov_1918_US_media_coverage_of_the_Empire_of_Austro-Hungary_exiting_the_WWI.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Armistice_of_Villa_Giusti",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "빌라 지우스티 휴전 협정",
+     "description_ko": "1918년 연합국과 오스트리아-헝가리 간의 협정"
     },
     {
      "title": "Austria-Hungary",
      "description": "1867–1918 dual monarchy in Central Europe",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Coat_of_arms_of_Austria-Hungary_%281914%29.svg/330px-Coat_of_arms_of_Austria-Hungary_%281914%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Austria-Hungary",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "오스트리아-헝가리",
+     "description_ko": "1867–1918년 중앙유럽의 이중 군주국"
     }
    ],
-   "text_ko": null
+   "text_ko": "제1차 세계 대전: 이탈리아와 오스트리아-헝가리 간의 빌라 지우스티 휴전 협정이 발효되었다."
   },
   {
    "year": 1890,
@@ -1667,35 +1669,35 @@
      "description": "Underground railway company in London",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Plaque_on_Monument_to_James_Henry_Greathead.jpg/330px-Plaque_on_Monument_to_James_Henry_Greathead.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/City_and_South_London_Railway",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시티 앤 사우스 런던 철도",
+     "description_ko": "런던의 지하철 회사"
     },
     {
      "title": "London Underground",
      "description": "Rapid transit system in England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Underground.svg/330px-Underground.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/London_Underground",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "런던 지하철",
+     "description_ko": "영국의 도시 철도 시스템"
     },
     {
      "title": "King William Street, London",
      "description": "Street in England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/King_William_Street_%28London%29.png/330px-King_William_Street_%28London%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/King_William_Street%2C_London",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "킹 윌리엄 스트리트",
+     "description_ko": "영국의 거리"
     },
     {
      "title": "Stockwell tube station",
      "description": "London Underground station",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Stockwell_station_building.JPG/330px-Stockwell_station_building.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Stockwell_tube_station",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "스톡웰역",
+     "description_ko": "런던 지하철역"
     }
    ],
-   "text_ko": null
+   "text_ko": "시티 앤 사우스 런던 철도: 런던 최초의 심층 지하철이 킹 윌리엄 스트리트와 스톡웰 사이에 개통되었다."
   },
   {
    "year": 1868,
@@ -1706,19 +1708,19 @@
      "description": "City in Cuba",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Ignacio_agramonte_statue.jpg/330px-Ignacio_agramonte_statue.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Camag%C3%BCey",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카마궤이",
+     "description_ko": "쿠바의 도시"
     },
     {
      "title": "Ten Years' War",
      "description": "1868–1878 Cuban uprising against Spanish rule",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Embarcament_dels_voluntaris_catalans_al_port_de_Barcelona.jpg/330px-Embarcament_dels_voluntaris_catalans_al_port_de_Barcelona.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ten_Years'_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "10년 전쟁",
+     "description_ko": "1868–1878년 스페인 통치에 대항한 쿠바 봉기"
     }
    ],
-   "text_ko": null
+   "text_ko": "쿠바 카마궤이가 10년 전쟁 중 스페인에 대항하여 반란을 일으켰다."
   },
   {
    "year": 1864,
@@ -1729,35 +1731,35 @@
      "description": "1861–1865 conflict in the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Battle_of_Gettysburg%2C_by_Currier_and_Ives.png/330px-Battle_of_Gettysburg%2C_by_Currier_and_Ives.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/American_Civil_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "남북 전쟁",
+     "description_ko": "1861년~1865년 미국 내 분쟁"
     },
     {
      "title": "Confederate States of America",
      "description": "Unrecognized state in North America (1861–1865)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg/330px-Flag_of_the_Confederate_States_%281861%E2%80%931863%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Confederate_States_of_America",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아메리카 연합국",
+     "description_ko": "1861–1865년 북아메리카의 미승인 국가"
     },
     {
      "title": "Union army",
      "description": "Land branch of the army that fought for the Union during the American Civil War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Flag_of_the_United_States_%281863%E2%80%931865%29.svg/330px-Flag_of_the_United_States_%281863%E2%80%931865%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Union_army",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "북군",
+     "description_ko": "미국 남북 전쟁 동안 연합을 위해 싸운 육군 지상군"
     },
     {
      "title": "Battle of Johnsonville",
      "description": "1864 battle of the American Civil War",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Battle_of_Johnsonville",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "존슨빌 전투",
+     "description_ko": "1864년 미국 남북 전쟁의 전투"
     }
    ],
-   "text_ko": null
+   "text_ko": "남북 전쟁: 남부군이 존슨빌 전투에서 북부군 보급 기지를 폭격하고 수백만 달러 상당의 군수품을 파괴했다."
   },
   {
    "year": 1852,
@@ -1768,35 +1770,35 @@
      "description": "Italian statesman and politician",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Camillo_Benso_Cavour_di_Ciseri.jpg/330px-Camillo_Benso_Cavour_di_Ciseri.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Camillo_Benso%2C_Count_of_Cavour",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카밀로 벤소 디 카보우르",
+     "description_ko": "이탈리아의 정치가"
     },
     {
      "title": "Prime minister",
      "description": "Top minister of cabinet and government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg/330px-The_Prime_Ministers_of_the_Nordic_Council_in_October_2014_-_09.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_minister",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "총리",
+     "description_ko": "내각과 정부의 최고 장관"
     },
     {
      "title": "Piedmont",
      "description": "Region in the northwest of Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Piedmont_in_Italy.svg/330px-Piedmont_in_Italy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Piedmont",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피에몬테",
+     "description_ko": "이탈리아 북서부 지역"
     },
     {
      "title": "Kingdom of Sardinia",
      "description": "State in Southern Europe from 1324 to 1861",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_Kingdom_of_Sardinia_%281324-1720%29.svg/330px-Flag_of_the_Kingdom_of_Sardinia_%281324-1720%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Kingdom_of_Sardinia",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "사르데냐 왕국",
+     "description_ko": "1324년부터 1861년까지 남유럽에 존재했던 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "카밀로 벤소 디 카보우르 백작이 피에몬테-사르데냐의 총리가 되었고, 이 나라는 곧 이탈리아로 확장되었다."
   },
   {
    "year": 1847,
@@ -1807,27 +1809,27 @@
      "description": "Scottish obstetrician (1811–1870)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Simpson_James_Young_signature_picture.jpg/330px-Simpson_James_Young_signature_picture.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/James_Young_Simpson",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제임스 영 심슨",
+     "description_ko": "스코틀랜드의 산부인과 의사 (1811년~1870년)"
     },
     {
      "title": "Anesthetic",
      "description": "Drug that causes anesthesia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Erythroxylum_novogranatense_var._Novogranatense_%28retouched%29.jpg/330px-Erythroxylum_novogranatense_var._Novogranatense_%28retouched%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Anesthetic",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "마취제",
+     "description_ko": "마취를 유발하는 약물"
     },
     {
      "title": "Chloroform",
      "description": "CHCl3, historical anaesthetic and common solvent",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Chloroform",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "클로로포름",
+     "description_ko": "CHCl3, 과거의 마취제이자 흔한 용매"
     }
    ],
-   "text_ko": null
+   "text_ko": "스코틀랜드 의사 제임스 영 심슨 경이 클로로포름의 마취 특성을 발견했다."
   },
   {
    "year": 1839,
@@ -1838,11 +1840,11 @@
      "description": "1839 pro-democracy revolt by Chartists in Newport, Wales",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Westgate_Hotel.jpg/330px-Westgate_Hotel.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Newport_Rising",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뉴포트 봉기",
+     "description_ko": "1839년 웨일스 뉴포트에서 차티스트들이 일으킨 민주화 봉기"
     }
    ],
-   "text_ko": null
+   "text_ko": "뉴포트 봉기: 영국 본토에서 당국에 대항한 마지막 대규모 무장 반란."
   },
   {
    "year": 1798,
@@ -1853,19 +1855,19 @@
      "description": "Russian and Ottoman military offensive during the War of the Second Coalition",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Vue_de_la_ville_et_port_de_Corfou_-_Grasset_De_Saint-sauveur_Andr%C3%A9_-_1800.jpg/330px-Vue_de_la_ville_et_port_de_Corfou_-_Grasset_De_Saint-sauveur_Andr%C3%A9_-_1800.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Siege_of_Corfu_(1798%E2%80%931799)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "코르푸 공방전 (1798년~1799년)",
+     "description_ko": "제2차 대프랑스 동맹 전쟁 중 러시아와 오스만 제국의 군사 공세"
     },
     {
      "title": "Corfu",
      "description": "Greek island in the Ionian Sea",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Pontikonisi.jpg/330px-Pontikonisi.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Corfu",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "코르푸",
+     "description_ko": "이오니아해에 있는 그리스 섬"
     }
    ],
-   "text_ko": null
+   "text_ko": "러시아-오스만 제국의 코르푸 공성전이 시작되었다."
   },
   {
    "year": 1791,
@@ -1876,35 +1878,35 @@
      "description": "Part of the American Indian Wars (1786–1795)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Treaty_of_Greenville.jpg/330px-Treaty_of_Greenville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Northwest_Indian_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "북서 인디언 전쟁",
+     "description_ko": "미국 인디언 전쟁의 일부 (1786년~1795년)"
     },
     {
      "title": "Northwestern Confederacy",
      "description": "Confederation of Native American tribes in the Great Lakes region",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/NW_Native_Tribes%2C_1792.png/330px-NW_Native_Tribes%2C_1792.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Northwestern_Confederacy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "북서부 연합",
+     "description_ko": "오대호 지역의 아메리카 원주민 부족 연합"
     },
     {
      "title": "Native Americans in the United States",
      "description": "Indigenous peoples of the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Indigenous_Americans_by_county.png/330px-Indigenous_Americans_by_county.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Native_Americans_in_the_United_States",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국의 원주민",
+     "description_ko": "미국의 토착민"
     },
     {
      "title": "St. Clair's defeat",
      "description": "1791 battle of the Northwest Indian War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Again_and_Again_%28cropped%29.jpg/330px-Again_and_Again_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/St._Clair's_defeat",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "세인트클레어 패배",
+     "description_ko": "1791년 북서 인디언 전쟁의 전투"
     }
    ],
-   "text_ko": null
+   "text_ko": "북서 인디언 전쟁: 아메리카 원주민 서부 연합이 와배시 전투에서 미국에 대승을 거두었다."
   },
   {
    "year": 1783,
@@ -1915,27 +1917,27 @@
      "description": "Composer and musician (1756–1791)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg/330px-The_Mozart_Family_-_Wolfgang_Amadeus_Mozart_headshot.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "볼프강 아마데우스 모차르트",
+     "description_ko": "작곡가이자 음악가 (1756년~1791년)"
     },
     {
      "title": "Symphony No. 36 (Mozart)",
      "description": "1783 composition by W. A. Mozart",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Mozart_Portrait_Croce.jpg/330px-Mozart_Portrait_Croce.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Symphony_No._36_(Mozart)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "교향곡 36번 (모차르트)",
+     "description_ko": "1783년 W. A. 모차르트의 작품"
     },
     {
      "title": "Linz",
      "description": "Statutory city in Upper Austria, Austria",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Linz_Blick_von_Freinbergstrasse_32-2_%28cropped%29.jpg/330px-Linz_Blick_von_Freinbergstrasse_32-2_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Linz",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "린츠",
+     "description_ko": "오스트리아 오버외스터라이히주의 법정 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "볼프강 아마데우스 모차르트의 교향곡 36번이 오스트리아 린츠에서 처음으로 연주되었다."
   },
   {
    "year": 1780,
@@ -1946,19 +1948,19 @@
      "description": "1780–83 uprising in Spanish-ruled Peru",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg/330px-Rebeli%C3%B3n_de_Tupac_Amaru%2C_de_Tadeo_Escalante_%281802-1840%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Rebellion_of_T%C3%BApac_Amaru_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "투팍 아마루 2세의 반란",
+     "description_ko": "스페인령 페루에서 1780~83년에 일어난 봉기"
     },
     {
      "title": "Viceroyalty of Peru",
      "description": "South American administrative district of Spain (1542–1824)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Map_of_the_Viceroyalty_of_Peru_%28%2Bclaimed_Patagonian_and_Amazonic_territories%29_%28cropped%29.svg/330px-Map_of_the_Viceroyalty_of_Peru_%28%2Bclaimed_Patagonian_and_Amazonic_territories%29_%28cropped%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Viceroyalty_of_Peru",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "페루 부왕령",
+     "description_ko": "스페인의 남아메리카 행정 구역 (1542~1824)"
     }
    ],
-   "text_ko": null
+   "text_ko": "페루 부왕령에서 스페인 통치에 대항하는 투팍 아마루 2세의 반란이 시작되었다."
   },
   {
    "year": 1737,
@@ -1969,11 +1971,11 @@
      "description": "Opera house in Naples, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg/330px-Teatro_de_San_Carlos%2C_N%C3%A1poles%2C_Italia%2C_2023-03-25%2C_DD_184-186_HDR.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Teatro_di_San_Carlo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "산 카를로 극장",
+     "description_ko": "이탈리아 나폴리의 오페라 극장"
     }
    ],
-   "text_ko": null
+   "text_ko": "유럽에서 가장 오래된 현존하는 오페라 극장인 산 카를로 극장이 이탈리아 나폴리에서 개관했다."
   },
   {
    "year": 1677,
@@ -1984,19 +1986,19 @@
      "description": "Queen of England, Scotland, and Ireland from 1689 to 1694",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Mary_II_-_Kneller_1690.jpg/330px-Mary_II_-_Kneller_1690.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mary_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "메리 2세",
+     "description_ko": "1689년부터 1694년까지 잉글랜드, 스코틀랜드, 아일랜드의 여왕"
     },
     {
      "title": "William III of England",
      "description": "King of England, Scotland, and Ireland from 1689 to 1702",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/King_William_III_of_England%2C_%281650-1702%29.jpg/330px-King_William_III_of_England%2C_%281650-1702%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/William_III_of_England",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "윌리엄 3세",
+     "description_ko": "1689년부터 1702년까지 잉글랜드, 스코틀랜드, 아일랜드의 국왕"
     }
    ],
-   "text_ko": null
+   "text_ko": "미래의 메리 2세가 오라녜 공 빌럼과 결혼했다. 그들은 후에 윌리엄과 메리로서 잉글랜드, 스코틀랜드, 아일랜드를 공동 통치했다."
   },
   {
    "year": 1576,
@@ -2007,35 +2009,35 @@
      "description": "c. 1566/1568–1648 war in Habsburg Netherlands",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Battle_of_Gibraltar_1607.jpg/330px-Battle_of_Gibraltar_1607.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Eighty_Years'_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "80년 전쟁",
+     "description_ko": "1566년/1568년경~1648년 합스부르크 네덜란드의 전쟁"
     },
     {
      "title": "Flanders",
      "description": "Dutch-speaking region of Belgium",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Flanders.svg/330px-Flag_of_Flanders.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Flanders",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "플랑드르",
+     "description_ko": "벨기에의 네덜란드어 사용 지역"
     },
     {
      "title": "Antwerp",
      "description": "City located in Flanders, Belgium",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Amberes%3B_vistas_MAS_2.jpg/330px-Amberes%3B_vistas_MAS_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Antwerp",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "안트베르펜",
+     "description_ko": "벨기에 플랑드르에 위치한 도시"
     },
     {
      "title": "Sack of Antwerp",
      "description": "Part of the Eighty Years' War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/De_Spaanse_Furie%2C_anoniem%2C_ca_1585%2C_MAS.jpg/330px-De_Spaanse_Furie%2C_anoniem%2C_ca_1585%2C_MAS.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Sack_of_Antwerp",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "안트베르펜 약탈",
+     "description_ko": "80년 전쟁의 일부"
     }
    ],
-   "text_ko": null
+   "text_ko": "80년 전쟁: 플랑드르에서 스페인이 안트베르펜을 점령했다 (3일 후 거의 파괴되었다)."
   },
   {
    "year": 1501,
@@ -2046,27 +2048,27 @@
      "description": "Queen of England from 1509 to 1533",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Catherine_of_Aragon_%281485-1536%29.jpg/330px-Catherine_of_Aragon_%281485-1536%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Catherine_of_Aragon",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아라곤의 캐서린",
+     "description_ko": "1509년부터 1533년까지 잉글랜드의 왕비"
     },
     {
      "title": "Henry VIII",
      "description": "King of England and Ireland from 1509 to 1547",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg/330px-After_Hans_Holbein_the_Younger_-_Portrait_of_Henry_VIII_-_Google_Art_Project.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Henry_VIII",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헨리 8세",
+     "description_ko": "1509년부터 1547년까지 잉글랜드와 아일랜드의 국왕"
     },
     {
      "title": "Arthur, Prince of Wales",
      "description": "Heir apparent of Henry VII of England (1486–1502)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg/330px-Anglo-Flemish_School%2C_Arthur%2C_Prince_of_Wales_%28Granard_portrait%29_-004_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Arthur%2C_Prince_of_Wales",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아서, 웨일스 공",
+     "description_ko": "잉글랜드 헨리 7세의 왕위 계승자 (1486년~1502년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "아라곤의 캐서린 (후에 헨리 8세의 첫 번째 아내)이 헨리 8세의 형인 웨일스 공 아서와 만났다. 그들은 후에 결혼했다."
   },
   {
    "year": 1493,
@@ -2077,19 +2079,19 @@
      "description": "Italian navigator and explorer (1451–1506)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg/330px-Portrait_of_a_Man%2C_Said_to_be_Christopher_Columbus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Christopher_Columbus",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "크리스토퍼 콜럼버스",
+     "description_ko": "이탈리아의 항해사이자 탐험가 (1451년~1506년)"
     },
     {
      "title": "Leeward Islands",
      "description": "Subgroup of islands in the West Indies",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/West_Indies_-_Island_Groups.svg/330px-West_Indies_-_Island_Groups.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Leeward_Islands",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "리워드 제도",
+     "description_ko": "서인도 제도의 섬들 중 한 그룹"
     }
    ],
-   "text_ko": null
+   "text_ko": "크리스토퍼 콜럼버스가 리워드 제도를 발견했다."
   },
   {
    "year": 1429,
@@ -2100,27 +2102,27 @@
      "description": "French dynastic war from 1407 to 1435",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Vigiles_du_roi_Charles_VII_56.jpg/330px-Vigiles_du_roi_Charles_VII_56.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Armagnac%E2%80%93Burgundian_Civil_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아르마냐크-부르고뉴 내전",
+     "description_ko": "1407년부터 1435년까지 프랑스의 왕조 전쟁"
     },
     {
      "title": "Joan of Arc",
      "description": "French folk heroine and saint (1412–1431)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Joan_of_Arc_miniature_graded.jpg/330px-Joan_of_Arc_miniature_graded.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Joan_of_Arc",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "잔 다르크",
+     "description_ko": "프랑스의 민족 영웅이자 성인 (1412년~1431년)"
     },
     {
      "title": "Siege of Saint-Pierre-le-Moûtier",
      "description": "1429 battle of the Armagnac–Burgundian Civil War",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Siege_of_Saint-Pierre-le-Mo%C3%BBtier",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "생피에르르무티에 공방전",
+     "description_ko": "1429년 아르마냐크-부르고뉴 내전의 전투"
     }
    ],
-   "text_ko": null
+   "text_ko": "아르마냐크-부르고뉴 내전: 잔 다르크가 생피에르르무티에를 해방했다."
   },
   {
    "year": 1354,
@@ -2131,51 +2133,51 @@
      "description": "1350–1355 war between Venice and Genoa",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/War_of_the_Straits",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "해협 전쟁",
+     "description_ko": "1350년~1355년 베네치아와 제노바 간의 전쟁"
     },
     {
      "title": "Republic of Genoa",
      "description": "Italian maritime republic (1099–1797)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Flag_of_Genoa.svg/330px-Flag_of_Genoa.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Republic_of_Genoa",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제노바 공화국",
+     "description_ko": "이탈리아의 해상 공화국 (1099년~1797년)"
     },
     {
      "title": "Paganino Doria",
      "description": "Italian admiral",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Paganin.doia.jpg/330px-Paganin.doia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Paganino_Doria",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파가니노 도리아",
+     "description_ko": "이탈리아의 제독"
     },
     {
      "title": "Republic of Venice",
      "description": "Maritime republic in Italy (697–1797)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/330px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "베네치아 공화국",
+     "description_ko": "이탈리아의 해상 공화국 (697년~1797년)"
     },
     {
      "title": "Niccolò Pisani",
      "description": "Venetian admiral",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Palazzo_Ducale_statua05.JPG/330px-Palazzo_Ducale_statua05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Niccol%C3%B2_Pisani",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "니콜로 피사니",
+     "description_ko": "베네치아의 제독"
     },
     {
      "title": "Battle of Sapienza",
      "description": "1354 naval battle between Genoese and Venetians",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Palazzo_Ducale_statua05.JPG/330px-Palazzo_Ducale_statua05.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_Sapienza",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "사피엔차 해전",
+     "description_ko": "1354년 제노바와 베네치아 간의 해전"
     }
    ],
-   "text_ko": null
+   "text_ko": "해협 전쟁: 파가니노 도리아가 이끄는 제노바 함대가 사피엔차 해전에서 니콜로 피사니가 이끄는 베네치아 함대 전체를 격파하고 나포했다."
   },
   {
    "year": 512,
@@ -2186,7 +2188,7 @@
      "description": "",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg/330px-Konstantinos_XI_Palaiologos_fresco_%28less_edited%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/List_of_Byzantine_emperors",
-     "title_ko": null,
+     "title_ko": "비잔티움 황제 목록",
      "description_ko": null
     },
     {
@@ -2194,43 +2196,43 @@
      "description": "Roman emperor from 491 to 518",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Anastasius_I._minted_507-518.jpg/330px-Anastasius_I._minted_507-518.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Anastasius_I_Dicorus",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아나스타시우스 1세",
+     "description_ko": "491년부터 518년까지 로마 황제"
     },
     {
      "title": "Chalcedonian Christianity",
      "description": "Branch of Christianity that accepts the Council of Chalcedon",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Chalcedonian_Christianity",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "칼케돈 기독교",
+     "description_ko": "칼케돈 공의회를 수용하는 기독교 분파"
     },
     {
      "title": "Monophysitism",
      "description": "Christological doctrine",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Christological_spectrum.svg/330px-Christological_spectrum.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Monophysitism",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "단성론",
+     "description_ko": "기독론적 교리"
     },
     {
      "title": "Constantinople",
      "description": "Capital of the Byzantine Empire",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Byzantine_Constantinople-en.png/330px-Byzantine_Constantinople-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Constantinople",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "콘스탄티노폴리스",
+     "description_ko": "비잔티움 제국의 수도"
     },
     {
      "title": "Areobindus Dagalaifus Areobindus",
      "description": "Byzantine general and politician",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Areobindus_presides_over_the_games_MNMA_Cluny_13135_n02.jpg/330px-Areobindus_presides_over_the_games_MNMA_Cluny_13135_n02.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Areobindus_Dagalaifus_Areobindus",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아레오빈두스 다갈라이푸스 아레오빈두스",
+     "description_ko": "비잔티움 장군이자 정치인"
     }
    ],
-   "text_ko": null
+   "text_ko": "비잔티움 황제 아나스타시우스가 칼케돈파 총대주교들을 폐위하고 전례에 단성론적 변화를 시도하자, 콘스탄티노폴리스에서 폭동이 발생하여 폭도들이 아레오빈두스를 황제로 선포하려 했다."
   }
  ],
  "holidays": [
@@ -2243,19 +2245,19 @@
      "description": "Catholic prelate and saint (1538–1584)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Carlo_Borromeo.jpg/330px-Carlo_Borromeo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Charles_Borromeo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카를로 보로메오",
+     "description_ko": "가톨릭 고위 성직자이자 성인 (1538년~1584년)"
     },
     {
      "title": "Catholic Church",
      "description": "Christian church based in Rome",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg/330px-Saint_Peter%27s_Basilica_facade%2C_Rome%2C_Italy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Catholic_Church",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "가톨릭교회",
+     "description_ko": "로마에 기반을 둔 기독교 교회"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n카를로 보로메오 (로마 가톨릭교회)"
   },
   {
    "year": null,
@@ -2266,11 +2268,11 @@
      "description": "Hungarian prince (c. 1007 – 1031)",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/8/84/SaintEmeric.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Saint_Emeric_of_Hungary",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헝가리의 성 에메리크",
+     "description_ko": "헝가리의 왕자 (1007년경~1031년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n헝가리의 에메리크"
   },
   {
    "year": null,
@@ -2281,11 +2283,11 @@
      "description": "French Catholic former Cistercian hermit (1127–1212)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/San_felix_valois.jpg/330px-San_felix_valois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Felix_of_Valois",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "발루아의 펠릭스",
+     "description_ko": "프랑스 가톨릭 전 시토회 은둔자 (1127년~1212년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n발루아의 펠릭스"
   },
   {
    "year": null,
@@ -2296,19 +2298,19 @@
      "description": "Recognition by the Catholic Church of a holy person",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Beatification",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시복",
+     "description_ko": "가톨릭교회에 의한 성인의 인정"
     },
     {
      "title": "Françoise d'Amboise",
      "description": "French Carmelite nun (1427–1485)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Fcse_d_amboise.jpg/330px-Fcse_d_amboise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_d'Amboise",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "프랑수아즈 당부아즈",
+     "description_ko": "프랑스 카르멜회 수녀 (1427년~1485년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n복자 프랑수아즈 당부아즈"
   },
   {
    "year": null,
@@ -2319,19 +2321,19 @@
      "description": "Recognition by the Catholic Church of a holy person",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Beatification",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시복",
+     "description_ko": "가톨릭교회에 의한 성인의 인정"
     },
     {
      "title": "Helen Enselmini",
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Helen_Enselmini",
-     "title_ko": null,
+     "title_ko": "헬렌 엔셀미니",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n복자 헬렌 엔셀미니"
   },
   {
    "year": null,
@@ -2342,11 +2344,11 @@
      "description": "Christian saint and theologian",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Joannicius_the_Great",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "대 요안니키오스",
+     "description_ko": "기독교 성인이자 신학자"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n대 요안니키오스"
   },
   {
    "year": null,
@@ -2357,11 +2359,11 @@
      "description": "Founder and Abbess of the monastery in Trier",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/St_Irminen_18.jpg/330px-St_Irminen_18.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Saint_Modesta",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "성 모데스타",
+     "description_ko": "트리어 수도원의 설립자이자 원장"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n모데스타"
   },
   {
    "year": null,
@@ -2372,19 +2374,19 @@
      "description": "Holy icon of the Virgin Mary in Kazan Cathedral, Moscow",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0.jpg/330px-%D0%9C%D0%BE%D1%81%D0%BA%D0%BE%D0%B2%D1%81%D0%BA%D0%B0%D1%8F_%D0%9A%D0%B0%D0%B7%D0%B0%D0%BD%D1%81%D0%BA%D0%B0%D1%8F_%D0%B8%D0%BA%D0%BE%D0%BD%D0%B0.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Our_Lady_of_Kazan",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카잔의 성모",
+     "description_ko": "모스크바 카잔 대성당에 있는 성모 마리아의 성화"
     },
     {
      "title": "Russian Orthodox Church",
      "description": "Autocephalous Eastern Orthodox church",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Moscow_-_Cathedral_of_Christ_the_Saviour_29-8-2024_1.jpg/330px-Moscow_-_Cathedral_of_Christ_the_Saviour_29-8-2024_1.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Russian_Orthodox_Church",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "러시아 정교회",
+     "description_ko": "독립적인 동방 정교회"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n카잔의 성모 (러시아 정교회)"
   },
   {
    "year": null,
@@ -2395,11 +2397,11 @@
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Pierius",
-     "title_ko": null,
+     "title_ko": "피에리우스",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n피에리우스"
   },
   {
    "year": null,
@@ -2410,19 +2412,19 @@
      "description": "Recognition by the Catholic Church of a holy person",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Beatification",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시복",
+     "description_ko": "가톨릭교회에 의한 성인의 인정"
     },
     {
      "title": "Teresa Manganiello",
      "description": "Italian member of the Secular Franciscan Order",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Teresa_Manganiello",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "테레사 망가니엘로",
+     "description_ko": "이탈리아 재속 프란치스코회 회원"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n복녀 테레사 망가니엘로"
   },
   {
    "year": null,
@@ -2433,11 +2435,11 @@
      "description": "Roman Catholic saints",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Saints_Vitalis_and_Agricola.jpg/330px-Saints_Vitalis_and_Agricola.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Saints_Vitalis_and_Agricola",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "성 비탈리스와 아그리콜라",
+     "description_ko": "로마 가톨릭 성인"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n비탈리스와 아그리콜라"
   },
   {
    "year": null,
@@ -2448,11 +2450,11 @@
      "description": "Day in the Eastern Orthodox liturgical calendar",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/East-Ortho-cross.svg/330px-East-Ortho-cross.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/November_4_(Eastern_Orthodox_liturgics)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "11월 4일 (동방 정교회 전례)",
+     "description_ko": "동방 정교회 전례력의 날"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n11월 4일 (동방 정교회 전례)"
   },
   {
    "year": null,
@@ -2463,7 +2465,7 @@
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Dominica",
-     "title_ko": null,
+     "title_ko": "도미니카 연방의 공휴일",
      "description_ko": null
     },
     {
@@ -2471,11 +2473,11 @@
      "description": "Country in the Caribbean",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Flag_of_Dominica.svg/330px-Flag_of_Dominica.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Dominica",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "도미니카 연방",
+     "description_ko": "카리브해 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "지역 봉사의 날 (도미니카 연방)"
   },
   {
    "year": null,
@@ -2486,11 +2488,11 @@
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Public_holidays_in_Panama",
-     "title_ko": null,
+     "title_ko": "파나마의 공휴일",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "국기의 날 (파나마)"
   },
   {
    "year": null,
@@ -2501,7 +2503,7 @@
      "description": "",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Kailao.jpg/330px-Kailao.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Culture_of_Tonga",
-     "title_ko": null,
+     "title_ko": "통가의 문화",
      "description_ko": null
     },
     {
@@ -2509,11 +2511,11 @@
      "description": "Country in Oceania",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Tonga.svg/330px-Flag_of_Tonga.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tonga",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "통가",
+     "description_ko": "오세아니아 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "통가 국경일 (통가)"
   },
   {
    "year": null,
@@ -2524,19 +2526,19 @@
      "description": "Italian national day",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Mattarella_depone_una_corona_d%27alloro_sulla_Tomba_del_Milite_Ignoto%2C_2022_%2811%29.jpg/330px-Mattarella_depone_una_corona_d%27alloro_sulla_Tomba_del_Milite_Ignoto%2C_2022_%2811%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Unity_and_Armed_Forces_Day",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "국가 통일 및 국군의 날",
+     "description_ko": "이탈리아의 국경일"
     },
     {
      "title": "Italy",
      "description": "Country in Southern and Western Europe",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/330px-Flag_of_Italy.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Italy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이탈리아",
+     "description_ko": "남유럽 및 서유럽 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "국가 통일 및 국군의 날 또는 Giorno dell'Unità Nazionale e Festa delle Forze Armate (이탈리아)"
   },
   {
    "year": null,
@@ -2547,11 +2549,11 @@
      "description": "National holiday in Russia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83_%D0%B8_%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83%2C_%D1%80%D1%8F%D0%B4%D0%BE%D0%BC_%D1%81_%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%BC_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%B1%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE._-_panoramio.jpg/330px-%D0%9F%D0%B0%D0%BC%D1%8F%D1%82%D0%BD%D0%B8%D0%BA_%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD%D1%83_%D0%B8_%D0%9F%D0%BE%D0%B6%D0%B0%D1%80%D1%81%D0%BA%D0%BE%D0%BC%D1%83%2C_%D1%80%D1%8F%D0%B4%D0%BE%D0%BC_%D1%81_%D1%85%D1%80%D0%B0%D0%BC%D0%BE%D0%BC_%D0%92%D0%B0%D1%81%D0%B8%D0%BB%D0%B8%D1%8F_%D0%B1%D0%BB%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE._-_panoramio.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Unity_Day_(Russia)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "통일의 날 (러시아)",
+     "description_ko": "러시아의 국경일"
     }
    ],
-   "text_ko": null
+   "text_ko": "통일의 날 (러시아)"
   },
   {
    "year": null,
@@ -2562,11 +2564,11 @@
      "description": "Prime Minister of Israel (1974–1977; 1992–1995)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg/330px-Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈",
+     "description_ko": "이스라엘의 총리 (1974~1977; 1992~1995)"
     }
    ],
-   "text_ko": null
+   "text_ko": "이츠하크 라빈 추모일 (비공식적이지만 널리 기념됨)"
   }
  ],
  "births": [
@@ -2583,7 +2585,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "다리야 바르폴로메예프, 러시아-독일 리듬 체조 선수"
   },
   {
    "year": 2000,
@@ -2598,7 +2600,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "타이리스 맥시, 미국 농구 선수"
   },
   {
    "year": 2000,
@@ -2613,7 +2615,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "쑨잉사, 중국 탁구 선수"
   },
   {
    "year": 1999,
@@ -2628,7 +2630,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엠마 말테, 캐나다 아이스하키 선수"
   },
   {
    "year": 1998,
@@ -2643,7 +2645,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아슈라프 하키미, 모로코 축구 선수"
   },
   {
    "year": 1996,
@@ -2658,7 +2660,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "케이틀린 하와이엑, 미국 아이스 댄서"
   },
   {
    "year": 1996,
@@ -2673,7 +2675,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 크리스티안 마르티네스, 필리핀 피겨 스케이팅 선수"
   },
   {
    "year": 1996,
@@ -2688,7 +2690,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 올리브, 호주 럭비 리그 선수"
   },
   {
    "year": 1996,
@@ -2703,7 +2705,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에릭 파스칼, 미국 농구 선수"
   },
   {
    "year": 1994,
@@ -2718,7 +2720,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빌리 스탠레이크, 호주 크리켓 선수"
   },
   {
    "year": 1993,
@@ -2733,7 +2735,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "시아이라 브라운, 미국 중거리 달리기 선수"
   },
   {
    "year": 1993,
@@ -2748,7 +2750,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엘리자베트 자이츠, 독일 체조 선수"
   },
   {
    "year": 1993,
@@ -2763,7 +2765,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "테일러 톰린슨, 미국 스탠드업 코미디언"
   },
   {
    "year": 1992,
@@ -2778,7 +2780,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "유리 벨랴예프, 벨라루스 아이스 댄서"
   },
   {
    "year": 1992,
@@ -2793,7 +2795,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나카다 히로키, 일본 축구 선수"
   },
   {
    "year": 1992,
@@ -2808,7 +2810,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "율리안 비스마이어, 독일 축구 선수"
   },
   {
    "year": 1991,
@@ -2823,7 +2825,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알론 데이, 이스라엘 레이싱 카 드라이버"
   },
   {
    "year": 1991,
@@ -2838,7 +2840,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레슬리 파티나마 케르코베, 네덜란드 테니스 선수"
   },
   {
    "year": 1990,
@@ -2853,7 +2855,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "장뤼크 빌로도, 캐나다 배우"
   },
   {
    "year": 1988,
@@ -2868,7 +2870,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데즈 브라이언트, 미국 미식축구 선수"
   },
   {
    "year": 1988,
@@ -2883,7 +2885,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 미드, 파푸아뉴기니 럭비 리그 선수"
   },
   {
    "year": 1988,
@@ -2898,7 +2900,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "네이선 로스, 호주 럭비 리그 선수"
   },
   {
    "year": 1987,
@@ -2913,7 +2915,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "팀 브뢰커스, 네덜란드 축구 선수"
   },
   {
    "year": 1987,
@@ -2928,7 +2930,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로라 가이츠, 호주 넷볼 선수"
   },
   {
    "year": 1987,
@@ -2943,7 +2945,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아르투르 옝제이치크, 폴란드 축구 선수"
   },
   {
    "year": 1986,
@@ -2958,7 +2960,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "수하스 고피나트, 인도 사업가"
   },
   {
    "year": 1986,
@@ -2973,7 +2975,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉스 존슨, 캐나다 배우 겸 싱어송라이터"
   },
   {
    "year": 1986,
@@ -2988,7 +2990,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "시몬 파블로프스키, 폴란드 축구 선수"
   },
   {
    "year": 1986,
@@ -3003,7 +3005,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아드리안 자우그, 남아프리카 공화국 레이싱 카 드라이버"
   },
   {
    "year": 1985,
@@ -3018,7 +3020,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마르셀 얀젠, 독일 축구 선수"
   },
   {
    "year": 1985,
@@ -3033,7 +3035,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미야무라 미키, 일본 테니스 선수"
   },
   {
    "year": 1984,
@@ -3048,7 +3050,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "더스틴 브라운, 미국 아이스하키 선수"
   },
   {
    "year": 1984,
@@ -3063,7 +3065,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아일라 유수프, 나이지리아 축구 선수"
   },
   {
    "year": 1983,
@@ -3078,7 +3080,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "안톤 부슬로프, 러시아 천체물리학자 겸 언론인 (2014년 사망)"
   },
   {
    "year": 1982,
@@ -3093,7 +3095,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데빈 헤스터, 미국 미식축구 선수"
   },
   {
    "year": 1982,
@@ -3108,7 +3110,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카밀라 스콜리모프스카, 폴란드 해머 던지기 선수 (2009년 사망)"
   },
   {
    "year": 1981,
@@ -3123,7 +3125,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "가이 마틴, 잉글랜드 오토바이 경주 선수"
   },
   {
    "year": 1981,
@@ -3138,7 +3140,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빈스 윌포크, 미국 미식축구 선수"
   },
   {
    "year": 1980,
@@ -3153,7 +3155,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제리 콜린스, 사모아-뉴질랜드 럭비 선수 (2015년 사망)"
   },
   {
    "year": 1980,
@@ -3168,7 +3170,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 오언스, 미국 미식축구 선수 겸 코치"
   },
   {
    "year": 1980,
@@ -3183,7 +3185,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엠 라이언, 미국 배우"
   },
   {
    "year": 1980,
@@ -3198,7 +3200,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "단 스토에네스쿠, 루마니아 직업 외교관, 정치학자, 언론인, 수필가"
   },
   {
    "year": 1978,
@@ -3213,7 +3215,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 그래보, 미국 야구 선수"
   },
   {
    "year": 1977,
@@ -3228,7 +3230,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "래리 빅비, 미국 야구 선수"
   },
   {
    "year": 1976,
@@ -3251,7 +3253,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "다니엘 바르, 독일 은행가 겸 정치인, 독일 연방 보건부 장관"
   },
   {
    "year": 1976,
@@ -3266,7 +3268,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브루노 준케이라, 브라질 레이싱 카 드라이버"
   },
   {
    "year": 1976,
@@ -3281,7 +3283,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마리오 멜히오트, 네덜란드 축구 선수"
   },
   {
    "year": 1976,
@@ -3296,7 +3298,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "오사와 겐지, 일본 종합격투기 선수"
   },
   {
    "year": 1976,
@@ -3311,7 +3313,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제임스 데일 리치, 미국 연쇄 살인범 (2016년 사망)"
   },
   {
    "year": 1976,
@@ -3326,7 +3328,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "타마다 마코토, 일본 오토바이 경주 선수"
   },
   {
    "year": 1976,
@@ -3341,7 +3343,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피터 판 하우트, 벨기에 축구 선수"
   },
   {
    "year": 1975,
@@ -3356,7 +3358,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에리크 피쇼, 캐나다 아이스하키 선수"
   },
   {
    "year": 1975,
@@ -3371,7 +3373,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에두아르트 콕샤로프, 러시아 핸드볼 선수 (2026년 사망)"
   },
   {
    "year": 1975,
@@ -3386,7 +3388,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미키 무어, 미국 농구 선수"
   },
   {
    "year": 1975,
@@ -3401,7 +3403,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "올랜도 페이스, 미국 미식축구 선수"
   },
   {
    "year": 1975,
@@ -3416,7 +3418,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "헤더 톰, 미국 배우 겸 감독"
   },
   {
    "year": 1975,
@@ -3431,7 +3433,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로렌젠 라이트, 미국 농구 선수 (2010년 사망)"
   },
   {
    "year": 1973,
@@ -3446,7 +3448,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티븐 오그, 캐나다 배우"
   },
   {
    "year": 1972,
@@ -3461,7 +3463,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루이스 피구, 포르투갈 축구 선수 겸 스포츠 캐스터"
   },
   {
    "year": 1971,
@@ -3476,7 +3478,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "그레고리 포터, 미국 재즈 싱어송라이터 겸 배우"
   },
   {
    "year": 1971,
@@ -3491,7 +3493,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "타부, 인도 배우"
   },
   {
    "year": 1970,
@@ -3506,7 +3508,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "팀 드붐, 미국 트라이애슬론 선수"
   },
   {
    "year": 1970,
@@ -3521,7 +3523,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "말레나 에른만, 스웨덴 소프라노"
   },
   {
    "year": 1970,
@@ -3536,7 +3538,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앤서니 루이비바르, 미국 배우"
   },
   {
    "year": 1970,
@@ -3551,7 +3553,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토니 슬라이, 미국 싱어송라이터 겸 기타리스트 (2012년 사망)"
   },
   {
    "year": 1969,
@@ -3566,7 +3568,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "숀 콤스, 미국 래퍼, 프로듀서, 배우"
   },
   {
    "year": 1969,
@@ -3581,7 +3583,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "매슈 매코너헤이, 미국 배우 겸 프로듀서"
   },
   {
    "year": 1969,
@@ -3596,7 +3598,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "서맨사 스미스, 미국 배우"
   },
   {
    "year": 1968,
@@ -3611,7 +3613,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "매슈 토빈 앤더슨, 미국 작가, 비평가, 교육자"
   },
   {
    "year": 1968,
@@ -3626,7 +3628,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로스 바에르가, 푸에르토리코 야구 선수 겸 코치"
   },
   {
    "year": 1968,
@@ -3641,7 +3643,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리 저먼, 뉴질랜드 크리켓 선수"
   },
   {
    "year": 1967,
@@ -3656,7 +3658,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아사쿠라 다이스케, 일본 작곡가 겸 프로듀서"
   },
   {
    "year": 1967,
@@ -3671,7 +3673,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "윌마즈 에르도안, 튀르키예 배우, 감독, 각본가"
   },
   {
    "year": 1967,
@@ -3686,7 +3688,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카린 그라이너, 오스트리아 정치인"
   },
   {
    "year": 1967,
@@ -3701,7 +3703,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에릭 캐로스, 미국 야구 선수 겸 스포츠 캐스터"
   },
   {
    "year": 1967,
@@ -3716,7 +3718,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아시프 무즈타바, 파키스탄 크리켓 선수"
   },
   {
    "year": 1965,
@@ -3731,7 +3733,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "웨인 스태틱, 미국 싱어송라이터 겸 기타리스트 (2014년 사망)"
   },
   {
    "year": 1964,
@@ -3746,7 +3748,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미즈타니 유코, 일본 성우 겸 가수 (2016년 사망)"
   },
   {
    "year": 1963,
@@ -3761,7 +3763,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마르크 데리, 캐나다 가수 겸 기타리스트"
   },
   {
    "year": 1963,
@@ -3776,7 +3778,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미셸 테리앙, 캐나다 아이스하키 선수 겸 코치"
   },
   {
    "year": 1963,
@@ -3791,7 +3793,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레나 자바로니, 스코틀랜드 가수 겸 텔레비전 진행자 (1999년 사망)"
   },
   {
    "year": 1962,
@@ -3806,7 +3808,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아르보 볼메르, 에스토니아 지휘자"
   },
   {
    "year": 1961,
@@ -3821,7 +3823,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "대런 헤이건, 미국 피아니스트, 작곡가, 지휘자"
   },
   {
    "year": 1961,
@@ -3836,7 +3838,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에드워드 나이트, 미국 작곡가 겸 학자"
   },
   {
    "year": 1961,
@@ -3851,7 +3853,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "랠프 마치오, 미국 배우"
   },
   {
    "year": 1961,
@@ -3866,7 +3868,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제프 프로브스트, 미국 텔레비전 진행자 겸 프로듀서"
   },
   {
    "year": 1961,
@@ -3889,7 +3891,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티브 로더럼, 잉글랜드 정치인, 리버풀 시장"
   },
   {
    "year": 1961,
@@ -3904,7 +3906,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나이젤 워딩턴, 북아일랜드 축구 선수 겸 감독"
   },
   {
    "year": 1960,
@@ -3919,7 +3921,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마르크 아워디, 미국 화가 겸 시인 (2012년 사망)"
   },
   {
    "year": 1960,
@@ -3934,7 +3936,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "캐시 그리핀, 미국 코미디언 겸 배우"
   },
   {
    "year": 1960,
@@ -3949,7 +3951,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이고르 리바, 슬로바키아 아이스하키 선수"
   },
   {
    "year": 1959,
@@ -3964,7 +3966,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "켄 커진저, 캐나다 배우이자 스턴트맨"
   },
   {
    "year": 1958,
@@ -3979,7 +3981,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리 재스퍼, 잉글랜드의 활동가이자 정치인"
   },
   {
    "year": 1958,
@@ -3994,7 +3996,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앤 스위니, 미국 사업가"
   },
   {
    "year": 1957,
@@ -4014,10 +4016,10 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Coat_of_arms_of_the_Commonwealth_of_Australia.svg/330px-Coat_of_arms_of_the_Commonwealth_of_Australia.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Australia",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "토니 애벗, 잉글랜드-오스트레일리아 학자이자 정치인, 제28대 오스트레일리아 총리"
   },
   {
    "year": 1957,
@@ -4032,7 +4034,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 해링턴, 잉글랜드 사업가이자 정치인"
   },
   {
    "year": 1957,
@@ -4047,7 +4049,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉산드르 트카초프, 러시아 체조 선수이자 코치"
   },
   {
    "year": 1956,
@@ -4062,7 +4064,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "톰 그린할그, 스웨덴의 싱어송라이터"
   },
   {
    "year": 1956,
@@ -4077,7 +4079,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제임스 허니먼-스콧, 잉글랜드 기타리스트이자 작곡가 (1982년 사망)"
   },
   {
    "year": 1956,
@@ -4092,7 +4094,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조던 루디스, 미국 키보드 연주자이자 작곡가"
   },
   {
    "year": 1955,
@@ -4107,7 +4109,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알하지 물라나 구사비 샤, 인도 작가, 시인, 학자"
   },
   {
    "year": 1955,
@@ -4127,10 +4129,10 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Logo_of_the_Prime_Minister_of_Finland.svg/330px-Logo_of_the_Prime_Minister_of_Finland.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Finland",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "마티 반하넨, 핀란드 언론인이자 정치인, 제40대 핀란드 총리"
   },
   {
    "year": 1954,
@@ -4145,7 +4147,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "크리스 디포드, 잉글랜드 싱어송라이터, 기타리스트, 프로듀서"
   },
   {
    "year": 1953,
@@ -4160,7 +4162,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "믹 버클리, 잉글랜드 축구 선수 (2013년 사망)"
   },
   {
    "year": 1953,
@@ -4175,7 +4177,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "P. J. 캐리, 미국 야구 선수이자 감독 (2012년 사망)"
   },
   {
    "year": 1953,
@@ -4198,7 +4200,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로스 구티에레스, 쿠바계 미국인 사업가이자 정치인, 제35대 미국 상무부 장관"
   },
   {
    "year": 1953,
@@ -4221,7 +4223,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피터 로드, 잉글랜드 애니메이터, 감독, 프로듀서, 아드만 애니메이션 공동 설립자"
   },
   {
    "year": 1953,
@@ -4236,7 +4238,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "밴 스티븐슨, 미국 싱어송라이터이자 기타리스트 (2001년 사망)"
   },
   {
    "year": 1953,
@@ -4251,7 +4253,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "자크 빌뇌브, 캐나다 자동차 경주 선수"
   },
   {
    "year": 1952,
@@ -4262,11 +4264,11 @@
      "description": "Head of the Coptic Church since 2012",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Tawadros_II.jpg/330px-Tawadros_II.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Pope_Tawadros_II_of_Alexandria",
-     "title_ko": null,
+     "title_ko": "알렉산드리아의 타와드로스 2세 교황",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉산드리아의 타와드로스 2세 교황"
   },
   {
    "year": 1951,
@@ -4289,7 +4291,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "트라이안 버세스쿠, 루마니아 선장이자 정치인, 제4대 루마니아 대통령"
   },
   {
    "year": 1950,
@@ -4304,7 +4306,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 프레이저, 미국 소설가"
   },
   {
    "year": 1950,
@@ -4319,7 +4321,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마키 포스트, 미국 배우 (2021년 사망)"
   },
   {
    "year": 1950,
@@ -4342,7 +4344,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "닉 파월, 잉글랜드 사업가, 버진 그룹 공동 설립자 (2019년 사망)"
   },
   {
    "year": 1949,
@@ -4357,7 +4359,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아이다 가로, 일본 사진작가이자 작가"
   },
   {
    "year": 1948,
@@ -4372,7 +4374,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉시스 헌터, 뉴질랜드-잉글랜드 화가이자 사진작가 (2014년 사망)"
   },
   {
    "year": 1948,
@@ -4395,7 +4397,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아마두 투마니 투레, 말리 군인이자 정치인, 말리 대통령 (2020년 사망)"
   },
   {
    "year": 1947,
@@ -4410,7 +4412,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이본 콜, 푸에르토리코 배우"
   },
   {
    "year": 1947,
@@ -4425,7 +4427,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제리 플렉, 미국 배우, 감독, 제작 관리자 (2003년 사망)"
   },
   {
    "year": 1947,
@@ -4440,7 +4442,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로드 마시, 오스트레일리아 크리켓 선수이자 코치 (2022년 사망)"
   },
   {
    "year": 1947,
@@ -4455,7 +4457,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알리 외즈겐튀르크, 튀르키예 감독, 프로듀서, 시나리오 작가 (2025년 사망)"
   },
   {
    "year": 1947,
@@ -4470,7 +4472,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉세이 울라노프, 러시아 피겨 스케이팅 선수"
   },
   {
    "year": 1947,
@@ -4485,7 +4487,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "류드밀라 벨리코바, 러시아 피겨 스케이팅 선수이자 코치"
   },
   {
    "year": 1946,
@@ -4508,7 +4510,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로라 부시, 미국 교육자이자 사서, 제45대 미국 영부인"
   },
   {
    "year": 1946,
@@ -4523,7 +4525,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프레더릭 엘메스, 미국 촬영 감독"
   },
   {
    "year": 1946,
@@ -4538,7 +4540,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로버트 메이플소프, 미국 사진작가 (1989년 사망)"
   },
   {
    "year": 1943,
@@ -4553,7 +4555,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "클라크 그레이브너, 미국 테니스 선수"
   },
   {
    "year": 1943,
@@ -4568,7 +4570,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "밥 볼렉, 프랑스 자동차 경주 선수이자 스키 선수 (2001년 사망)"
   },
   {
    "year": 1942,
@@ -4583,7 +4585,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "패트리샤 배스, 미국 안과 의사이자 학자 (2019년 사망)"
   },
   {
    "year": 1941,
@@ -4598,7 +4600,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카피 벤츠, 미국 보존주의자, 환경운동가, 역사 보존주의자, 작가, 예술가, 지역사회 지도자"
   },
   {
    "year": 1941,
@@ -4613,7 +4615,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "린다 고든, 남아프리카 공화국-잉글랜드 작가이자 학자"
   },
   {
    "year": 1940,
@@ -4628,7 +4630,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샐리 볼드윈, 스코틀랜드 사회 과학 교수 (2003년 사망)"
   },
   {
    "year": 1940,
@@ -4643,7 +4645,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마를렌 조베르, 프랑스 배우, 가수, 작가"
   },
   {
    "year": 1940,
@@ -4658,7 +4660,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "델버트 매클린턴, 미국 싱어송라이터"
   },
   {
    "year": 1939,
@@ -4673,7 +4675,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "게일 E. 헤일리, 미국 작가이자 삽화가"
   },
   {
    "year": 1939,
@@ -4696,7 +4698,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 미처, 잉글랜드 학자이자 정치인, 환경·교통·지역부 장관 (2015년 사망)"
   },
   {
    "year": 1937,
@@ -4711,7 +4713,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로레타 스윗, 미국 배우이자 가수 (2025년 사망)"
   },
   {
    "year": 1937,
@@ -4734,7 +4736,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 윌슨, 캐나다 학자이자 정치인, 제31대 캐나다 재무부 장관 (2019년 사망)"
   },
   {
    "year": 1936,
@@ -4749,7 +4751,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "C. K. 윌리엄스, 미국 시인, 비평가, 번역가 (2015년 사망)"
   },
   {
    "year": 1935,
@@ -4764,7 +4766,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "배리 크로커, 오스트레일리아 가수, 배우, 텔레비전 진행자"
   },
   {
    "year": 1935,
@@ -4779,7 +4781,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엘가 하워스, 잉글랜드 지휘자이자 작곡가 (2025년 사망)"
   },
   {
    "year": 1933,
@@ -4794,7 +4796,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "티토 프랜코나, 미국 야구 선수 (2018년 사망)"
   },
   {
    "year": 1933,
@@ -4817,7 +4819,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 K. 가오, 중국 물리학자이자 엔지니어, 노벨상 수상자 (2018년 사망)"
   },
   {
    "year": 1933,
@@ -4840,7 +4842,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "C. 오두메그우 오주크우, 나이지리아 대령이자 정치인, 비아프라 대통령 (2011년 사망)"
   },
   {
    "year": 1932,
@@ -4863,7 +4865,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토마스 클레스틸, 오스트리아 정치인이자 외교관, 제10대 오스트리아 대통령 (2004년 사망)"
   },
   {
    "year": 1932,
@@ -4878,7 +4880,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토미 메이컴, 아일랜드 싱어송라이터 (2007년 사망)"
   },
   {
    "year": 1931,
@@ -4893,7 +4895,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버나드 프랜시스 로, 멕시코계 미국인 추기경 (2017년 사망)"
   },
   {
    "year": 1930,
@@ -4908,7 +4910,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제임스 E. 브루턴, 미국 화가 (1967년 사망)"
   },
   {
    "year": 1930,
@@ -4923,7 +4925,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "란지트 로이 초두리, 인도 약리학자이자 학자 (2015년 사망)"
   },
   {
    "year": 1930,
@@ -4938,7 +4940,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "딕 그로트, 미국 야구 선수이자 스포츠 캐스터 (2023년 사망)"
   },
   {
    "year": 1930,
@@ -4953,7 +4955,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프랭크 J. 프라이얼, 미국 언론인이자 작가 (2012년 사망)"
   },
   {
    "year": 1929,
@@ -4968,7 +4970,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알바니아의 아나스타시오스, 그리스-알바니아 대주교 (2025년 사망)"
   },
   {
    "year": 1929,
@@ -4983,7 +4985,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샤쿤탈라 데비, 인도 수학자이자 점성술사 (2013년 사망)"
   },
   {
    "year": 1928,
@@ -5006,7 +5008,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "래리 벙커, 미국 드러머이자 비브라폰 연주자 (2005년 사망)"
   },
   {
    "year": 1928,
@@ -5029,7 +5031,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에우헤니오 로페스 주니어, 필리핀 사업가이자 ABS-CBN 방송사 회장 (1999년 사망)"
   },
   {
    "year": 1928,
@@ -5044,7 +5046,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "해나 와이너, 미국 시인이자 작가 (1997년 사망)"
   },
   {
    "year": 1926,
@@ -5067,7 +5069,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로스 \"파타토\" 발데스, 쿠바계 미국인 콩가 연주자이자 작곡가 (2007년 사망)"
   },
   {
    "year": 1925,
@@ -5082,7 +5084,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "가마니 코레아, 스리랑카 경제학자이자 외교관 (2013년 사망)"
   },
   {
    "year": 1925,
@@ -5097,7 +5099,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "도리스 로버츠, 미국 배우 (2016년 사망)"
   },
   {
    "year": 1923,
@@ -5112,7 +5114,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프레디 하이네켄, 네덜란드 사업가 (2002년 사망)"
   },
   {
    "year": 1923,
@@ -5127,7 +5129,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "하위 미커, 캐나다 아이스하키 선수, 코치, 정치인 (2020년 사망)"
   },
   {
    "year": 1923,
@@ -5142,7 +5144,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "유진 슬레지, 미국 군인, 작가, 학자 (2001년 사망)"
   },
   {
    "year": 1922,
@@ -5157,7 +5159,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "베노 베송, 스위스-독일 배우, 감독, 시나리오 작가 (2006년 사망)"
   },
   {
    "year": 1921,
@@ -5172,7 +5174,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "메리 셔먼 모건, 미국 과학자이자 엔지니어 (2004년 사망)"
   },
   {
    "year": 1919,
@@ -5187,7 +5189,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마틴 발삼, 미국 배우, 감독, 시나리오 작가 (1996년 사망)"
   },
   {
    "year": 1919,
@@ -5202,7 +5204,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에릭 톰슨, 잉글랜드 자동차 경주 선수이자 사업가 (2015년 사망)"
   },
   {
    "year": 1918,
@@ -5217,7 +5219,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아트 카니, 미국 배우 (2003년 사망)"
   },
   {
    "year": 1918,
@@ -5232,7 +5234,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "캐머런 미첼, 미국 배우 (1994년 사망)"
   },
   {
    "year": 1916,
@@ -5255,7 +5257,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 바실론, 미국 병장, 명예 훈장 수훈자 (1945년 사망)"
   },
   {
    "year": 1916,
@@ -5270,7 +5272,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "월터 크롱카이트, 미국 언론인, 성우, 프로듀서 (2009년 사망)"
   },
   {
    "year": 1916,
@@ -5293,7 +5295,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루스 핸들러, 미국 사업가, 바비 인형 제작자 (2002년 사망)"
   },
   {
    "year": 1915,
@@ -5308,7 +5310,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마르그리트 패튼, 잉글랜드 경제학자이자 작가 (2015년 사망)"
   },
   {
    "year": 1915,
@@ -5323,7 +5325,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이스마일 압둘 라만, 말레이시아 정치인 (1973년 사망)"
   },
   {
    "year": 1914,
@@ -5338,7 +5340,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로스 카스티요 아르마스, 과테말라의 권위주의 통치자 (1957년 사망)"
   },
   {
    "year": 1913,
@@ -5353,7 +5355,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "긱 영, 미국 배우 (1978년 사망)"
   },
   {
    "year": 1912,
@@ -5368,7 +5370,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "보통 프란시스코, 필리핀 화가 (1969년 사망)"
   },
   {
    "year": 1912,
@@ -5383,7 +5385,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바딤 살마노프, 러시아 피아니스트이자 작곡가 (1978년 사망)"
   },
   {
    "year": 1912,
@@ -5398,7 +5400,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "기프 비비안, 뉴질랜드 크리켓 선수 (1983년 사망)"
   },
   {
    "year": 1911,
@@ -5413,7 +5415,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바이올렛 비버, 미국 정치인 (2010년 사망)"
   },
   {
    "year": 1911,
@@ -5428,7 +5430,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "딕시 리, 미국 배우이자 가수 (1952년 사망)"
   },
   {
    "year": 1909,
@@ -5443,7 +5445,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에블린 브라이언 존슨, 미국 대령이자 조종사 (2012년 사망)"
   },
   {
    "year": 1909,
@@ -5458,7 +5460,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버트 파테노드, 미국 축구 선수 (1974년 사망)"
   },
   {
    "year": 1909,
@@ -5473,7 +5475,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스키터 웹, 미국 야구 선수이자 감독 (1986년 사망)"
   },
   {
    "year": 1908,
@@ -5488,7 +5490,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스탠리 코르테즈, 미국 촬영 감독이자 사진작가 (1997년 사망)"
   },
   {
    "year": 1908,
@@ -5511,7 +5513,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조지프 로트블라트, 폴란드-잉글랜드 물리학자이자 학자, 노벨상 수상자 (2005년 사망)"
   },
   {
    "year": 1906,
@@ -5526,7 +5528,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스털링 노스, 미국 작가이자 비평가 (1974년 사망)"
   },
   {
    "year": 1905,
@@ -5541,7 +5543,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "드라구틴 타디야노비치, 크로아티아 시인이자 번역가 (2007년 사망)"
   },
   {
    "year": 1904,
@@ -5556,7 +5558,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "타데우시 질린스키, 폴란드 엔지니어, 기술자, 학자 (1967년 사망)"
   },
   {
    "year": 1901,
@@ -5571,7 +5573,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스피리돈 마리나토스, 그리스 고고학자, 작가, 학자 (1974년 사망)"
   },
   {
    "year": 1900,
@@ -5586,7 +5588,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루크레치우 퍼트러슈카누, 루마니아 사회학자이자 활동가 (1954년 사망)"
   },
   {
    "year": 1897,
@@ -5601,7 +5603,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "돌리 스타크, 미국 야구 선수이자 심판 (1968년 사망)"
   },
   {
    "year": 1896,
@@ -5621,10 +5623,10 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/Seal_of_the_President_of_the_Philippines.svg/330px-Seal_of_the_President_of_the_Philippines.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/President_of_the_Philippines",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "국가 원수 및 정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로스 P. 가르시아, 필리핀 변호사이자 정치인, 제8대 필리핀 대통령 (1971년 사망)"
   },
   {
    "year": 1890,
@@ -5639,7 +5641,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "클라분트, 독일 작가이자 시인 (1928년 사망)"
   },
   {
    "year": 1889,
@@ -5654,7 +5656,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨턴 애덤스, 미국 작곡가이자 밴드리더 (1987년 사망)"
   },
   {
    "year": 1887,
@@ -5669,7 +5671,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨프리드 리 루미스, 미국 물리학자이자 자선사업가 (1975년 사망)"
   },
   {
    "year": 1884,
@@ -5692,7 +5694,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "해리 퍼거슨, 아일랜드 엔지니어, 트랙터 발명가 (1960년 사망)"
   },
   {
    "year": 1883,
@@ -5715,7 +5717,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "니콜라오스 플라스티라스, 그리스 장군이자 정치인, 제135대 그리스 총리 (1953년 사망)"
   },
   {
    "year": 1879,
@@ -5730,7 +5732,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "윌 로저스, 미국 배우이자 시나리오 작가 (1935년 사망)"
   },
   {
    "year": 1874,
@@ -5745,7 +5747,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샤를 데스피오, 프랑스 조각가 (1946년 사망)"
   },
   {
    "year": 1873,
@@ -5760,7 +5762,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이즈미 교카, 일본 작가, 시인, 극작가 (1939년 사망)"
   },
   {
    "year": 1868,
@@ -5775,7 +5777,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "라 벨 오테로, 스페인 배우, 가수, 댄서 (1965년 사망)"
   },
   {
    "year": 1862,
@@ -5790,7 +5792,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "라스무스 라스무센, 노르웨이 배우이자 감독 (1932년 사망)"
   },
   {
    "year": 1861,
@@ -5805,7 +5807,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨리스 고시지, 미국 언론인 (1929년 사망)"
   },
   {
    "year": 1853,
@@ -5820,7 +5822,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "안나 바예로바, 체코 의사 (1924년 사망)"
   },
   {
    "year": 1840,
@@ -5843,7 +5845,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "윌리엄 기블린, 오스트레일리아 정치인, 제13대 태즈메이니아 주지사 (1887년 사망)"
   },
   {
    "year": 1836,
@@ -5858,7 +5860,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "헨리 J. 러처, 미국 사업가 (1912년 사망)"
   },
   {
    "year": 1821,
@@ -5873,7 +5875,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토마스 키퍼, 캐나다 엔지니어이자 사업가 (1915년 사망)"
   },
   {
    "year": 1816,
@@ -5896,7 +5898,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티븐 존슨 필드, 미국 변호사이자 법학자, 제5대 캘리포니아 대법원장 (1899년 사망)"
   },
   {
    "year": 1809,
@@ -5911,7 +5913,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "벤저민 로빈스 커티스, 미국 변호사이자 법학자 (1874년 사망)"
   },
   {
    "year": 1787,
@@ -5926,7 +5928,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에드먼드 킨, 영국 셰익스피어 연극 배우 (1833년 사망)"
   },
   {
    "year": 1765,
@@ -5941,7 +5943,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피에르-시몽 지라르, 프랑스 수학자이자 엔지니어 (1836년 사망)"
   },
   {
    "year": 1740,
@@ -5956,7 +5958,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "어거스터스 토플레디, 영국의 성직자이자 찬송가 작가 (1778년 사망)"
   },
   {
    "year": 1661,
@@ -5979,7 +5981,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를 3세 필리프, 팔츠 선제후, 헤센다름슈타트 방백 엘리자베트 아말리에의 독일인 아들 (1742년 사망)"
   },
   {
    "year": 1649,
@@ -5994,7 +5996,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "새뮤얼 카펜터, 식민지 펜실베이니아의 부지사 (1714년 사망)"
   },
   {
    "year": 1640,
@@ -6009,7 +6011,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를로 만넬리, 이탈리아의 바이올리니스트이자 작곡가 (1697년 사망)"
   },
   {
    "year": 1631,
@@ -6024,7 +6026,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "메리, 프린세스 로열 겸 오라녜 공비 (1660년 사망)"
   },
   {
    "year": 1592,
@@ -6039,7 +6041,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "헤라르트 판 혼토르스트, 네덜란드의 화가 (1656년 사망)"
   },
   {
    "year": 1575,
@@ -6054,7 +6056,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "귀도 레니, 이탈리아의 화가이자 삽화가 (1642년 사망)"
   },
   {
    "year": 1553,
@@ -6069,7 +6071,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로저 윌브러햄, 아일랜드 법무차관 (1616년 사망)"
   },
   {
    "year": 1512,
@@ -6084,7 +6086,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "호종헌, 중국의 장군 (1565년 사망)"
   },
   {
    "year": 1448,
@@ -6099,7 +6101,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나폴리 국왕 알폰소 2세 (1495년 사망)"
   }
  ],
  "deaths": [
@@ -6116,7 +6118,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버나드 마커스, 미국의 억만장자 사업가이자 자선사업가 (1929년 출생)"
   },
   {
    "year": 2024,
@@ -6131,7 +6133,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "머레이 싱클레어, 캐나다의 변호사이자 정치인 (1951년 출생)"
   },
   {
    "year": 2023,
@@ -6146,7 +6148,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아크바르 골파예가니, 이란의 성악가 (1934년 출생)"
   },
   {
    "year": 2020,
@@ -6161,7 +6163,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "켄 헨슬리, 영국의 록 싱어송라이터이자 음악가 (1945년 출생)"
   },
   {
    "year": 2019,
@@ -6176,7 +6178,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "게이 번, 아일랜드의 방송인 (1934년 출생)"
   },
   {
    "year": 2017,
@@ -6191,7 +6193,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이사벨 그라나다, 필리핀-스페인 배우이자 가수 (1976년 출생)"
   },
   {
    "year": 2017,
@@ -6206,7 +6208,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "네드 로메로, 미국의 배우이자 오페라 가수 (1926년 출생)"
   },
   {
    "year": 2016,
@@ -6226,10 +6228,10 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/330px-Flag_of_Papua_New_Guinea.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Papua_New_Guinea",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "오세아니아 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "캐서린 다바니, 파푸아뉴기니 최초의 여성 판사 (1960년 출생)"
   },
   {
    "year": 2016,
@@ -6244,7 +6246,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "만수르 푸르헤이다리, 이란의 축구 선수이자 코치 (1946년 출생)"
   },
   {
    "year": 2015,
@@ -6259,7 +6261,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "표트르 도마라츠키, 폴란드계 미국인 역사가이자 언론인 (1946년 출생)"
   },
   {
    "year": 2015,
@@ -6274,7 +6276,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "르네 지라르, 프랑스계 미국인 역사가, 철학자, 비평가 (1923년 출생)"
   },
   {
    "year": 2015,
@@ -6289,7 +6291,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카로이 호르바트, 루마니아-헝가리 첼리스트, 플루트 연주자, 작곡가 (1950년 출생)"
   },
   {
    "year": 2015,
@@ -6304,7 +6306,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리 로빈슨, 미국의 변호사이자 정치인 (1943년 출생)"
   },
   {
    "year": 2014,
@@ -6327,7 +6329,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엔리케 올리베라, 아르헨티나의 변호사이자 정치인, 부에노스아이레스 시장 (1940년 출생)"
   },
   {
    "year": 2014,
@@ -6342,7 +6344,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조지 에드거 슬러서, 미국의 작가이자 학자 (1939년 출생)"
   },
   {
    "year": 2014,
@@ -6365,7 +6367,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "S. 도널드 스투키, 미국의 물리학자이자 화학자, 코닝웨어 발명가 (1915년 출생)"
   },
   {
    "year": 2013,
@@ -6388,7 +6390,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 D. 호크, 미국의 하사, 명예 훈장 수훈자 (1924년 출생)"
   },
   {
    "year": 2013,
@@ -6403,7 +6405,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레오니트 스톨로비치, 러시아-에스토니아 철학자이자 학자 (1929년 출생)"
   },
   {
    "year": 2013,
@@ -6418,7 +6420,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레이 윌시, 캐나다계 미국인 미식축구 선수이자 코치 (1928년 출생)"
   },
   {
    "year": 2012,
@@ -6441,7 +6443,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 레즈닉, 브라질-이스라엘 건축가, 야드 케네디 설계자 (1924년 출생)"
   },
   {
    "year": 2011,
@@ -6456,7 +6458,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아르놀드 그린, 라트비아-에스토니아 군인이자 정치인 (1920년 출생)"
   },
   {
    "year": 2011,
@@ -6471,7 +6473,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앤디 루니, 미국의 작가, 비평가, 언론인, 텔레비전 진행자 (1919년 출생)"
   },
   {
    "year": 2010,
@@ -6486,7 +6488,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스파키 앤더슨, 미국의 야구 선수이자 감독 (1934년 출생)"
   },
   {
    "year": 2009,
@@ -6501,7 +6503,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "후베르투스 브란덴부르크, 독일의 주교 (1923년 출생)"
   },
   {
    "year": 2008,
@@ -6516,7 +6518,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 크라이튼, 미국의 의사, 작가, 감독, 프로듀서, 시나리오 작가 (1942년 출생)"
   },
   {
    "year": 2008,
@@ -6531,7 +6533,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로젤라 하이타워, 미국의 발레리나 (1920년 출생)"
   },
   {
    "year": 2008,
@@ -6554,7 +6556,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "후안 카밀로 모우리뇨, 프랑스-멕시코 경제학자이자 정치인, 멕시코 내무부 장관 (1971년 출생)"
   },
   {
    "year": 2007,
@@ -6569,7 +6571,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를 레바네, 에스토니아의 물리학자이자 학자 (1926년 출생)"
   },
   {
    "year": 2007,
@@ -6584,7 +6586,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피터 피어텔, 독일계 미국인 작가이자 시나리오 작가 (1920년 출생)"
   },
   {
    "year": 2006,
@@ -6599,7 +6601,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프랭크 아서 칼더, 캐나다의 변호사이자 정치인 (1915년 출생)"
   },
   {
    "year": 2006,
@@ -6614,7 +6616,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "어네스틴 길브레스 캐리, 미국의 작가 (1908년 출생)"
   },
   {
    "year": 2005,
@@ -6629,7 +6631,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나디아 안주만, 아프가니스탄의 언론인이자 시인 (1980년 출생)"
   },
   {
    "year": 2005,
@@ -6644,7 +6646,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "셰리 노스, 미국의 배우이자 댄서 (1932년 출생)"
   },
   {
    "year": 2005,
@@ -6659,7 +6661,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "그레이엄 페인, 남아프리카 공화국 태생의 영국 배우이자 가수 (1918년 출생)"
   },
   {
    "year": 2005,
@@ -6674,7 +6676,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "다카하시 히로, 일본의 싱어송라이터이자 기타리스트 (1964년 출생)"
   },
   {
    "year": 2003,
@@ -6689,7 +6691,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 코즐리, 콘월의 작가이자 시인 (1917년 출생)"
   },
   {
    "year": 2003,
@@ -6704,7 +6706,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 울하임, 영국의 철학자, 작가, 학자 (1923년 출생)"
   },
   {
    "year": 1999,
@@ -6719,7 +6721,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "맬컴 마셜, 바베이도스의 크리켓 선수이자 코치 (1958년 출생)"
   },
   {
    "year": 1997,
@@ -6734,7 +6736,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 후커, 미국의 소설가 (1924년 출생)"
   },
   {
    "year": 1995,
@@ -6749,7 +6751,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "질 들뢰즈, 프랑스의 철학자이자 학자 (1925년 출생)"
   },
   {
    "year": 1995,
@@ -6764,7 +6766,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "폴 에딩턴, 영국의 배우 (1927년 출생)"
   },
   {
    "year": 1995,
@@ -6775,8 +6777,8 @@
      "description": "Prime Minister of Israel (1974–1977; 1992–1995)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg/330px-Yitzhak_Rabin_1994_Portrait_%283x4_cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Yitzhak_Rabin",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "이츠하크 라빈",
+     "description_ko": "이스라엘의 총리 (1974~1977; 1992~1995)"
     },
     {
      "title": "Prime Minister of Israel",
@@ -6784,7 +6786,7 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Emblem_of_Israel_alternative_gold.svg/330px-Emblem_of_Israel_alternative_gold.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Israel",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "정부 수반"
     },
     {
      "title": "Nobel Peace Prize",
@@ -6795,7 +6797,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이츠하크 라빈, 이스라엘의 장군이자 정치인, 제5대 이스라엘 총리, 노벨 평화상 수상자 (1922년 출생)"
   },
   {
    "year": 1995,
@@ -6810,7 +6812,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "모리 슈워츠, 미국의 사회학자, 작가, 학자 (1916년 출생)"
   },
   {
    "year": 1994,
@@ -6825,7 +6827,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샘 프랜시스, 미국의 군인이자 화가 (1923년 출생)"
   },
   {
    "year": 1992,
@@ -6848,7 +6850,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조지 클라인, 캐나다의 엔지니어, 전동 휠체어 발명가 (1904년 출생)"
   },
   {
    "year": 1988,
@@ -6863,7 +6865,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "클레안티스 비켈리디스, 그리스의 축구 선수이자 감독 (1916년 출생)"
   },
   {
    "year": 1986,
@@ -6878,7 +6880,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "쿠르트 히르슈, 독일계 영국인 수학자이자 학자 (1906년 출생)"
   },
   {
    "year": 1984,
@@ -6893,7 +6895,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "위미트 야샤르 오우즈잔, 튀르키예의 시인이자 작가 (1926년 출생)"
   },
   {
    "year": 1982,
@@ -6908,7 +6910,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "도미니크 던, 미국의 배우 (1959년 출생)"
   },
   {
    "year": 1982,
@@ -6923,7 +6925,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "부르한 펠렉, 튀르키예의 변호사이자 언론인 (1889년 출생)"
   },
   {
    "year": 1982,
@@ -6938,7 +6940,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "길 휘트니, 미국의 언론인 (1940년 출생)"
   },
   {
    "year": 1980,
@@ -6953,7 +6955,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엘시 맥길, 캐나다계 미국인 엔지니어이자 작가 (1905년 출생)"
   },
   {
    "year": 1977,
@@ -6968,7 +6970,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "톰 리미, 미국의 작가이자 삽화가 (1935년 출생)"
   },
   {
    "year": 1976,
@@ -6983,7 +6985,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토니 울멘, 독일의 자동차 경주 선수이자 오토바이 경주 선수 (1906년 출생)"
   },
   {
    "year": 1975,
@@ -6998,7 +7000,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프랜시스 드보르니크, 체코의 사제이자 학자 (1893년 출생)"
   },
   {
    "year": 1975,
@@ -7013,7 +7015,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이자트 후스리에, 시리아의 언론인, 역사가, 학자 (1914년 출생)"
   },
   {
    "year": 1974,
@@ -7028,7 +7030,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버트 파테노드, 미국의 축구 선수 (1909년 출생)"
   },
   {
    "year": 1969,
@@ -7043,7 +7045,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카를루스 마리겔라, 브라질의 작가이자 활동가 (1911년 출생)"
   },
   {
    "year": 1968,
@@ -7058,7 +7060,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "호러스 굴드, 영국의 자동차 경주 선수 (1918년 출생)"
   },
   {
    "year": 1968,
@@ -7073,7 +7075,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미셸 키코인, 벨라루스계 프랑스 화가이자 군인 (1892년 출생)"
   },
   {
    "year": 1959,
@@ -7088,7 +7090,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프리드리히 바이스만, 빈 학파의 오스트리아 수학자, 물리학자, 철학자 (1896년 출생)"
   },
   {
    "year": 1957,
@@ -7111,7 +7113,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "쇼기 에펜디, 바하이 신앙의 수호자 (1897년 출생)"
   },
   {
    "year": 1956,
@@ -7126,7 +7128,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프레디 딕슨, 영국의 오토바이 경주 선수이자 자동차 경주 선수 (1892년 출생)"
   },
   {
    "year": 1955,
@@ -7141,7 +7143,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로버트 E. 셔우드, 미국의 극작가이자 시나리오 작가 (1896년 출생)"
   },
   {
    "year": 1955,
@@ -7156,7 +7158,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "사이 영, 미국의 야구 선수이자 감독 (1867년 출생)"
   },
   {
    "year": 1954,
@@ -7171,7 +7173,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "스티그 다게르만, 스웨덴의 언론인이자 작가 (1923년 출생)"
   },
   {
    "year": 1950,
@@ -7186,7 +7188,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "그로버 클리블랜드 알렉산더, 미국의 야구 선수이자 코치 (1887년 출생)"
   },
   {
    "year": 1948,
@@ -7209,7 +7211,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨버트 스탠리, 애시필드 남작 1세, 영국의 사업가이자 정치인, 기업혁신기술부 장관 (1874년 출생)"
   },
   {
    "year": 1946,
@@ -7224,7 +7226,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "뤼디거 폰 데어 골츠, 독일의 장군 (1865년 출생)"
   },
   {
    "year": 1940,
@@ -7255,7 +7257,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아서 로스트론, 영국의 선원, 타이타닉호 재난 당시 구조선 카르파티아호의 선장 (1869년 출생)"
   },
   {
    "year": 1931,
@@ -7270,7 +7272,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버디 볼든, 미국의 코넷 연주자이자 밴드 리더 (1877년 출생)"
   },
   {
    "year": 1931,
@@ -7285,7 +7287,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루이지 갈레아니, 이탈리아의 이론가이자 활동가 (1861년 출생)"
   },
   {
    "year": 1930,
@@ -7300,7 +7302,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아키야마 요시후루, 일본의 장군 (1859년 출생)"
   },
   {
    "year": 1924,
@@ -7323,7 +7325,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 코너, 미국의 하사, 명예 훈장 수훈자 (1843년 출생)"
   },
   {
    "year": 1924,
@@ -7338,7 +7340,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "가브리엘 포레, 프랑스의 피아니스트, 작곡가, 교육자 (1845년 출생)"
   },
   {
    "year": 1921,
@@ -7349,19 +7351,19 @@
      "description": "Prime Minister of Japan from 1918 to 1921",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Takashi_Hara_formal.jpg/330px-Takashi_Hara_formal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Hara_Takashi",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하라 다카시",
+     "description_ko": "1918년부터 1921년까지 일본의 내각총리대신"
     },
     {
      "title": "Prime Minister of Japan",
      "description": "Head of government",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Gosichigirimon.svg/330px-Gosichigirimon.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_Japan",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "일본의 내각총리대신",
+     "description_ko": "정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "하라 다카시, 일본의 정치인, 제10대 일본 총리 (1856년 출생)"
   },
   {
    "year": 1918,
@@ -7376,7 +7378,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "윌프레드 오언, 영국의 중위이자 시인 (1893년 출생)"
   },
   {
    "year": 1906,
@@ -7391,7 +7393,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 H. 케첨, 미국의 장군이자 정치인 (1832년 출생)"
   },
   {
    "year": 1895,
@@ -7406,7 +7408,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "유진 필드, 미국의 언론인, 작가, 시인 (1850년 출생)"
   },
   {
    "year": 1893,
@@ -7426,10 +7428,10 @@
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/330px-Flag_of_France.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Prime_Minister_of_France",
      "title_ko": null,
-     "description_ko": null
+     "description_ko": "정부 수반"
     }
    ],
-   "text_ko": null
+   "text_ko": "피에르 티라르, 스위스계 프랑스 엔지니어이자 정치인, 제54대 프랑스 총리 (1827년 출생)"
   },
   {
    "year": 1886,
@@ -7452,7 +7454,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제임스 마틴, 아일랜드계 호주 정치인, 제6대 뉴사우스웨일스 주지사 (1820년 출생)"
   },
   {
    "year": 1856,
@@ -7467,7 +7469,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "폴 들라로슈, 프랑스의 화가이자 교육자 (1797년 출생)"
   },
   {
    "year": 1847,
@@ -7482,7 +7484,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "펠릭스 멘델스존, 독일의 피아니스트, 작곡가, 지휘자 (1809년 출생)"
   },
   {
    "year": 1847,
@@ -7497,7 +7499,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "티에우 찌, 베트남의 황제 (1807년 출생)"
   },
   {
    "year": 1801,
@@ -7512,7 +7514,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "윌리엄 시펜, 미국의 의사이자 해부학자 (1712년 출생)"
   },
   {
    "year": 1781,
@@ -7527,7 +7529,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "요한 니콜라우스 괴츠, 독일의 시인이자 작곡가 (1721년 출생)"
   },
   {
    "year": 1704,
@@ -7542,7 +7544,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "안드레아스 아콜루투스, 독일의 동양학자이자 학자 (1654년 출생)"
   },
   {
    "year": 1702,
@@ -7557,7 +7559,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 벤보, 영국의 제독 (1653년 출생)"
   },
   {
    "year": 1698,
@@ -7572,7 +7574,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "라스무스 바르톨린, 덴마크의 의사이자 수학자 (1625년 출생)"
   },
   {
    "year": 1669,
@@ -7587,7 +7589,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "요하네스 코케이우스, 네덜란드의 신학자이자 학자 (1603년 출생)"
   },
   {
    "year": 1658,
@@ -7602,7 +7604,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앙투안 르 메스트르, 프랑스의 변호사이자 작가 (1608년 출생)"
   },
   {
    "year": 1652,
@@ -7617,7 +7619,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "장샤를 드 라 파유, 플랑드르의 사제이자 수학자 (1597년 출생)"
   },
   {
    "year": 1581,
@@ -7640,7 +7642,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마튀랭 로메가스, 구호기사단의 라이벌 대사 (1525년경 출생)"
   },
   {
    "year": 1576,
@@ -7655,7 +7657,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 폴렛, 윈체스터 후작 2세 (1510년경 출생)"
   },
   {
    "year": 1485,
@@ -7666,11 +7668,11 @@
      "description": "French Carmelite nun (1427–1485)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Fcse_d_amboise.jpg/330px-Fcse_d_amboise.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Fran%C3%A7oise_d'Amboise",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "프랑수아즈 당부아즈",
+     "description_ko": "프랑스 카르멜회 수녀 (1427년~1485년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "프랑수아즈 당부아즈, 브르타뉴 공작부인 (1427년 출생)"
   },
   {
    "year": 1485,
@@ -7685,7 +7687,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "조반니 모체니고, 베네치아 공작 (1408년 출생)"
   },
   {
    "year": 1428,
@@ -7700,7 +7702,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바이에른의 조피, 보헤미아의 왕비 (1376년 출생)"
   },
   {
    "year": 1411,
@@ -7715,7 +7717,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "티무르 왕조의 할릴 술탄 (1384년 출생)"
   },
   {
    "year": 1360,
@@ -7730,7 +7732,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엘리자베스 드 클레어, 영국의 귀족 여성 (1295년 출생)"
   },
   {
    "year": 1212,
@@ -7741,11 +7743,11 @@
      "description": "French Catholic former Cistercian hermit (1127–1212)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/San_felix_valois.jpg/330px-San_felix_valois.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Felix_of_Valois",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "발루아의 펠릭스",
+     "description_ko": "프랑스 가톨릭 전 시토회 은둔자 (1127년~1212년)"
     }
    ],
-   "text_ko": null
+   "text_ko": "발루아의 펠릭스, 프랑스의 성인 (1127년 출생)"
   },
   {
    "year": 1203,
@@ -7760,7 +7762,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "홀란트 백작 디르크 7세"
   },
   {
    "year": 1038,
@@ -7775,7 +7777,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "야로미르, 보헤미아 공작 (970년 출생)"
   },
   {
    "year": 915,
@@ -7790,7 +7792,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "장 황후, 중국의 황후 (892년 출생)"
   },
   {
    "year": 604,
@@ -7805,7 +7807,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "욜 익날, 마야의 여왕"
   }
  ]
 }
