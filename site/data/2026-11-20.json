@@ -1,14 +1,14 @@
 {
  "date": "2026-11-20",
- "generated_at": "2026-11-20T07:04:35Z",
+ "generated_at": "2026-11-20T11:03:29Z",
  "source": "Wikipedia (en) — On this day",
  "translation": {
   "models": [
    "gemini-2.5-flash"
   ],
-  "translated": 833,
+  "translated": 1073,
   "total": 1073,
-  "complete": false
+  "complete": true
  },
  "selected": [
   {
@@ -1859,8 +1859,8 @@
      "description": "Treaty ending the Napoleonic Wars",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Coalition_occupation_of_France_1815.png/330px-Coalition_occupation_of_France_1815.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Treaty_of_Paris_(1815)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "파리 조약 (1815년)",
+     "description_ko": "나폴레옹 전쟁을 끝낸 조약"
     }
    ],
    "text_ko": "제2차 파리 조약이 체결되어 프랑스 국경을 1790년 범위로 되돌리고 막대한 배상금을 부과하며 영국, 오스트리아, 프로이센, 러시아 군대의 점령을 몇 년 더 연장했다."
@@ -1874,27 +1874,27 @@
      "description": "German composer (1770–1827)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg/330px-Joseph_Karl_Stieler%27s_Beethoven_mit_dem_Manuskript_der_Missa_solemnis.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ludwig_van_Beethoven",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "루트비히 판 베토벤",
+     "description_ko": "독일의 작곡가 (1770–1827)"
     },
     {
      "title": "Fidelio",
      "description": "Ludwig van Beethoven's sole opera",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Fidelio18140523.jpg/330px-Fidelio18140523.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Fidelio",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "피델리오",
+     "description_ko": "루트비히 판 베토벤의 유일한 오페라"
     },
     {
      "title": "Vienna",
      "description": "Capital and largest city of Austria",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Schoenbrunn_philharmoniker_2012.jpg/330px-Schoenbrunn_philharmoniker_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Vienna",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "빈",
+     "description_ko": "오스트리아의 수도이자 최대 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "베토벤의 유일한 오페라 피델리오가 빈에서 초연되었다."
   },
   {
    "year": 1789,
@@ -1905,7 +1905,7 @@
      "description": "U.S. state",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/330px-Flag_of_New_Jersey.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/New_Jersey",
-     "title_ko": null,
+     "title_ko": "뉴저지주",
      "description_ko": "미국의 주"
     },
     {
@@ -1913,11 +1913,11 @@
      "description": "First ten amendments to the U.S. Constitution",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg/330px-Bill_of_Rights_-_DPLA_-_a65f6d0b6210c18d17c596908ebcf270_%28page_1%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_States_Bill_of_Rights",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 권리 장전",
+     "description_ko": "미국 헌법의 첫 10개 수정안"
     }
    ],
-   "text_ko": null
+   "text_ko": "뉴저지가 미국 주 중 최초로 권리 장전을 비준했다."
   },
   {
    "year": 1776,
@@ -1936,8 +1936,8 @@
      "description": "Steep cliffs along the west side of the lower Hudson River",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Hudson_River_Palisades_from_Ross_Dock_Picnic_Area_in_fall.jpg/330px-Hudson_River_Palisades_from_Ross_Dock_Picnic_Area_in_fall.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/The_Palisades_(Hudson_River)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "팰리세이즈 (허드슨강)",
+     "description_ko": "허드슨강 하류 서쪽을 따라 있는 가파른 절벽"
     },
     {
      "title": "Fort Lee Historic Park",
@@ -1960,11 +1960,11 @@
      "description": "U.S. state",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Flag_of_New_Jersey.svg/330px-Flag_of_New_Jersey.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/New_Jersey",
-     "title_ko": null,
+     "title_ko": "뉴저지주",
      "description_ko": "미국의 주"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 독립 전쟁: 영국군이 팰리세이즈에 상륙한 후 포트리 요새를 공격했다. 대륙군은 뉴저지 전역으로 후퇴하기 시작했다."
   },
   {
    "year": 1759,
@@ -1975,35 +1975,35 @@
      "description": "Royal Navy officer and politician (1705–1781)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Portrait_of_Admiral_of_the_Fleet_Edward_Hawke%2C_1st_Baron_Hawke_%281705-1781%29_%28by_George_Knapton%29_%28cropped%29.jpg/330px-Portrait_of_Admiral_of_the_Fleet_Edward_Hawke%2C_1st_Baron_Hawke_%281705-1781%29_%28by_George_Knapton%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Edward_Hawke%2C_1st_Baron_Hawke",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제1대 호크 남작 에드워드 호크",
+     "description_ko": "영국 해군 장교이자 정치인 (1705–1781)"
     },
     {
      "title": "Hubert de Brienne",
      "description": "French Navy officer (1690–1777)",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Hubert_de_Brienne",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "위베르 드 브리엔",
+     "description_ko": "프랑스 해군 장교 (1690–1777)"
     },
     {
      "title": "Battle of Quiberon Bay",
      "description": "1759 battle of the Seven Years' War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff/lossy-page1-330px-The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_Quiberon_Bay",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "키브롱만 전투",
+     "description_ko": "1759년 7년 전쟁의 전투"
     },
     {
      "title": "Planned French invasion of Britain (1759)",
      "description": "Part of the Seven Years' War and Jacobite Risings",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff/lossy-page1-330px-The_Battle_of_Quiberon_Bay%2C_20_November_1759_RMG_BHC0397.tiff.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Planned_French_invasion_of_Britain_(1759)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "프랑스의 영국 침공 계획 (1759년)",
+     "description_ko": "7년 전쟁과 재커바이트의 난의 일부"
     }
    ],
-   "text_ko": null
+   "text_ko": "에드워드 호크가 이끄는 영국 함대가 키브롱만 전투에서 위베르 드 브리엔이 이끄는 프랑스 함대를 격파하여, 프랑스의 영국 침공 가능성을 줄였다."
   },
   {
    "year": 1739,
@@ -2026,7 +2026,7 @@
      "description_ko": "1739년~1748년 영국과 스페인 간의 분쟁"
     }
    ],
-   "text_ko": null
+   "text_ko": "젠킨스의 귀 전쟁 중 영국군과 스페인군 간의 포르토벨로 전투가 시작되었다."
   },
   {
    "year": 1710,
@@ -2037,27 +2037,27 @@
      "description": "Fourth conflict of the Russo-Turkish wars",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Prut_pohod_in_1711-en.png/330px-Prut_pohod_in_1711-en.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Russo-Turkish_War_(1710%E2%80%931713)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "러시아-튀르크 전쟁 (1710년~1713년)",
+     "description_ko": "러시아-튀르크 전쟁의 네 번째 분쟁"
     },
     {
      "title": "Charles XII of Sweden",
      "description": "King of Sweden from 1697 to 1718",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Copy_Charles_XII_-_Nationalmuseum_-_17886.png/330px-Copy_Charles_XII_-_Nationalmuseum_-_17886.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Charles_XII_of_Sweden",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "카를 12세",
+     "description_ko": "1697년부터 1718년까지 스웨덴의 국왕"
     },
     {
      "title": "Bender, Moldova",
      "description": "Municipality in Transnistria, Moldova",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/Bender_Fortress._Northern_side_02.JPG/330px-Bender_Fortress._Northern_side_02.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bender%2C_Moldova",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "벤데르",
+     "description_ko": "몰도바 트란스니스트리아의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "오스만 제국이 스웨덴의 카를 12세를 벤데르 요새에 피신시키면서 두 국가 간의 긴장이 고조된 후, 1710~1713년 러시아-튀르크 전쟁이 시작되었다."
   },
   {
    "year": 1695,
@@ -2068,35 +2068,35 @@
      "description": "Afro-Brazilian freed slave; king of Quilombo dos Palmares (r. 1680–95)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg/330px-Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Zumbi",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중비",
+     "description_ko": "아프리카계 브라질인 해방 노예; 킬롬부 두스 팔마레스의 왕 (재위 1680–95)"
     },
     {
      "title": "Palmares (quilombo)",
      "description": "Community of escaped slaves in Brazil (1605 to 1694)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Mapa_da_Capitania_de_Pernambuco%2C_com_representa%C3%A7%C3%A3o_do_Quilombo_dos_Palmares_%281647%29.jpg/330px-Mapa_da_Capitania_de_Pernambuco%2C_com_representa%C3%A7%C3%A3o_do_Quilombo_dos_Palmares_%281647%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Palmares_(quilombo)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "팔마레스 (킬롬부)",
+     "description_ko": "브라질의 도망 노예 공동체 (1605년~1694년)"
     },
     {
      "title": "National Day of Zumbi and Black Consciousness",
      "description": "Annual celebration honoring the Black community in Brazil",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg/330px-Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Day_of_Zumbi_and_Black_Consciousness",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중비와 흑인 의식의 날",
+     "description_ko": "브라질 흑인 공동체를 기리는 연례 기념일"
     },
     {
      "title": "Domingos Jorge Velho",
      "description": "Portuguese explorer (1641–1705)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Jesus%2C_Benedito_Calixto_de_-_Domingos_Jorge_Velho_e_o_Loco-tenente_Ant%C3%B4nio_F._de_Abreu.jpg/330px-Jesus%2C_Benedito_Calixto_de_-_Domingos_Jorge_Velho_e_o_Loco-tenente_Ant%C3%B4nio_F._de_Abreu.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Domingos_Jorge_Velho",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "도밍구스 조르즈 벨류",
+     "description_ko": "포르투갈의 탐험가 (1641–1705)"
     }
    ],
-   "text_ko": null
+   "text_ko": "초기 브라질의 킬롬부 두스 팔마레스 지도자 중 마지막인 중비가 포르투갈 반데이란테 도밍구스 조르즈 벨류의 군대에 의해 처형되었다."
   },
   {
    "year": 1441,
@@ -2107,35 +2107,35 @@
      "description": "1441 peace treaty between Venice and Milan",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Peace_of_Cremona_(1441)",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "크레모나 평화 조약 (1441년)",
+     "description_ko": "1441년 베네치아와 밀라노 간의 평화 조약"
     },
     {
      "title": "Republic of Venice",
      "description": "Maritime republic in Italy (697–1797)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Variant_war_flag_of_the_Serene_Republic_of_Venice.svg/330px-Variant_war_flag_of_the_Serene_Republic_of_Venice.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Republic_of_Venice",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "베네치아 공화국",
+     "description_ko": "이탈리아의 해상 공화국 (697–1797)"
     },
     {
      "title": "Duchy of Milan",
      "description": "Former duchy in Italy (1395–1447; 1450–1796)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_the_Duchy_of_Milan_%281450%29.svg/330px-Flag_of_the_Duchy_of_Milan_%281450%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Duchy_of_Milan",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "밀라노 공국",
+     "description_ko": "이탈리아의 옛 공국 (1395–1447; 1450–1796)"
     },
     {
      "title": "Galeas per montes",
      "description": "Transportation of several Venetian ships from the Adriatic to Lake Garda",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Mappa_galeas_colori.jpg/330px-Mappa_galeas_colori.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Galeas_per_montes",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "갈레아스 페르 몬테스",
+     "description_ko": "여러 베네치아 선박을 아드리아해에서 가르다 호수로 운송"
     }
    ],
-   "text_ko": null
+   "text_ko": "크레모나 평화 조약으로 베네치아 공화국과 밀라노 공국 간의 전쟁이 끝났다. 이는 갈레아스 페르 몬테스라는 베네치아의 성공적인 군사 공학 사업 이후였다."
   },
   {
    "year": 1407,
@@ -2146,27 +2146,27 @@
      "description": "Duke of Burgundy from 1404 to 1419",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/John_II%2C_Duke_of_Burgundy.jpg/330px-John_II%2C_Duke_of_Burgundy.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/John_the_Fearless",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "용맹공 장",
+     "description_ko": "1404년부터 1419년까지 부르고뉴 공작"
     },
     {
      "title": "Duke of Burgundy",
      "description": "Title used by the rulers of the Duchy of Burgundy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Arms_of_Eudes_de_Bourgogne.svg/330px-Arms_of_Eudes_de_Bourgogne.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Duke_of_Burgundy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "부르고뉴 공작",
+     "description_ko": "부르고뉴 공국의 통치자들이 사용한 칭호"
     },
     {
      "title": "Louis I, Duke of Orléans",
      "description": "French prince and nobleman (1372–1407)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Attribu%C3%A9_%C3%A0_Colart_de_Laon_-_Louis_d%27Orl%C3%A9ans_%28detail_de_la_Pri%C3%A8re_dans_les_jardins_des_oliviers%29.jpg/330px-Attribu%C3%A9_%C3%A0_Colart_de_Laon_-_Louis_d%27Orl%C3%A9ans_%28detail_de_la_Pri%C3%A8re_dans_les_jardins_des_oliviers%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Louis_I%2C_Duke_of_Orl%C3%A9ans",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "오를레앙 공작 루이 1세",
+     "description_ko": "프랑스 왕자이자 귀족 (1372–1407)"
     }
    ],
-   "text_ko": null
+   "text_ko": "부르고뉴 공작 용맹공 장과 오를레앙 공작 발루아 루이가 휴전에 합의했지만, 장은 사흘 후 루이를 살해했다."
   },
   {
    "year": 1272,
@@ -2177,15 +2177,15 @@
      "description": "King of England from 1272 to 1307",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Edward_I_-_Westminster_Abbey_Sedilia.jpg/330px-Edward_I_-_Westminster_Abbey_Sedilia.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Edward_I",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "에드워드 1세",
+     "description_ko": "1272년부터 1307년까지 잉글랜드의 왕"
     },
     {
      "title": "Monarchy of the United Kingdom",
      "description": "",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Coat_of_arms_of_the_United_Kingdom_%282022%2C_both_variants%29.svg/330px-Coat_of_arms_of_the_United_Kingdom_%282022%2C_both_variants%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Monarchy_of_the_United_Kingdom",
-     "title_ko": null,
+     "title_ko": "영국의 군주제",
      "description_ko": null
     },
     {
@@ -2193,11 +2193,11 @@
      "description": "King of England from 1216 to 1272",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/HenryIII.jpg/330px-HenryIII.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Henry_III_of_England",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헨리 3세",
+     "description_ko": "1216년부터 1272년까지 잉글랜드의 왕"
     }
    ],
-   "text_ko": null
+   "text_ko": "잉글랜드의 헨리 3세가 사망한 후 에드워드 1세가 잉글랜드의 왕이 되었다."
   },
   {
    "year": 1194,
@@ -2208,19 +2208,19 @@
      "description": "City in Sicily, Italy",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Sicilia_Palermo5_tango7174.jpg/330px-Sicilia_Palermo5_tango7174.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Palermo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "팔레르모",
+     "description_ko": "이탈리아 시칠리아의 도시"
     },
     {
      "title": "Henry VI, Holy Roman Emperor",
      "description": "Holy Roman Emperor from 1191 to 1197",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/JindrichVIStauf_trun.jpg/330px-JindrichVIStauf_trun.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Henry_VI%2C_Holy_Roman_Emperor",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "하인리히 6세 (신성 로마 황제)",
+     "description_ko": "1191년부터 1197년까지 신성 로마 황제"
     }
    ],
-   "text_ko": null
+   "text_ko": "팔레르모가 신성 로마 제국 황제 하인리히 6세에게 정복되었다."
   },
   {
    "year": 762,
@@ -2231,35 +2231,35 @@
      "description": "755–763 uprising against Tang rule in China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/An_Lushan_Rebellion.png/330px-An_Lushan_Rebellion.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/An_Lushan_rebellion",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "안사의 난",
+     "description_ko": "755년~763년 중국 당나라에 대한 반란"
     },
     {
      "title": "Tang dynasty",
      "description": "Imperial dynasty of China (618–907)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Tang_outline_map%2C_661.svg/330px-Tang_outline_map%2C_661.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Tang_dynasty",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "당나라",
+     "description_ko": "중국의 제국 왕조 (618–907)"
     },
     {
      "title": "Uyghur Khaganate",
      "description": "744–840 Turkic empire in East Asia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/Conversion_of_B%C3%B6g%C3%BC_Qaghan_%28759-780_CE%29_to_Manicheism_in_762_%28detailed_of_B%C3%B6g%C3%BC_Qaghan_in_a_suit_of_armour%2C_kneeling_to_a_Manichean_high_priest%29.jpg/330px-Conversion_of_B%C3%B6g%C3%BC_Qaghan_%28759-780_CE%29_to_Manicheism_in_762_%28detailed_of_B%C3%B6g%C3%BC_Qaghan_in_a_suit_of_armour%2C_kneeling_to_a_Manichean_high_priest%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Uyghur_Khaganate",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "위구르 카간국",
+     "description_ko": "744년~840년 동아시아의 튀르크 제국"
     },
     {
      "title": "Luoyang",
      "description": "City in Henan, China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Longmen_Grottoes_3.jpg/330px-Longmen_Grottoes_3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Luoyang",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뤄양",
+     "description_ko": "중국 허난성의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "안사의 난 동안 당나라는 회흘족의 도움을 받아 반군으로부터 낙양을 탈환했다."
   },
   {
    "year": 284,
@@ -2270,19 +2270,19 @@
      "description": "Roman emperor from 284 to 305",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg/330px-Istanbul_Archaeology_Museum_Bust_of_Diocletian%2C_from_Nikomedia%2C_Izmit%2C_end_3rd_century_AD_1536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Diocletian",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "디오클레티아누스",
+     "description_ko": "284년부터 305년까지 로마 황제"
     },
     {
      "title": "Roman emperor",
      "description": "Ruler of the Roman Empire",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Better_Imperial_Aquila.png/330px-Better_Imperial_Aquila.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Roman_emperor",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "로마 황제",
+     "description_ko": "로마 제국의 통치자"
     }
    ],
-   "text_ko": null
+   "text_ko": "디오클레티아누스가 로마 황제로 선출되었다."
   }
  ],
  "holidays": [
@@ -2295,19 +2295,19 @@
      "description": "Abbreviation for 20th of November, in Spanish history",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/20-N",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "20-N",
+     "description_ko": "스페인 역사에서 11월 20일의 약어"
     },
     {
      "title": "Spain",
      "description": "Country in Southern and Western Europe",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Flag_of_the_Kingdom_of_Spain.svg/330px-Flag_of_the_Kingdom_of_Spain.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Spain",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "스페인",
+     "description_ko": "남유럽과 서유럽의 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "20-N (스페인)"
   },
   {
    "year": null,
@@ -2318,11 +2318,11 @@
      "description": "",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Lists_of_holidays",
-     "title_ko": null,
+     "title_ko": "공휴일 목록",
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아프리카 산업화의 날 (국제)"
   },
   {
    "year": null,
@@ -2333,19 +2333,19 @@
      "description": "Annual celebration honoring the Black community in Brazil",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg/330px-Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/National_Day_of_Zumbi_and_Black_Consciousness",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중비와 흑인 의식의 날",
+     "description_ko": "브라질 흑인 공동체를 기리는 연례 기념일"
     },
     {
      "title": "Brazil",
      "description": "Country in South America",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/330px-Flag_of_Brazil.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Brazil",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "브라질",
+     "description_ko": "남아메리카의 국가"
     }
    ],
-   "text_ko": null
+   "text_ko": "흑인 의식의 날 (브라질)"
   },
   {
    "year": null,
@@ -2356,11 +2356,11 @@
      "description": "Public observance in honor of children",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/1958_CPA_2159.jpg/330px-1958_CPA_2159.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Children's_Day",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "어린이날",
+     "description_ko": "어린이를 기리는 공공 기념일"
     }
    ],
-   "text_ko": null
+   "text_ko": "어린이날 (세계 어린이날)"
   },
   {
    "year": null,
@@ -2371,11 +2371,11 @@
      "description": "Italian monk and theologian (1386–1439)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/S.M._degli_angeli%2C_chiostro_della_sacrestia_18_Ambrogio_Traversari%2C_Pietro_Francavilla%2C_angeli.JPG/330px-S.M._degli_angeli%2C_chiostro_della_sacrestia_18_Ambrogio_Traversari%2C_Pietro_Francavilla%2C_angeli.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Ambrose_Traversari",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "암브로세 트라베르사리",
+     "description_ko": "이탈리아의 수도사이자 신학자 (1386–1439)"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n암브로세 트라베르사리"
   },
   {
    "year": null,
@@ -2386,43 +2386,43 @@
      "description": "Recognition by the Catholic Church of a holy person",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg/330px-Paus_Johannes_Paulus_I_%28Bestanddeelnr_929-9074%29_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Beatification",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "시복",
+     "description_ko": "가톨릭 교회에서 성인을 인정하는 것"
     },
     {
      "title": "Anacleto González Flores",
      "description": "Mexican Catholic martyr, lawyer, and Blessed (1888–1938)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Anacleto_Gonz%C3%A1lez_Flores.jpg/330px-Anacleto_Gonz%C3%A1lez_Flores.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Anacleto_Gonz%C3%A1lez_Flores",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아나클레토 곤살레스 플로레스",
+     "description_ko": "멕시코 가톨릭 순교자, 변호사, 복자 (1888–1938)"
     },
     {
      "title": "José Sánchez del Río",
      "description": "Mexican Cristero and Saint (1913–1928)",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Jos%C3%A9_S%C3%A1nchez_del_R%C3%ADo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_S%C3%A1nchez_del_R%C3%ADo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "호세 산체스 델 리오",
+     "description_ko": "멕시코 크리스테로이자 성인 (1913–1928)"
     },
     {
      "title": "Saints of the Cristero War",
      "description": "Mexican martyrs of the Catholic Church",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Tumba_de_San_Pedro_de_Jesus.jpg/330px-Tumba_de_San_Pedro_de_Jesus.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Saints_of_the_Cristero_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "크리스테로 전쟁의 성인들",
+     "description_ko": "가톨릭 교회의 멕시코 순교자들"
     },
     {
      "title": "Cristero War",
      "description": "1926–1929 armed rebellion in Mexico over church–state relations",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Zbitka_sze%C5%9Bciu_ilustracji_z_Powstania_Cristero_1926-1929.png/330px-Zbitka_sze%C5%9Bciu_ilustracji_z_Powstania_Cristero_1926-1929.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Cristero_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "크리스테로 전쟁",
+     "description_ko": "1926년~1929년 멕시코에서 교회-국가 관계를 둘러싼 무장 반란"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n복자 아나클레토 곤살레스 플로레스, 호세 산체스 델 리오 및 동료들 (크리스테로 전쟁 순교자)"
   },
   {
    "year": null,
@@ -2433,11 +2433,11 @@
      "description": "German Roman Catholic bishop (960–1022)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bernwardst%C3%BCr.jpg/330px-Bernwardst%C3%BCr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bernward_of_Hildesheim",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "힐데스하임의 베른바르트",
+     "description_ko": "독일 로마 가톨릭 주교 (960–1022)"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n힐데스하임의 베른바르트"
   },
   {
    "year": null,
@@ -2448,11 +2448,11 @@
      "description": "Bulgarian saint",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/49/Dasius_Menologium_Basilii_20_Nov.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Dasius_of_Durostorum",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "두로스토룸의 다시우스",
+     "description_ko": "불가리아의 성인"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n두로스토룸의 다시우스"
   },
   {
    "year": null,
@@ -2463,11 +2463,11 @@
      "description": "King of East Anglia from about 855 until 869",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Edmundbeingmartyred05.jpg/330px-Edmundbeingmartyred05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Edmund_the_Martyr",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "순교자 에드먼드",
+     "description_ko": "약 855년부터 869년까지 이스트앵글리아의 왕"
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n순교자 에드먼드"
   },
   {
    "year": null,
@@ -2482,7 +2482,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "기독교 축일:\n콘월의 펠렉 (또는 펠릭스)"
   },
   {
    "year": null,
@@ -5725,7 +5725,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "콜린 폭스, 캐나다 배우 (2025년 사망)"
   },
   {
    "year": 1937,
@@ -5740,7 +5740,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "르네 콜로, 독일 테너"
   },
   {
    "year": 1937,
@@ -5755,7 +5755,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루스 라레도, 미국 피아니스트이자 교육자 (2005년 사망)"
   },
   {
    "year": 1937,
@@ -5770,7 +5770,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에로 맨튀란타, 핀란드 스키 선수 (2013년 사망)"
   },
   {
    "year": 1937,
@@ -5785,7 +5785,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브루노 메알리, 이탈리아 사이클 선수 (2023년 사망)"
   },
   {
    "year": 1937,
@@ -5800,7 +5800,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빅토리야 토카레바, 러시아 작가이자 시나리오 작가"
   },
   {
    "year": 1936,
@@ -5815,7 +5815,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "한스 판 아벨렌, 네덜란드 유전학자 (1998년 사망)"
   },
   {
    "year": 1936,
@@ -5830,7 +5830,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "돈 드릴로, 미국 소설가, 수필가, 극작가"
   },
   {
    "year": 1936,
@@ -5845,7 +5845,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루치아노 파브로, 이탈리아 조각가이자 예술가 (2007년 사망)"
   },
   {
    "year": 1936,
@@ -5860,7 +5860,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 R. 라슨, 미국 해군 제독 (2014년 사망)"
   },
   {
    "year": 1935,
@@ -5875,7 +5875,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레오 팔캄, 미크로네시아 정치인이자 제5대 미크로네시아 대통령 (2018년 사망)"
   },
   {
    "year": 1935,
@@ -5890,7 +5890,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "임레 마코베츠, 헝가리 건축가 (2011년 사망)"
   },
   {
    "year": 1934,
@@ -5905,7 +5905,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "파코 이바녜스, 스페인 가수이자 음악가"
   },
   {
    "year": 1934,
@@ -5920,7 +5920,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레프 폴루가옙스키, 소련 체스 그랜드마스터 (1995년 사망)"
   },
   {
    "year": 1932,
@@ -5935,7 +5935,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리처드 도슨, 영국계 미국인 배우이자 게임 쇼 진행자 (2012년 사망)"
   },
   {
    "year": 1932,
@@ -5950,7 +5950,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "요로즈야 긴노스케, 일본 가부키 배우 (1997년 사망)"
   },
   {
    "year": 1932,
@@ -5965,7 +5965,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샨도르 마트라이, 헝가리 축구 선수 (2002년 사망)"
   },
   {
    "year": 1932,
@@ -5980,7 +5980,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "파울루 발렌칭, 브라질 축구 선수 (1984년 사망)"
   },
   {
    "year": 1932,
@@ -5995,7 +5995,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "콜빌 영, 벨리즈 총독"
   },
   {
    "year": 1931,
@@ -6010,7 +6010,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "웨인 무어, 미국 수영 선수 (2015년 사망)"
   },
   {
    "year": 1930,
@@ -6025,7 +6025,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "크리스틴 아르노티, 프랑스 작가 (2015년 사망)"
   },
   {
    "year": 1930,
@@ -6040,7 +6040,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아론 에르난, 멕시코 배우 (2020년 사망)"
   },
   {
    "year": 1930,
@@ -6055,7 +6055,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "버나드 호스폴, 잉글랜드-스코틀랜드 배우 (2013년 사망)"
   },
   {
    "year": 1930,
@@ -6070,7 +6070,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "최영림, 조선민주주의인민공화국 총리"
   },
   {
    "year": 1929,
@@ -6085,7 +6085,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제리 하딘, 미국 배우"
   },
   {
    "year": 1929,
@@ -6100,7 +6100,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레몽 르페브르, 프랑스 작곡가 (2008년 사망)"
   },
   {
    "year": 1929,
@@ -6115,7 +6115,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "가브리엘 오초아 우리베, 콜롬비아 축구 선수 (2020년 사망)"
   },
   {
    "year": 1929,
@@ -6130,7 +6130,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "론 윌리, 호주 럭비 리그 선수이자 코치 (2004년 사망)"
   },
   {
    "year": 1928,
@@ -6145,7 +6145,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉세이 바탈로프, 러시아 배우, 감독, 시나리오 작가 (2017년 사망)"
   },
   {
    "year": 1928,
@@ -6160,7 +6160,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프랭클린 커버, 미국 배우 (2006년 사망)"
   },
   {
    "year": 1928,
@@ -6175,7 +6175,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "페드로 페란디스, 스페인 농구 코치 (2022년 사망)"
   },
   {
    "year": 1928,
@@ -6190,7 +6190,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 디슬리, 웨일스 육상 선수 (2016년 사망)"
   },
   {
    "year": 1928,
@@ -6205,7 +6205,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피트 라데마허, 미국 권투 선수 (2020년 사망)"
   },
   {
    "year": 1928,
@@ -6220,7 +6220,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "겐리흐 삽기르, 러시아 작가 (1999년 사망)"
   },
   {
    "year": 1927,
@@ -6235,7 +6235,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "바흐탕 발라바제, 조지아 레슬링 선수 (2018년 사망)"
   },
   {
    "year": 1927,
@@ -6258,7 +6258,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에드 프리먼, 미국 군인이자 조종사, 명예 훈장 수훈자 (2008년 사망)"
   },
   {
    "year": 1927,
@@ -6273,7 +6273,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에스텔 파슨스, 미국 배우이자 감독"
   },
   {
    "year": 1927,
@@ -6288,7 +6288,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "볼프강 슈라이어, 독일 작가 (2017년 사망)"
   },
   {
    "year": 1927,
@@ -6303,7 +6303,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미하일 울리야노프, 소련 및 러시아 배우 (2007년 사망)"
   },
   {
    "year": 1926,
@@ -6318,7 +6318,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 가드너, 잉글랜드 군인이자 작가 (2007년 사망)"
   },
   {
    "year": 1926,
@@ -6333,7 +6333,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "똔텃딘, 베트남 장군 (2013년 사망)"
   },
   {
    "year": 1926,
@@ -6348,7 +6348,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에두아르 르클레르, 프랑스 사업가이자 기업가 (2012년 사망)"
   },
   {
    "year": 1926,
@@ -6363,7 +6363,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미로슬라프 티히, 체코 사진작가 (2011년 사망)"
   },
   {
    "year": 1925,
@@ -6378,7 +6378,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "준 크리스티, 미국 가수 (1990년 사망)"
   },
   {
    "year": 1925,
@@ -6401,7 +6401,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로버트 F. 케네디, 미국 해군 장교, 변호사, 정치인, 제64대 미국 법무장관 (1968년 사망)"
   },
   {
    "year": 1925,
@@ -6416,7 +6416,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마야 플리세츠카야, 러시아-리투아니아 발레리나, 안무가, 배우, 감독 (2015년 사망)"
   },
   {
    "year": 1924,
@@ -6431,7 +6431,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빌 보스윅, 호주 정치인 (2001년 사망)"
   },
   {
    "year": 1924,
@@ -6446,7 +6446,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "티머시 에번스, 살인죄로 부당하게 유죄 판결을 받은 웨일스인 (1950년 사망)"
   },
   {
    "year": 1924,
@@ -6461,7 +6461,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "카렌 하룹, 덴마크 수영 선수 (2009년 사망)"
   },
   {
    "year": 1924,
@@ -6476,7 +6476,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "브누아 망델브로, 폴란드계 미국인 수학자이자 경제학자 (2010년 사망)"
   },
   {
    "year": 1924,
@@ -6491,7 +6491,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 리파테르, 프랑스 문학 비평가이자 이론가 (2006년 사망)"
   },
   {
    "year": 1924,
@@ -6514,7 +6514,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "헨크 프레델링, 네덜란드 농업경제학자이자 정치인, 네덜란드 국방부 장관 (2007년 사망)"
   },
   {
    "year": 1923,
@@ -6529,7 +6529,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "군나르 오케르룬드, 스웨덴 스프린트 카누 선수 (2006년 사망)"
   },
   {
    "year": 1923,
@@ -6544,7 +6544,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "대니 데이턴, 미국 배우이자 감독 (1999년 사망)"
   },
   {
    "year": 1923,
@@ -6559,7 +6559,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "토니노 델리 콜리, 이탈리아 촬영 감독 (2005년 사망)"
   },
   {
    "year": 1923,
@@ -6582,7 +6582,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "나딘 고디머, 남아프리카 공화국 소설가, 단편 소설 작가, 운동가, 노벨상 수상자 (2014년 사망)"
   },
   {
    "year": 1921,
@@ -6597,7 +6597,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "짐 개리슨, 미국 변호사이자 판사 (1992년 사망)"
   },
   {
    "year": 1920,
@@ -6612,7 +6612,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "더글러스 딕, 미국 배우이자 심리학자 (2015년 사망)"
   },
   {
    "year": 1919,
@@ -6627,7 +6627,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨런 브라운, 잉글랜드 자동차 경주 선수 (2004년 사망)"
   },
   {
    "year": 1919,
@@ -6642,7 +6642,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "필리스 택스터, 미국 배우 (2012년 사망)"
   },
   {
    "year": 1918,
@@ -6657,7 +6657,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "코리타 켄트, 미국 수녀, 삽화가, 교육자 (1986년 사망)"
   },
   {
    "year": 1918,
@@ -6672,7 +6672,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "하인리히 라트옌, 독일 높이뛰기 선수 (2008년 사망)"
   },
   {
    "year": 1917,
@@ -6687,7 +6687,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "로버트 버드, 미국 변호사이자 정치인 (2010년 사망)"
   },
   {
    "year": 1917,
@@ -6702,7 +6702,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "레너드 지미 새비지, 미국 수학자 (1971년 사망)"
   },
   {
    "year": 1917,
@@ -6717,7 +6717,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에리히 레오 레만, 미국 통계학자 (2009년 사망)"
   },
   {
    "year": 1917,
@@ -6732,7 +6732,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "보비 로크, 남아프리카 공화국 골프 선수 (1987년 사망)"
   },
   {
    "year": 1916,
@@ -6747,7 +6747,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 E. 오스굿, 미국 심리학자 (1991년 사망)"
   },
   {
    "year": 1916,
@@ -6762,7 +6762,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "마이클 J. 잉겔리도, 미국 장군 (2015년 사망)"
   },
   {
    "year": 1916,
@@ -6777,7 +6777,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이블린 키스, 미국 배우 (2008년 사망)"
   },
   {
    "year": 1916,
@@ -6792,7 +6792,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "도널드 T. 캠벨, 미국 사회 과학자 (1996년 사망)"
   },
   {
    "year": 1915,
@@ -6807,7 +6807,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이치카와 곤, 일본 감독, 프로듀서, 시나리오 작가 (2008년 사망)"
   },
   {
    "year": 1915,
@@ -6822,7 +6822,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "후야오방, 중국 정치인 (1989년 사망)"
   },
   {
    "year": 1914,
@@ -6837,7 +6837,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에밀리오 푸치, 이탈리아 패션 디자이너이자 정치인 (1992년 사망)"
   },
   {
    "year": 1914,
@@ -6852,7 +6852,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "쿠르트 룬드크비스트, 스웨덴 높이뛰기 선수 (1976년 사망)"
   },
   {
    "year": 1913,
@@ -6867,7 +6867,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프란츠 베르그함머, 오스트리아 필드 핸드볼 선수 (1944년 사망)"
   },
   {
    "year": 1913,
@@ -6882,7 +6882,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "찰스 벌리츠, 미국 언어학자 (2003년 사망)"
   },
   {
    "year": 1913,
@@ -6897,7 +6897,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "샤를 베텔하임, 프랑스 마르크스주의 경제학자이자 역사가 (2006년 사망)"
   },
   {
    "year": 1913,
@@ -6912,7 +6912,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "주디 카노바, 미국 배우이자 코미디언 (1983년 사망)"
   },
   {
    "year": 1913,
@@ -6927,7 +6927,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "코스타스 후미스, 그리스 축구 선수 (1981년 사망)"
   },
   {
    "year": 1913,
@@ -6942,7 +6942,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "러셀 라우스, 미국 시나리오 작가, 감독, 프로듀서 (1987년 사망)"
   },
   {
    "year": 1913,
@@ -6965,7 +6965,7 @@
      "description_ko": "독일의 파시스트 이데올로기"
     }
    ],
-   "text_ko": null
+   "text_ko": "리베르타스 슐체-보이젠, 독일 나치 반대자 (1942년 사망)"
   },
   {
    "year": 1913,
@@ -6980,7 +6980,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "야코프 자크, 소련 피아니스트 (1976년 사망)"
   },
   {
    "year": 1912,
@@ -6995,7 +6995,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "엔리케 가르시아, 아르헨티나 축구 선수 (1969년 사망)"
   },
   {
    "year": 1912,
@@ -7026,7 +7026,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "오토 폰 합스부르크, 오스트리아-헝가리 마지막 황태자 (2011년 사망)"
   },
   {
    "year": 1911,
@@ -7041,7 +7041,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에두아르트 카인베르거, 오스트리아 축구 선수 (1974년 사망)"
   },
   {
    "year": 1911,
@@ -7056,7 +7056,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "데이비드 시모어, 폴란드 사진작가 (1956년 사망)"
   },
   {
    "year": 1911,
@@ -7071,7 +7071,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "진 실리, 미국 높이뛰기 선수 (1998년 사망)"
   },
   {
    "year": 1911,
@@ -7086,7 +7086,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루퍼트 바인슈타블, 오스트리아 스프린트 카누 선수 (1953년 사망)"
   },
   {
    "year": 1911,
@@ -7101,7 +7101,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "파울 칠린스키, 독일 축구 선수 (1966년 사망)"
   },
   {
    "year": 1910,
@@ -7116,7 +7116,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "빌럼 야코프 판 스토쿰, 네덜란드 수학자, 조종사, 학자 (1944년 사망)"
   },
   {
    "year": 1910,
@@ -7131,7 +7131,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "폴리 머레이, 미국 민권 운동가, 여성 인권 운동가, 변호사, 성공회 사제, 작가 (1985년 사망)"
   },
   {
    "year": 1909,
@@ -7146,7 +7146,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "존 베르거, 스위스 크로스컨트리 스키 선수 (2002년 사망)"
   },
   {
    "year": 1909,
@@ -7161,7 +7161,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "비센테 페올라, 브라질 축구 감독이자 코치 (1975년 사망)"
   },
   {
    "year": 1909,
@@ -7176,7 +7176,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "피에로 게라르디, 이탈리아 의상 및 무대 디자이너 (1971년 사망)"
   },
   {
    "year": 1909,
@@ -7199,7 +7199,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "사만트 시아반도프, 소련 적군 작가 (1989년 사망)"
   },
   {
    "year": 1908,
@@ -7222,7 +7222,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "루트비히 헤르만 알렉산더 클로두스, 헤센 대공 에른스트 루트비히의 막내아들 (1968년 사망)"
   },
   {
    "year": 1908,
@@ -7237,7 +7237,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앨리스터 쿡, 영국계 미국인 언론인이자 작가 (2004년 사망)"
   },
   {
    "year": 1908,
@@ -7252,7 +7252,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "예뇌 빈체, 헝가리 축구 선수 (1988년 사망)"
   },
   {
    "year": 1907,
@@ -7267,7 +7267,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "프랜 앨리슨, 미국 연예인 (1989년 사망)"
   },
   {
    "year": 1907,
@@ -7282,7 +7282,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미하이 베니우크, 루마니아 작가 (1988년 사망)"
   },
   {
    "year": 1907,
@@ -7297,7 +7297,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "앙리조르주 클루조, 프랑스 영화 감독, 시나리오 작가, 프로듀서 (1977년 사망)"
   },
   {
    "year": 1907,
@@ -7312,7 +7312,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아니 레보른, 독일 수영 선수 (1987년 사망)"
   },
   {
    "year": 1906,
@@ -7327,7 +7327,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "베라 태너, 잉글랜드 수영 선수 (1971년 사망)"
   },
   {
    "year": 1905,
@@ -7342,7 +7342,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "미누 마사니, 인도 변호사이자 정치인 (1998년 사망)"
   },
   {
    "year": 1904,
@@ -7357,7 +7357,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아르놀트 가르트만, 스위스 봅슬레이 선수 (1980년 사망)"
   },
   {
    "year": 1903,
@@ -7372,7 +7372,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알렉산드라 다닐로바, 러시아계 미국인 발레리나이자 안무가 (1997년 사망)"
   },
   {
    "year": 1903,
@@ -7387,7 +7387,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "이슈티아크 후세인 쿠레시, 파키스탄 역사가이자 교육자 (1981년 사망)"
   },
   {
    "year": 1902,
@@ -7402,7 +7402,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "잔피에로 콤비, 이탈리아 축구 선수 (1956년 사망)"
   },
   {
    "year": 1902,
@@ -7417,7 +7417,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "에리크 에릭센, 덴마크 정치인 (1972년 사망)"
   },
   {
    "year": 1902,
@@ -7432,7 +7432,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "하이니 멩, 스위스 아이스하키 선수 (1982년 사망)"
   },
   {
    "year": 1902,
@@ -7447,7 +7447,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "장 팬르베, 프랑스 사진작가이자 영화 제작자 (1989년 사망)"
   },
   {
    "year": 1902,
@@ -7462,7 +7462,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "필리프 슈미트, 독일 슈츠슈타펠 장교 (1950년 사망)"
   },
   {
    "year": 1901,
@@ -7477,7 +7477,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "호세 레안드로 안드라데, 우루과이 축구 선수 (1957년 사망)"
   },
   {
    "year": 1900,
@@ -7492,7 +7492,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "플로리에다 뱃슨, 미국 올림픽 허들 선수 (1996년 사망)"
   },
   {
    "year": 1900,
@@ -7507,7 +7507,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "헬렌 브래들리, 잉글랜드 화가 (1979년 사망)"
   },
   {
    "year": 1900,
@@ -7530,7 +7530,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "체스터 굴드, 미국 만화가이자 작가, 딕 트레이시를 창작했다 (1985년 사망)"
   },
   {
    "year": 1899,
@@ -7545,7 +7545,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "알리차 코토프스카, 폴란드 수녀 (1939년 사망)"
   },
   {
    "year": 1898,
@@ -7560,7 +7560,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "리치먼드 랜던, 미국 높이뛰기 선수 (1971년 사망)"
   },
   {
    "year": 1898,
@@ -7575,7 +7575,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "아드리안 피오트로프스키, 러시아 극작가 (1937년 사망)"
   },
   {
    "year": 1897,
@@ -7590,7 +7590,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": null
+   "text_ko": "제르멘 크룰, 독일 사진작가이자 정치 운동가 (1985년 사망)"
   },
   {
    "year": 1896,
@@ -11026,8 +11026,8 @@
      "description": "Afro-Brazilian freed slave; king of Quilombo dos Palmares (r. 1680–95)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg/330px-Ant%C3%B4nio_Parreiras_-_Zumbi_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Zumbi",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "중비",
+     "description_ko": "아프리카계 브라질인 해방 노예; 킬롬부 두스 팔마레스의 왕 (재위 1680–95)"
     }
    ],
    "text_ko": "줌비, 브라질의 왕 (1655년 출생)"
@@ -11267,8 +11267,8 @@
      "description": "German Roman Catholic bishop (960–1022)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Bernwardst%C3%BCr.jpg/330px-Bernwardst%C3%BCr.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Bernward_of_Hildesheim",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "힐데스하임의 베른바르트",
+     "description_ko": "독일 로마 가톨릭 주교 (960–1022)"
     }
    ],
    "text_ko": "힐데스하임의 베른바르트, 독일의 주교 (960년경 출생)"
@@ -11327,8 +11327,8 @@
      "description": "King of East Anglia from about 855 until 869",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Edmundbeingmartyred05.jpg/330px-Edmundbeingmartyred05.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Edmund_the_Martyr",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "순교자 에드먼드",
+     "description_ko": "약 855년부터 869년까지 이스트앵글리아의 왕"
     }
    ],
    "text_ko": "순교왕 에드먼드, 잉글랜드의 왕 (841년 출생)"
