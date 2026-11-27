@@ -1,14 +1,14 @@
 {
  "date": "2026-11-27",
- "generated_at": "2026-11-27T08:11:00Z",
+ "generated_at": "2026-11-27T11:53:00Z",
  "source": "Wikipedia (en) — On this day",
  "translation": {
   "models": [
    "gemini-2.5-flash"
   ],
-  "translated": 848,
+  "translated": 968,
   "total": 968,
-  "complete": false
+  "complete": true
  },
  "selected": [
   {
@@ -20,15 +20,15 @@
      "description": "Iranian nuclear physicist (1961–2020)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mohsen_Fakhrizadeh_7.jpg/330px-Mohsen_Fakhrizadeh_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "모센 파크리자데",
+     "description_ko": "이란의 핵 물리학자 (1961년~2020년)"
     },
     {
      "title": "Nuclear program of Iran",
      "description": "",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/IranSites.png/330px-IranSites.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nuclear_program_of_Iran",
-     "title_ko": null,
+     "title_ko": "이란의 핵 프로그램",
      "description_ko": null
     },
     {
@@ -36,11 +36,11 @@
      "description": "National intelligence agency of Israel",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Mossad_seal.svg/330px-Mossad_seal.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mossad",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "모사드",
+     "description_ko": "이스라엘의 국가 정보 기관"
     }
    ],
-   "text_ko": null
+   "text_ko": "이란 핵 프로그램의 수장으로 여겨지는 핵 물리학자 모센 파크리자데가 모사드에 의해 암살당했다."
   },
   {
    "year": 2009,
@@ -51,11 +51,11 @@
      "description": "Bombing of a high speed train travelling between Moscow and Saint Petersburg",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ru-nrg-okulovsky_loc.svg/330px-Ru-nrg-okulovsky_loc.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2009_Nevsky_Express_bombing",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2009년 넵스키 익스프레스 폭탄 테러",
+     "description_ko": "모스크바와 상트페테르부르크 사이를 운행하던 고속 열차 폭탄 테러"
     }
    ],
-   "text_ko": null
+   "text_ko": "모스크바와 상트페테르부르크 사이를 운행하던 러시아 고속 열차 아래에서 폭탄이 터져 열차가 탈선했고, 승객 28명이 사망했다."
   },
   {
    "year": 2009,
@@ -66,19 +66,19 @@
      "description": "American singer, songwriter and actress (born 1986)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg/330px-Lady_Gaga_at_Joe_Biden%27s_inauguration_%28cropped_5%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Lady_Gaga",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "레이디 가가",
+     "description_ko": "미국의 가수, 작곡가, 배우 (1986년 출생)"
     },
     {
      "title": "The Monster Ball Tour",
      "description": "2009–11 concert tour by Lady Gaga",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/b/b0/Monsterballtourgaga.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/The_Monster_Ball_Tour",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "더 몬스터 볼 투어",
+     "description_ko": "레이디 가가의 2009년~2011년 콘서트 투어"
     }
    ],
-   "text_ko": null
+   "text_ko": "레이디 가가가 더 몬스터 볼 투어의 첫 콘서트를 열었고, 이 투어는 데뷔 헤드라이닝 아티스트 역사상 가장 높은 수익을 올린 투어가 되었다."
   },
   {
    "year": 2001,
@@ -89,35 +89,35 @@
      "description": "Chemical element with atomic number 11 (Na)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Na_%28Sodium%29.jpg/330px-Na_%28Sodium%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Sodium",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "나트륨",
+     "description_ko": "원자 번호 11번의 화학 원소 (Na)"
     },
     {
      "title": "Exoplanet",
      "description": "Planet outside of the Solar System",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hr8799_orbit_hd.gif/330px-Hr8799_orbit_hd.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Exoplanet",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "외계 행성",
+     "description_ko": "태양계 밖의 행성"
     },
     {
      "title": "HD 209458 b",
      "description": "Gas giant exoplanet orbiting HD 209458",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Exoplanet_Comparison_HD_209458_b.png/330px-Exoplanet_Comparison_HD_209458_b.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/HD_209458_b",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "HD 209458 b",
+     "description_ko": "HD 209458을 공전하는 가스형 외계 행성"
     },
     {
      "title": "Extraterrestrial atmosphere",
      "description": "Area of astronomical research",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Solar_sys.jpg/330px-Solar_sys.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Extraterrestrial_atmosphere",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "외계 대기",
+     "description_ko": "천문학 연구 분야"
     }
    ],
-   "text_ko": null
+   "text_ko": "천문학자들이 외계 행성 HD 209458 b의 대기에서 나트륨을 감지했다고 발표했는데, 이는 측정된 최초의 외계 행성 대기였다."
   },
   {
    "year": 1999,
@@ -128,35 +128,35 @@
      "description": "Centre-left political party in New Zealand",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/New_Zealand_Labour_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뉴질랜드 노동당",
+     "description_ko": "뉴질랜드의 중도좌파 정당"
     },
     {
      "title": "New Zealand National Party",
      "description": "Centre-right political party in New Zealand",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/New_Zealand_National_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뉴질랜드 국민당",
+     "description_ko": "뉴질랜드의 중도우파 정당"
     },
     {
      "title": "1999 New Zealand general election",
      "description": "General election in New Zealand",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Helen_Clark_2.jpg/330px-Helen_Clark_2.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/1999_New_Zealand_general_election",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1999년 뉴질랜드 총선",
+     "description_ko": "뉴질랜드 총선"
     },
     {
      "title": "Helen Clark",
      "description": "Prime Minister of New Zealand from 1999 to 2008",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Helen_Clark_official_photo_%28cropped%29.jpg/330px-Helen_Clark_official_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Helen_Clark",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헬렌 클라크",
+     "description_ko": "1999년부터 2008년까지 뉴질랜드 총리"
     }
    ],
-   "text_ko": null
+   "text_ko": "뉴질랜드 총선에서 노동당이 집권 국민당을 물리쳤고, 노동당의 헬렌 클라크는 선거에서 당선된 뉴질랜드 최초의 여성 총리가 되었다."
   },
   {
    "year": 1989,
@@ -167,27 +167,27 @@
      "description": "Former Colombian drug cartel",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "메데인 카르텔",
+     "description_ko": "콜롬비아의 옛 마약 카르텔"
     },
     {
      "title": "César Gaviria",
      "description": "President of Colombia from 1990 to 1994",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/C%C3%A9sar_Gaviria.jpg/330px-C%C3%A9sar_Gaviria.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/C%C3%A9sar_Gaviria",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "세사르 가비리아",
+     "description_ko": "1990년부터 1994년까지 콜롬비아 대통령"
     },
     {
      "title": "Avianca Flight 203",
      "description": "1989 airliner bombing in Colombia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Avianca_Boeing_727-21_HK-1803.jpg/330px-Avianca_Boeing_727-21_HK-1803.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Avianca_Flight_203",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아비앙카 항공 203편",
+     "description_ko": "1989년 콜롬비아 여객기 폭탄 테러"
     }
    ],
-   "text_ko": null
+   "text_ko": "메데인 카르텔이 콜롬비아 대통령 후보 세사르 가비리아를 살해하려던 시도로 설치한 폭탄이 아비앙카 항공 203편을 파괴하여 탑승자 107명 전원이 사망했지만, 가비리아는 비행기에 탑승하지 않아 화를 면했다."
   },
   {
    "year": 1963,
@@ -198,35 +198,35 @@
      "description": "President of the United States from 1963 to 1969",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/330px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "린든 B. 존슨",
+     "description_ko": "1963년부터 1969년까지 미국 대통령"
     },
     {
      "title": "Let Us Continue",
      "description": "1963 speech by U.S. President Lyndon B. Johnson",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/Lyndon_B._Johnson_delivering_%22Let_Us_Continue%22_speech_%28cropped%29.png/330px-Lyndon_B._Johnson_delivering_%22Let_Us_Continue%22_speech_%28cropped%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Let_Us_Continue",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "계속하자",
+     "description_ko": "1963년 린든 B. 존슨 미국 대통령의 연설"
     },
     {
      "title": "United States Congress",
      "description": "Bicameral legislature of the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Greater_coat_of_arms_of_the_United_States.svg/330px-Greater_coat_of_arms_of_the_United_States.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/United_States_Congress",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 의회",
+     "description_ko": "미국의 양원제 입법부"
     },
     {
      "title": "Assassination of John F. Kennedy",
      "description": "1963 assassination in Dallas, Texas",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/JFK_Motorcade_GettyImages-517330536.jpg/330px-JFK_Motorcade_GettyImages-517330536.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Assassination_of_John_F._Kennedy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "존 F. 케네디 암살",
+     "description_ko": "1963년 텍사스주 댈러스에서 발생한 암살 사건"
     }
    ],
-   "text_ko": null
+   "text_ko": "린든 B. 존슨 대통령은 존 F. 케네디 암살 5일 후 미국 의회 합동 회의에서 시민권 법안과 국가 통합을 옹호하는 '계속하자' 연설을 했다."
   },
   {
    "year": 1950,
@@ -237,27 +237,27 @@
      "description": "1950–1953 conflict on the Korean Peninsula",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Korean_War",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "한국 전쟁",
+     "description_ko": "1950년~1953년 한반도 분쟁"
     },
     {
      "title": "People's Volunteer Army",
      "description": "Communist Chinese forces during the Korean War",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E8%83%B8%E7%AB%A0.svg/330px-%E4%B8%AD%E5%9B%BD%E4%BA%BA%E6%B0%91%E5%BF%97%E6%84%BF%E5%86%9B%E8%83%B8%E7%AB%A0.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/People's_Volunteer_Army",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "인민지원군",
+     "description_ko": "한국 전쟁 당시 중국 공산군"
     },
     {
      "title": "Battle of Chosin Reservoir",
      "description": "1950 Korean War battle",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Chosin.jpg/330px-Chosin.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_Chosin_Reservoir",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "장진호 전투",
+     "description_ko": "1950년 한국 전쟁 전투"
     }
    ],
-   "text_ko": null
+   "text_ko": "한국 전쟁: 중국 인민지원군이 유엔군에 대한 여러 차례 공격을 시작하며 장진호 전투가 시작되었다."
   },
   {
    "year": 1945,
@@ -268,19 +268,19 @@
      "description": "International humanitarian agency",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_CARE_vertical.svg/330px-Logo_CARE_vertical.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/CARE_International",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "CARE 인터내셔널",
+     "description_ko": "국제 인도주의 기관"
     },
     {
      "title": "Aftermath of World War II",
      "description": "Events after the end of the war in 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Defendants_in_the_dock_at_nuremberg_trials.jpg/330px-Defendants_in_the_dock_at_nuremberg_trials.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Aftermath_of_World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전의 여파",
+     "description_ko": "1945년 전쟁 종료 이후의 사건들"
     }
    ],
-   "text_ko": null
+   "text_ko": "22개 미국 자선 단체 연합이 제2차 세계 대전 이후 유럽에 식량 원조를 제공하는 임무를 가지고 CARE를 설립했다."
   },
   {
    "year": 1944,
@@ -291,27 +291,27 @@
      "description": "1944 military accident in Staffordshire, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aerial_view_of_the_RAF_Fauld_explosion_crater_4_December_1944.jpg/330px-Aerial_view_of_the_RAF_Fauld_explosion_crater_4_December_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/RAF_Fauld_explosion",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "RAF 폴드 폭발",
+     "description_ko": "1944년 잉글랜드 스태퍼드셔에서 발생한 군사 사고"
     },
     {
      "title": "RAF Fauld",
      "description": "Former Royal Air Force munitions storage location in Staffordshire, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/RAF_Fauld_tunnel_bombs.jpg/330px-RAF_Fauld_tunnel_bombs.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/RAF_Fauld",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "RAF 폴드",
+     "description_ko": "잉글랜드 스태퍼드셔의 옛 영국 공군 탄약 저장소"
     },
     {
      "title": "Largest artificial non-nuclear explosions",
      "description": "List of large explosions",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Largest_artificial_non-nuclear_explosions",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "가장 큰 인공 비핵 폭발",
+     "description_ko": "대규모 폭발 목록"
     }
    ],
-   "text_ko": null
+   "text_ko": "영국에서 가장 큰 비핵 폭발인 RAF 폴드 지하 탄약 저장고에서 3,500톤에서 4,000톤의 탄약이 폭발했다."
   },
   {
    "year": 1943,
@@ -322,19 +322,19 @@
      "description": "Global conflict from 1939 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전",
+     "description_ko": "1939년부터 1945년까지의 세계 분쟁"
     },
     {
      "title": "Battle of Wareo",
      "description": "Part of the Huon Peninsula campaign of World War II",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/AWM_061687_2_23rd_Bn_capture_of_Wareo_9_December_1943.jpg/330px-AWM_061687_2_23rd_Bn_capture_of_Wareo_9_December_1943.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_Wareo",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "와레오 전투",
+     "description_ko": "제2차 세계 대전 후온 반도 전역의 일부"
     }
    ],
-   "text_ko": null
+   "text_ko": "제2차 세계 대전: 호주군이 봉가와 노스 힐 사이에서 소탕 작전을 수행하며 와레오 전투를 시작했다."
   },
   {
    "year": 1895,
@@ -345,19 +345,19 @@
      "description": "Swedish chemist and inventor (1833–1896)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/330px-Alfred_Nobel3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Alfred_Nobel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "알프레드 노벨",
+     "description_ko": "스웨덴의 화학자이자 발명가 (1833년~1896년)"
     },
     {
      "title": "Nobel Prize",
      "description": "Prizes established by Alfred Nobel in 1895",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/330px-Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nobel_Prize",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "노벨상",
+     "description_ko": "1895년 알프레드 노벨이 제정한 상"
     }
    ],
-   "text_ko": null
+   "text_ko": "스웨덴의 화학자이자 기업가인 알프레드 노벨(사진)이 유언장을 작성하여 사망 후 노벨상 설립을 위해 재산의 대부분을 남겼다."
   },
   {
    "year": 1868,
@@ -368,67 +368,67 @@
      "description": "Frontier conflicts in the United States, 1609–1890s",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 인디언 전쟁",
+     "description_ko": "1609년~1890년대 미국의 변경 분쟁"
     },
     {
      "title": "George Armstrong Custer",
      "description": "United States cavalry commander (1839–1876)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Custer_Bvt_MG_Geo_A_1865_LC-BH831-365-crop.jpg/330px-Custer_Bvt_MG_Geo_A_1865_LC-BH831-365-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "조지 암스트롱 커스터",
+     "description_ko": "미국 기병대 사령관 (1839년~1876년)"
     },
     {
      "title": "7th Cavalry Regiment",
      "description": "United States Army cavalry regiment",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/7th_Cavalry_Regiment_%28USA%29.png/330px-7th_Cavalry_Regiment_%28USA%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/7th_Cavalry_Regiment",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제7기병연대",
+     "description_ko": "미국 육군 기병연대"
     },
     {
      "title": "Battle of the Washita River",
      "description": "U.S. Cavalry attack on Plains Indian camp",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Seventh_Cavalry_Charging_Black_Kettle_s_Village_1868.jpg/330px-Seventh_Cavalry_Charging_Black_Kettle_s_Village_1868.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Washita_River",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "와시타 강 전투",
+     "description_ko": "미국 기병대의 평원 인디언 야영지 공격"
     },
     {
      "title": "Black Kettle",
      "description": "Leader of the Southern Cheyenne",
      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/0/03/Chief_Black_Kettle.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
      "url": "https://en.wikipedia.org/wiki/Black_Kettle",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "블랙 케틀",
+     "description_ko": "남부 샤이엔족의 지도자"
     },
     {
      "title": "Cheyenne",
      "description": "Indigenous tribe originating from the Great Plains and Great Lakes of the U.S.",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gilcrease_-_Cheyenne_Beaded_Dress.jpg/330px-Gilcrease_-_Cheyenne_Beaded_Dress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Cheyenne",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "샤이엔족",
+     "description_ko": "미국 대평원과 오대호 지역에서 유래한 원주민 부족"
     },
     {
      "title": "Washita River",
      "description": "River in the United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Washita_River_Hemphill_County_Texas.jpg/330px-Washita_River_Hemphill_County_Texas.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Washita_River",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "와시타 강",
+     "description_ko": "미국의 강"
     },
     {
      "title": "Cheyenne, Oklahoma",
      "description": "Town in Oklahoma, United States",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Cheyenne_Oklahoma_Town_Center.jpg/330px-Cheyenne_Oklahoma_Town_Center.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Cheyenne%2C_Oklahoma",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "샤이엔, 오클라호마",
+     "description_ko": "미국 오클라호마주의 도시"
     }
    ],
-   "text_ko": null
+   "text_ko": "미국 인디언 전쟁: 조지 암스트롱 커스터의 제7기병연대가 오늘날 오클라호마주 샤이엔 근처 와시타 강변에 있는 블랙 케틀 추장과 샤이엔족의 야영지를 공격했다."
   },
   {
    "year": 1856,
@@ -439,27 +439,27 @@
      "description": "King of the Netherlands from 1849 to 1890",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg/330px-Portret_koning_Willem_III_door_Maria_Hille_HGA001008802_%28uitsnede%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/William_III_of_the_Netherlands",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "네덜란드의 빌럼 3세",
+     "description_ko": "1849년부터 1890년까지 네덜란드 국왕"
     },
     {
      "title": "Luxembourg coup of 1856",
      "description": "1856 reactionary revision of Luxembourg's constitution",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Willem_III_%281817-90%29%2C_koning_der_Nederlanden%2C_Nicolaas_Pieneman%2C_1856_-_Rijksmuseum.jpg/330px-Willem_III_%281817-90%29%2C_koning_der_Nederlanden%2C_Nicolaas_Pieneman%2C_1856_-_Rijksmuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Luxembourg_coup_of_1856",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1856년 룩셈부르크 쿠데타",
+     "description_ko": "1856년 룩셈부르크 헌법의 반동적 개정"
     },
     {
      "title": "Constitution of Luxembourg",
      "description": "Supreme law of the Grand Duchy of Luxembourg",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Constitution_GD_Luxembourg_revis%C3%A9e_1868-10-17_Excerpt_Title_and_Article_1.tiff/lossless-page1-330px-Constitution_GD_Luxembourg_revis%C3%A9e_1868-10-17_Excerpt_Title_and_Article_1.tiff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Constitution_of_Luxembourg",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "룩셈부르크 헌법",
+     "description_ko": "룩셈부르크 대공국의 최고 법률"
     }
    ],
-   "text_ko": null
+   "text_ko": "빌럼 3세(사진)가 룩셈부르크 헌법을 일방적으로 개정하여 대공으로서의 권한을 크게 확대했다."
   },
   {
    "year": 1835,
@@ -470,19 +470,19 @@
      "description": "Last people to be executed for sodomy in England",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/James_Pratt_and_John_Smith",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제임스 프랫과 존 스미스",
+     "description_ko": "영국에서 소도미죄로 처형된 마지막 인물"
     },
     {
      "title": "Sodomy",
      "description": "Anal or oral sex with people, any sex with an animal, non-procreative sex",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Men_engaging_in_anal_sex%2C_Safavid_painting%2C_1720.jpg/330px-Men_engaging_in_anal_sex%2C_Safavid_painting%2C_1720.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Sodomy",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "소도미",
+     "description_ko": "사람과의 항문 또는 구강 성교, 동물과의 모든 성교, 비생식적 성교"
     }
    ],
-   "text_ko": null
+   "text_ko": "제임스 프랫과 존 스미스가 영국에서 소도미죄로 처형된 마지막 인물이 되었다."
   },
   {
    "year": 1703,
@@ -493,35 +493,35 @@
      "description": "English extratropical cyclone",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/British_fleet_sinking_in_the_sea_during_the_Great_Storm_in_1703_%28cropped%29.jpg/330px-British_fleet_sinking_in_the_sea_during_the_Great_Storm_in_1703_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Great_storm_of_1703",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1703년 대폭풍",
+     "description_ko": "영국의 온대성 저기압"
     },
     {
      "title": "Great Britain",
      "description": "Island northwest of continental Europe",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg/330px-MODIS_-_Great_Britain_-_2012-06-04_during_heat_wave_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Great_Britain",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "그레이트브리튼섬",
+     "description_ko": "유럽 대륙 북서쪽의 섬"
     },
     {
      "title": "Eddystone Lighthouse",
      "description": "Lighthouse in Cornwall, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Eddystonelighthouse.jpg/330px-Eddystonelighthouse.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Eddystone_Lighthouse",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "에디스톤 등대",
+     "description_ko": "잉글랜드 콘월주의 등대"
     },
     {
      "title": "Plymouth",
      "description": "City and unitary authority in Devon, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Plymouth_City.JPG/330px-Plymouth_City.JPG?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Plymouth",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "플리머스",
+     "description_ko": "잉글랜드 데번주의 도시이자 단일 자치구"
     }
    ],
-   "text_ko": null
+   "text_ko": "남부 영국을 강타한 가장 심각한 폭풍 중 하나인 1703년 대폭풍이 플리머스 앞바다의 첫 에디스톤 등대를 파괴했다."
   },
   {
    "year": 1161,
@@ -532,16 +532,16 @@
      "description": "1125–1234 Jurchen campaigns in China",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Jin_Dynasty_1141_%28no_borders%29.png/330px-Jin_Dynasty_1141_%28no_borders%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Jin%E2%80%93Song_wars",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "금송 전쟁",
+     "description_ko": "1125년~1234년 중국의 여진족 전역"
     },
     {
      "title": "Song dynasty",
      "description": "Imperial dynasty of China (960–1279)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/China_-_Song_Dynasty-en.svg/330px-China_-_Song_Dynasty-en.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Song_dynasty",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "송나라",
+     "description_ko": "중국의 제국 왕조 (960년~1279년)"
     },
     {
      "title": "Trebuchet",
@@ -584,7 +584,7 @@
      "description_ko": "아시아에서 가장 긴 강"
     }
    ],
-   "text_ko": null
+   "text_ko": "금송 전쟁: 소이탄을 발사하는 투석기를 장착한 송나라 함대가 양쯔강 해전에서 금나라 함대를 격파했다."
   }
  ],
  "events": [
@@ -636,8 +636,8 @@
      "description": "Iranian nuclear physicist (1961–2020)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mohsen_Fakhrizadeh_7.jpg/330px-Mohsen_Fakhrizadeh_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "모센 파크리자데",
+     "description_ko": "이란의 핵 물리학자 (1961년~2020년)"
     },
     {
      "title": "Tehran",
@@ -713,8 +713,8 @@
      "description": "Bombing of a high speed train travelling between Moscow and Saint Petersburg",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Ru-nrg-okulovsky_loc.svg/330px-Ru-nrg-okulovsky_loc.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/2009_Nevsky_Express_bombing",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "2009년 넵스키 익스프레스 폭탄 테러",
+     "description_ko": "모스크바와 상트페테르부르크 사이를 운행하던 고속 열차 폭탄 테러"
     },
     {
      "title": "Nevsky Express",
@@ -916,16 +916,16 @@
      "description": "Planet outside of the Solar System",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Hr8799_orbit_hd.gif/330px-Hr8799_orbit_hd.gif?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Exoplanet",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "외계 행성",
+     "description_ko": "태양계 밖의 행성"
     },
     {
      "title": "HD 209458 b",
      "description": "Gas giant exoplanet orbiting HD 209458",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Exoplanet_Comparison_HD_209458_b.png/330px-Exoplanet_Comparison_HD_209458_b.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/HD_209458_b",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "HD 209458 b",
+     "description_ko": "HD 209458을 공전하는 가스형 외계 행성"
     },
     {
      "title": "Hubble Space Telescope",
@@ -947,8 +947,8 @@
      "description": "Centre-left political party in New Zealand",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/New_Zealand_Labour_Party",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "뉴질랜드 노동당",
+     "description_ko": "뉴질랜드의 중도좌파 정당"
     },
     {
      "title": "New Zealand",
@@ -963,8 +963,8 @@
      "description": "Prime Minister of New Zealand from 1999 to 2008",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Helen_Clark_official_photo_%28cropped%29.jpg/330px-Helen_Clark_official_photo_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Helen_Clark",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "헬렌 클라크",
+     "description_ko": "1999년부터 2008년까지 뉴질랜드 총리"
     }
    ],
    "text_ko": "중도 좌파 노동당이 뉴질랜드 정부를 장악했고, 헬렌 클라크 당수는 뉴질랜드 역사상 최초의 선출된 여성 총리가 되었다."
@@ -1032,8 +1032,8 @@
      "description": "1989 airliner bombing in Colombia",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Avianca_Boeing_727-21_HK-1803.jpg/330px-Avianca_Boeing_727-21_HK-1803.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Avianca_Flight_203",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "아비앙카 항공 203편",
+     "description_ko": "1989년 콜롬비아 여객기 폭탄 테러"
     },
     {
      "title": "Boeing 727",
@@ -1056,8 +1056,8 @@
      "description": "Former Colombian drug cartel",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/Medell%C3%ADn_Cartel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "메데인 카르텔",
+     "description_ko": "콜롬비아의 옛 마약 카르텔"
     }
    ],
    "text_ko": "아비앙카 항공 203편: 콜롬비아 상공에서 보잉 727이 공중 폭발하여 탑승자 107명 전원과 지상에 있던 3명이 사망했다. 메데인 카르텔이 공격의 책임을 주장했다."
@@ -1430,8 +1430,8 @@
      "description": "President of the United States from 1963 to 1969",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg/330px-Lyndon_B._Johnson%2C_photo_portrait%2C_color_%283x4_cropped%29%282%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Lyndon_B._Johnson",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "린든 B. 존슨",
+     "description_ko": "1963년부터 1969년까지 미국 대통령"
     },
     {
      "title": "Vietnam",
@@ -1476,8 +1476,8 @@
      "description": "International humanitarian agency",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Logo_CARE_vertical.svg/330px-Logo_CARE_vertical.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/CARE_International",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "CARE 인터내셔널",
+     "description_ko": "국제 인도주의 기관"
     },
     {
      "title": "CARE Package",
@@ -1499,8 +1499,8 @@
      "description": "1944 military accident in Staffordshire, England",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Aerial_view_of_the_RAF_Fauld_explosion_crater_4_December_1944.jpg/330px-Aerial_view_of_the_RAF_Fauld_explosion_crater_4_December_1944.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/RAF_Fauld_explosion",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "RAF 폴드 폭발",
+     "description_ko": "1944년 잉글랜드 스태퍼드셔에서 발생한 군사 사고"
     },
     {
      "title": "Royal Air Force",
@@ -1600,8 +1600,8 @@
      "description": "Global conflict from 1939 to 1945",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg/330px-Bundesarchiv_Bild_101I-646-5188-17%2C_Flugzeuge_Junkers_Ju_87.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/World_War_II",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제2차 세계 대전",
+     "description_ko": "1939년부터 1945년까지의 세계 분쟁"
     },
     {
      "title": "Battle of Cape Spartivento",
@@ -1777,8 +1777,8 @@
      "description": "Swedish chemist and inventor (1833–1896)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/07/Alfred_Nobel3.jpg/330px-Alfred_Nobel3.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Alfred_Nobel",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "알프레드 노벨",
+     "description_ko": "스웨덴의 화학자이자 발명가 (1833년~1896년)"
     },
     {
      "title": "Will and testament",
@@ -1793,8 +1793,8 @@
      "description": "Prizes established by Alfred Nobel in 1895",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/en/thumb/e/ed/Nobel_Prize.png/330px-Nobel_Prize.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Nobel_Prize",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "노벨상",
+     "description_ko": "1895년 알프레드 노벨이 제정한 상"
     }
    ],
    "text_ko": "파리의 스웨덴-노르웨이 클럽에서 알프레드 노벨이 사망 후 노벨상 제정을 위해 자신의 재산을 할애하는 유언장에 서명했다."
@@ -1879,16 +1879,16 @@
      "description": "Frontier conflicts in the United States, 1609–1890s",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg/330px-U.S._Army-Cavalry_Pursuing_Indians-1876_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/American_Indian_Wars",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "미국 인디언 전쟁",
+     "description_ko": "1609년~1890년대 미국의 변경 분쟁"
     },
     {
      "title": "Battle of the Washita River",
      "description": "U.S. Cavalry attack on Plains Indian camp",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Seventh_Cavalry_Charging_Black_Kettle_s_Village_1868.jpg/330px-Seventh_Cavalry_Charging_Black_Kettle_s_Village_1868.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Battle_of_the_Washita_River",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "와시타 강 전투",
+     "description_ko": "미국 기병대의 평원 인디언 야영지 공격"
     },
     {
      "title": "United States Army",
@@ -1911,16 +1911,16 @@
      "description": "United States cavalry commander (1839–1876)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Custer_Bvt_MG_Geo_A_1865_LC-BH831-365-crop.jpg/330px-Custer_Bvt_MG_Geo_A_1865_LC-BH831-365-crop.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/George_Armstrong_Custer",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "조지 암스트롱 커스터",
+     "description_ko": "미국 기병대 사령관 (1839년~1876년)"
     },
     {
      "title": "Cheyenne",
      "description": "Indigenous tribe originating from the Great Plains and Great Lakes of the U.S.",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Gilcrease_-_Cheyenne_Beaded_Dress.jpg/330px-Gilcrease_-_Cheyenne_Beaded_Dress.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Cheyenne",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "샤이엔족",
+     "description_ko": "미국 대평원과 오대호 지역에서 유래한 원주민 부족"
     }
    ],
    "text_ko": "미국 인디언 전쟁: 와시타강 전투: 미국 육군 중령 조지 암스트롱 커스터가 보호구역에 거주하는 샤이엔족에 대한 공격을 이끌었다."
@@ -2020,8 +2020,8 @@
      "description": "1856 reactionary revision of Luxembourg's constitution",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Willem_III_%281817-90%29%2C_koning_der_Nederlanden%2C_Nicolaas_Pieneman%2C_1856_-_Rijksmuseum.jpg/330px-Willem_III_%281817-90%29%2C_koning_der_Nederlanden%2C_Nicolaas_Pieneman%2C_1856_-_Rijksmuseum.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Luxembourg_coup_of_1856",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "1856년 룩셈부르크 쿠데타",
+     "description_ko": "1856년 룩셈부르크 헌법의 반동적 개정"
     },
     {
      "title": "Luxembourg",
@@ -2036,8 +2036,8 @@
      "description": "Supreme law of the Grand Duchy of Luxembourg",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Constitution_GD_Luxembourg_revis%C3%A9e_1868-10-17_Excerpt_Title_and_Article_1.tiff/lossless-page1-330px-Constitution_GD_Luxembourg_revis%C3%A9e_1868-10-17_Excerpt_Title_and_Article_1.tiff.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Constitution_of_Luxembourg",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "룩셈부르크 헌법",
+     "description_ko": "룩셈부르크 대공국의 최고 법률"
     }
    ],
    "text_ko": "1856년 쿠데타로 룩셈부르크는 일방적으로 새로운 반동적 헌법을 채택했다."
@@ -2105,8 +2105,8 @@
      "description": "Last people to be executed for sodomy in England",
      "thumbnail": null,
      "url": "https://en.wikipedia.org/wiki/James_Pratt_and_John_Smith",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "제임스 프랫과 존 스미스",
+     "description_ko": "영국에서 소도미죄로 처형된 마지막 인물"
     }
    ],
    "text_ko": "제임스 프랫과 존 스미스가 런던에서 교수형에 처해졌다. 이들은 영국에서 동성애로 처형된 마지막 두 명이다."
@@ -2400,7 +2400,7 @@
   },
   {
    "year": 602,
-   "text": "Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently burried at the monastery of St. Mamas.",
+   "text": "Byzantine Emperor Maurice and his sons are beheaded by officers of the usurper Phocas and subsequently buried at the monastery of St. Mamas.",
    "pages": [
     {
      "title": "Byzantine Empire",
@@ -2443,7 +2443,7 @@
      "description_ko": null
     }
    ],
-   "text_ko": "비잔티움 황제 마우리키우스와 그의 아들들이 찬탈자 포카스의 장교들에게 참수당하고 성 마마스 수도원에 묻혔다."
+   "text_ko": "비잔티움 황제 마우로스와 그의 아들들이 찬탈자 포카스의 장교들에게 참수당했고, 이후 성 마마스 수도원에 묻혔다."
   },
   {
    "year": 511,
@@ -6943,8 +6943,8 @@
      "description": "Iranian nuclear physicist (1961–2020)",
      "thumbnail": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Mohsen_Fakhrizadeh_7.jpg/330px-Mohsen_Fakhrizadeh_7.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
      "url": "https://en.wikipedia.org/wiki/Mohsen_Fakhrizadeh",
-     "title_ko": null,
-     "description_ko": null
+     "title_ko": "모센 파크리자데",
+     "description_ko": "이란의 핵 물리학자 (1961년~2020년)"
     }
    ],
    "text_ko": "이란 핵 과학자 모센 파크리자데 (1958년 출생)"
